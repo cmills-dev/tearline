@@ -40,9 +40,14 @@ Other scripts:
 
 ```bash
 npm run build      # clean production build (all pages prerender)
-npm test           # 24 unit tests for ProseGate + the resolution ladder
+npm test           # the full suite: 1,362 tests (engine, ladder, ProseGate, sources, routes)
+npm run eval       # extraction eval against the gold set of real UK filings in eval/gold
 npm run start      # serve the production build
 ```
+
+## Evaluation
+
+`eval/gold` holds a gold set of 10 real UK company filings from Companies House, each with hand-checked figures. `npm run eval` extracts every field and compares it with the gold value. Where the printed figures do not reconcile (a maturity split that does not add to total borrowings, a column with no period), the engine abstains and says why, rather than guess. Abstentions are reported separately and are not counted as failures.
 
 ## Data honesty
 
