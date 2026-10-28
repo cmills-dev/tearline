@@ -1,0 +1,68 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "27",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2024-12-29",
+   "period_end_on": "2024-12-29",
+   "period_start_on": "2024-01-01",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2026-09-27",
+   "overdue": false,
+   "period_end_on": "2025-12-27",
+   "period_start_on": "2024-12-30"
+  },
+  "next_due": "2026-09-27",
+  "next_made_up_to": "2025-12-27",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "CINNAMON COLLECTION LIMITED",
+ "company_number": "09950317",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-03-31",
+  "next_due": "2027-04-14",
+  "next_made_up_to": "2027-03-31",
+  "overdue": false
+ },
+ "date_of_creation": "2016-01-13",
+ "etag": "bf0c15a31d565c61e449988be550c84aabf5b858",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/09950317/persons-with-significant-control",
+  "self": "/company/09950317",
+  "charges": "/company/09950317/charges",
+  "filing_history": "/company/09950317/filing-history",
+  "officers": "/company/09950317/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2016-03-07",
+   "effective_from": "2016-01-13",
+   "name": "BOPARAN RESTAURANTS HOLDINGS LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Colmore Court",
+  "address_line_2": "9 Colmore Row",
+  "country": "United Kingdom",
+  "locality": "Birmingham",
+  "postal_code": "B3 2BJ",
+  "region": "West Midlands"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "56101",
+  "70100"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

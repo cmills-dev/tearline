@@ -1,0 +1,72 @@
+{
+  "note": "Recorded Anthropic Messages API response for the second read of a frozen UK gold scan (WP-BE05): only the pages the first read cited were sent. No PDF bytes. Replayed offline.",
+  "kind": "second-read",
+  "companyNumber": "03558065",
+  "transactionId": "MzUxODk5OTExM2FkaXF6a2N4",
+  "folder": "03558065-2025-07-26",
+  "firstRead": "test/fixtures/vision/verify/03558065-first.json",
+  "pagesSent": [
+    57,
+    59,
+    90,
+    91
+  ],
+  "keysAsked": [
+    "turnover",
+    "operating_profit",
+    "depreciation_amortisation",
+    "interest_payable",
+    "profit_before_tax",
+    "cash_at_bank",
+    "borrowings_within_one_year",
+    "borrowings_after_one_year",
+    "lease_liabilities",
+    "net_assets",
+    "total_assets",
+    "current_liabilities",
+    "net_current_liabilities"
+  ],
+  "subsetBytes": 110171,
+  "schemaVersion": 4,
+  "promptVersion": "v4",
+  "recordedAt": "2026-09-27T22:29:31.676Z",
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUjU8tdqWTuYdA2NqHo8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"lines\":[{\"key\":\"turnover\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Turnover\",\"figure_text\":\"2,563.2\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"Total Operations\",\"header_rows_above\":[\"52 weeks ended 26 July 2025\"],\"period_end\":\"2025-07-26\",\"excerpt_page\":1,\"statement\":\"CONSOLIDATED PROFIT AND LOSS ACCOUNT FOR THE 52 WEEKS ENDED 26 JULY 2025\",\"basis\":\"consolidated\",\"basis_text\":\"CONSOLIDATED PROFIT AND LOSS ACCOUNT\"},{\"key\":\"operating_profit\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Operating profit\",\"figure_text\":\"122.7\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"Total Operations\",\"header_rows_above\":[\"52 weeks ended 26 July 2025\"],\"period_end\":\"2025-07-26\",\"excerpt_page\":1,\"statement\":\"CONSOLIDATED PROFIT AND LOSS ACCOUNT FOR THE 52 WEEKS ENDED 26 JULY 2025\",\"basis\":\"consolidated\",\"basis_text\":\"CONSOLIDATED PROFIT AND LOSS ACCOUNT\"},{\"key\":\"profit_before_tax\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Profit before taxation\",\"figure_text\":\"108.3\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"Total Operations\",\"header_rows_above\":[\"52 weeks ended 26 July 2025\"],\"period_end\":\"2025-07-26\",\"excerpt_page\":1,\"statement\":\"CONSOLIDATED PROFIT AND LOSS ACCOUNT FOR THE 52 WEEKS ENDED 26 JULY 2025\",\"basis\":\"consolidated\",\"basis_text\":\"CONSOLIDATED PROFIT AND LOSS ACCOUNT\"},{\"key\":\"cash_at_bank\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Cash at bank and in hand\",\"figure_text\":\"105.4\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"26 July 2025\",\"header_rows_above\":[],\"period_end\":\"2025-07-26\",\"excerpt_page\":2,\"statement\":\"CONSOLIDATED BALANCE SHEET AS AT 26 JULY 2025\",\"basis\":\"consolidated\",\"basis_text\":\"CONSOLIDATED BALANCE SHEET\"},{\"key\":\"borrowings_within_one_year\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Bond notes and other borrowings: Within one year or less or on demand (note 19)\",\"figure_text\":\"7.5\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"26 July 2025\",\"header_rows_above\":[],\"period_end\":\"2025-07-26\",\"excerpt_page\":4,\"statement\":\"21. BORROWINGS\",\"basis\":\"consolidated\",\"basis_text\":\"GROUP\"},{\"key\":\"borrowings_after_one_year\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Bond notes and other borrowings (note 21)\",\"figure_text\":\"381.6\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"26 July 2025\",\"header_rows_above\":[\"GROUP\"],\"period_end\":\"2025-07-26\",\"excerpt_page\":3,\"statement\":\"20. CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR\",\"basis\":\"consolidated\",\"basis_text\":\"GROUP\"},{\"key\":\"lease_liabilities_total\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Obligations under finance leases (note 23)\",\"figure_text\":\"0.2\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"26 July 2025\",\"header_rows_above\":[],\"period_end\":\"2025-07-26\",\"excerpt_page\":4,\"statement\":\"21. BORROWINGS\",\"basis\":\"consolidated\",\"basis_text\":\"GROUP\"},{\"key\":\"lease_liabilities_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Obligations under finance leases (note 21)\",\"figure_text\":\"0.2\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"26 July 2025\",\"header_rows_above\":[\"GROUP\"],\"period_end\":\"2025-07-26\",\"excerpt_page\":3,\"statement\":\"19. CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR\",\"basis\":\"consolidated\",\"basis_text\":\"GROUP\"},{\"key\":\"net_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Net liabilities\",\"figure_text\":\"(261.6)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"26 July 2025\",\"header_rows_above\":[],\"period_end\":\"2025-07-26\",\"excerpt_page\":2,\"statement\":\"CONSOLIDATED BALANCE SHEET AS AT 26 JULY 2025\",\"basis\":\"consolidated\",\"basis_text\":\"CONSOLIDATED BALANCE SHEET\"},{\"key\":\"current_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Creditors: amounts falling due within one year\",\"figure_text\":\"(341.7)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"26 July 2025\",\"header_rows_above\":[],\"period_end\":\"2025-07-26\",\"excerpt_page\":2,\"statement\":\"CONSOLIDATED BALANCE SHEET AS AT 26 JULY 2025\",\"basis\":\"consolidated\",\"basis_text\":\"CONSOLIDATED BALANCE SHEET\"},{\"key\":\"net_current_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Net current assets / ( liabilities)\",\"figure_text\":\"40.9\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"26 July 2025\",\"header_rows_above\":[],\"period_end\":\"2025-07-26\",\"excerpt_page\":2,\"statement\":\"CONSOLIDATED BALANCE SHEET AS AT 26 JULY 2025\",\"basis\":\"consolidated\",\"basis_text\":\"CONSOLIDATED BALANCE SHEET\"}],\"tie_lines\":[{\"role\":\"total_equity\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Shareholders' deficit\",\"figure_text\":\"(261.6)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"column_heading\":\"26 July 2025\",\"period_end\":\"2025-07-26\",\"excerpt_page\":2},{\"role\":\"total_liabilities\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"column_heading\":\"\",\"period_end\":\"\",\"excerpt_page\":0},{\"role\":\"current_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Current assets\",\"figure_text\":\"382.6\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"column_heading\":\"26 July 2025\",\"period_end\":\"2025-07-26\",\"excerpt_page\":2},{\"role\":\"borrowings_total\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total borrowings\",\"figure_text\":\"389.3\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"column_heading\":\"26 July 2025\",\"period_end\":\"2025-07-26\",\"excerpt_page\":4},{\"role\":\"net_debt\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"column_heading\":\"\",\"period_end\":\"\",\"excerpt_page\":0}]}"
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10319,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 3333,
+      "output_tokens_details": {
+        "thinking_tokens": 491
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "diagnostics": null
+  },
+  "gbp": 0.1079,
+  "pagesNote": "pagesSent, subsetBytes and gbp are the gold recording's second-read request (WP-BE14-LIVE-2): the pages the replayed first read cites, whose request fingerprint matches the recorded one. keysAsked is from the WP-BE05 recording and was not refreshed."
+}

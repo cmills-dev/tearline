@@ -1,0 +1,192 @@
+{
+ "items": [
+  {
+   "transaction_id": "MzQ4MzY4Mjc2M2FkaXF6a2N4",
+   "barcode": "XECETKQW",
+   "type": "AA",
+   "date": "2025-10-03",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-micro-entity",
+   "description_values": {
+    "made_up_date": "2025-01-31"
+   },
+   "pages": 3,
+   "action_date": "2025-01-31",
+   "links": {
+    "self": "/company/09563205/filing-history/MzQ4MzY4Mjc2M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/pvUDejGO4XEG_HcRaoaeLVNqBLx_5nVUdgxUuAkDLLM"
+   }
+  },
+  {
+   "transaction_id": "MzQzNjM2NzMzOWFkaXF6a2N4",
+   "barcode": "XDBXHBCX",
+   "type": "AA",
+   "date": "2024-09-18",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-micro-entity",
+   "description_values": {
+    "made_up_date": "2024-01-31"
+   },
+   "pages": 3,
+   "action_date": "2024-01-31",
+   "links": {
+    "self": "/company/09563205/filing-history/MzQzNjM2NzMzOWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/TPkOoSS3lJ1zJJk1oPKCFHpIBDhbDF8owkx-IqPDhfI"
+   }
+  },
+  {
+   "transaction_id": "MzM5NzkzNzI2M2FkaXF6a2N4",
+   "barcode": "XCEYB1HI",
+   "type": "AA",
+   "date": "2023-10-26",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-micro-entity",
+   "description_values": {
+    "made_up_date": "2023-01-31"
+   },
+   "pages": 3,
+   "action_date": "2023-01-31",
+   "links": {
+    "self": "/company/09563205/filing-history/MzM5NzkzNzI2M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/GOev-X9nzAqyPv8aoSlKBYgDtvZVDWaJqGYV7XsPAh0"
+   }
+  },
+  {
+   "transaction_id": "MzM1NzgwMDMyM2FkaXF6a2N4",
+   "barcode": "XBGC1S0B",
+   "type": "AA",
+   "date": "2022-11-08",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-dormant",
+   "description_values": {
+    "made_up_date": "2022-01-31"
+   },
+   "pages": 2,
+   "action_date": "2022-01-31",
+   "links": {
+    "self": "/company/09563205/filing-history/MzM1NzgwMDMyM2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/lO7itL6WfHtnA8PFMKMnHa7r0QBvBkE9YezBcuGg9ME"
+   }
+  },
+  {
+   "transaction_id": "MzMxNzU2NDgxOGFkaXF6a2N4",
+   "barcode": "XAFJ83KH",
+   "type": "AA",
+   "date": "2021-10-20",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-dormant",
+   "description_values": {
+    "made_up_date": "2021-01-31"
+   },
+   "pages": 2,
+   "action_date": "2021-01-31",
+   "links": {
+    "self": "/company/09563205/filing-history/MzMxNzU2NDgxOGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/lKEHy-74Rd2WUlwTvd3iBUYsZTB0u3TLHWhZ4Lo6fgY"
+   }
+  },
+  {
+   "transaction_id": "MzI4MTIxMjk0OGFkaXF6a2N4",
+   "barcode": "X9G3S1ZN",
+   "type": "AA",
+   "date": "2020-10-21",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-dormant",
+   "description_values": {
+    "made_up_date": "2020-01-31"
+   },
+   "pages": 2,
+   "action_date": "2020-01-31",
+   "links": {
+    "self": "/company/09563205/filing-history/MzI4MTIxMjk0OGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/ebcRqkODQiAD-oaE4-cXpmUfirN5lEi2dldPR6_v8q8"
+   }
+  },
+  {
+   "transaction_id": "MzI0NTQwNzc3OGFkaXF6a2N4",
+   "barcode": "X8EVAO5N",
+   "type": "AA",
+   "date": "2019-09-27",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-dormant",
+   "description_values": {
+    "made_up_date": "2019-01-31"
+   },
+   "pages": 2,
+   "action_date": "2019-01-31",
+   "links": {
+    "self": "/company/09563205/filing-history/MzI0NTQwNzc3OGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/X3-vfg0Upn_1TA8h4do-w49eclRpea_k1ZqzIWOf9YQ"
+   }
+  },
+  {
+   "transaction_id": "MzIwOTcwNTk3M2FkaXF6a2N4",
+   "barcode": "X7A2X4L6",
+   "type": "AA",
+   "date": "2018-07-13",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-dormant",
+   "description_values": {
+    "made_up_date": "2018-01-31"
+   },
+   "pages": 2,
+   "action_date": "2018-01-31",
+   "links": {
+    "self": "/company/09563205/filing-history/MzIwOTcwNTk3M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/_5je8SyMpV7VxqL3hhIzOccDsGaj9g4FPxs6NVMHGfI"
+   }
+  },
+  {
+   "transaction_id": "MzE4OTYyODUyMGFkaXF6a2N4",
+   "barcode": "X6IOPKE2",
+   "type": "AA",
+   "date": "2017-11-07",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-micro-entity",
+   "description_values": {
+    "made_up_date": "2017-01-31"
+   },
+   "pages": 2,
+   "action_date": "2017-01-31",
+   "links": {
+    "self": "/company/09563205/filing-history/MzE4OTYyODUyMGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/bZ-eQuhlFbvjZWT_V8YD3e2tOQZA407vROVbhIp9JPU"
+   }
+  },
+  {
+   "transaction_id": "MzE1OTA5NzM5MGFkaXF6a2N4",
+   "barcode": "X5H1OD8A",
+   "type": "AA",
+   "date": "2016-10-06",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-dormant",
+   "description_values": {
+    "made_up_date": "2016-01-31"
+   },
+   "pages": 2,
+   "action_date": "2016-01-31",
+   "links": {
+    "self": "/company/09563205/filing-history/MzE1OTA5NzM5MGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/H_Xup-HVtit705HKWb9tB9f693Unbo8xByFfesRxEaM"
+   }
+  },
+  {
+   "transaction_id": "MzEyMjcyMzMxM2FkaXF6a2N4",
+   "barcode": "X46WJPMJ",
+   "type": "AA01",
+   "date": "2015-05-07",
+   "category": "accounts",
+   "description": "change-account-reference-date-company-current-shortened",
+   "description_values": {
+    "made_up_date": "2016-04-30",
+    "new_date": "2016-01-31"
+   },
+   "pages": 1,
+   "action_date": "2016-01-31",
+   "links": {
+    "self": "/company/09563205/filing-history/MzEyMjcyMzMxM2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/B2ciM7a44HitKipbYNkbLn9AomBbr8YDzCfTGxxOMUA"
+   }
+  }
+ ]
+}

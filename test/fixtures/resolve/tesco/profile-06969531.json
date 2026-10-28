@@ -1,0 +1,61 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "26",
+   "month": "02"
+  },
+  "last_accounts": {
+   "made_up_to": "2026-02-28",
+   "period_end_on": "2026-02-28",
+   "period_start_on": "2025-02-23",
+   "type": "filing-exemption-subsidiary"
+  },
+  "next_accounts": {
+   "due_on": "2027-11-26",
+   "overdue": false,
+   "period_end_on": "2027-02-26",
+   "period_start_on": "2026-03-01"
+  },
+  "next_due": "2027-11-26",
+  "next_made_up_to": "2027-02-26",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "TESCO ATRATO (NOMINEE 1) LIMITED",
+ "company_number": "06969531",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-06-08",
+  "next_due": "2027-06-22",
+  "next_made_up_to": "2027-06-08",
+  "overdue": false
+ },
+ "date_of_creation": "2009-07-22",
+ "etag": "e8d2505a25018b2958ef114957fb7c9cb44fd3f3",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-06-08",
+ "links": {
+  "persons_with_significant_control": "/company/06969531/persons-with-significant-control",
+  "self": "/company/06969531",
+  "charges": "/company/06969531/charges",
+  "filing_history": "/company/06969531/filing-history",
+  "officers": "/company/06969531/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "Tesco House, Shire Park",
+  "address_line_2": "Kestrel Way",
+  "country": "United Kingdom",
+  "locality": "Welwyn Garden City",
+  "postal_code": "AL7 1GA"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "82990"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

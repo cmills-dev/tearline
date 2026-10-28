@@ -1,0 +1,55 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "03"
+  },
+  "last_accounts": {
+   "made_up_to": "2024-03-31",
+   "period_end_on": "2024-03-31",
+   "type": "audit-exemption-subsidiary"
+  }
+ },
+ "can_file": false,
+ "company_name": "BRISTOL WATER CORE HOLDINGS LIMITED",
+ "company_number": "04637554",
+ "company_status": "dissolved",
+ "confirmation_statement": {
+  "last_made_up_to": "2024-04-09"
+ },
+ "date_of_cessation": "2025-05-06",
+ "date_of_creation": "2003-01-15",
+ "etag": "20a4aa39c91749c96fdbefdd5c38d47e73b35ede",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-01-15",
+ "links": {
+  "persons_with_significant_control": "/company/04637554/persons-with-significant-control",
+  "self": "/company/04637554",
+  "charges": "/company/04637554/charges",
+  "filing_history": "/company/04637554/filing-history",
+  "officers": "/company/04637554/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2003-05-02",
+   "effective_from": "2003-01-15",
+   "name": "PRECIS (2332) LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Bristol Water Core Holdings Ltd",
+  "address_line_2": "Bridgwater Road",
+  "locality": "Bristol",
+  "postal_code": "BS13 7AT"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "64209"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

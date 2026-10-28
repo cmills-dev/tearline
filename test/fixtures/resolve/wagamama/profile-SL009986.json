@@ -1,0 +1,41 @@
+{
+ "accounts": {
+  "last_accounts": {
+   "type": "null"
+  }
+ },
+ "can_file": false,
+ "company_name": "DS MABEL LIMITED PARTNERSHIP",
+ "company_number": "SL009986",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2019-12-06"
+ },
+ "date_of_creation": "2011-12-07",
+ "etag": "a25f0d2faa25d2de03386384bd499dbd1c8ed480",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "scotland",
+ "links": {
+  "persons_with_significant_control": "/company/SL009986/persons-with-significant-control",
+  "self": "/company/SL009986",
+  "filing_history": "/company/SL009986/filing-history"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2012-01-05",
+   "effective_from": "2011-12-07",
+   "name": "DS WAGAMAMA LIMITED PARTNERSHIP"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "16 Charlotte Square",
+  "locality": "Edinburgh",
+  "postal_code": "EH2 4DF"
+ },
+ "registered_office_is_in_dispute": false,
+ "type": "limited-partnership",
+ "undeliverable_registered_office_address": true,
+ "has_super_secure_pscs": false
+}

@@ -1,0 +1,62 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-12-31",
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2025-01-01",
+   "type": "group"
+  },
+  "next_accounts": {
+   "due_on": "2027-06-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2026-01-01"
+  },
+  "next_due": "2027-06-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "JAMES FISHER AND SONS PUBLIC LIMITED COMPANY",
+ "company_number": "00211475",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-03-28",
+  "next_due": "2027-04-11",
+  "next_made_up_to": "2027-03-28",
+  "overdue": false
+ },
+ "date_of_creation": "1926-02-02",
+ "etag": "be0861d3f0427e6bf65e232d82ce4fa79718e797",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2011-05-24",
+ "links": {
+  "self": "/company/00211475",
+  "charges": "/company/00211475/charges",
+  "filing_history": "/company/00211475/filing-history",
+  "officers": "/company/00211475/officers",
+  "exemptions": "/company/00211475/exemptions"
+ },
+ "registered_office_address": {
+  "address_line_1": "Fisher House",
+  "address_line_2": "Michaelson Road",
+  "country": "United Kingdom",
+  "locality": "Barrow-In-Furness",
+  "postal_code": "LA14 1HR",
+  "region": "Cumbria"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "50200",
+  "70100"
+ ],
+ "type": "plc",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

@@ -1,0 +1,61 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-12-31",
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2025-01-01",
+   "type": "micro-entity"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2026-01-01"
+  },
+  "next_due": "2027-09-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "GREGG'S GARDENS LIMITED",
+ "company_number": "07457158",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-10-24",
+  "next_due": "2026-11-07",
+  "next_made_up_to": "2026-10-24",
+  "overdue": false
+ },
+ "date_of_creation": "2010-12-01",
+ "etag": "25c3bfa85f4ccb894b6779ecc0916cfb19aaef0b",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-12-01",
+ "links": {
+  "persons_with_significant_control": "/company/07457158/persons-with-significant-control",
+  "self": "/company/07457158",
+  "filing_history": "/company/07457158/filing-history",
+  "officers": "/company/07457158/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "Burbles Cottage Carr Bog Farm",
+  "address_line_2": "Ridge Lane Silsden",
+  "locality": "Keighley",
+  "postal_code": "BD20 9JG",
+  "region": "West Yorkshire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "31090",
+  "81300"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

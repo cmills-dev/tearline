@@ -1,0 +1,79 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2024-12-31",
+   "period_end_on": "2024-12-31",
+   "period_start_on": "2024-01-01",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2026-12-31",
+   "overdue": false,
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2025-01-01"
+  },
+  "next_due": "2026-12-31",
+  "next_made_up_to": "2025-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "SUEZ ADVANCED SOLUTIONS UK LIMITED",
+ "company_number": "05687775",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-01-25",
+  "next_due": "2027-02-08",
+  "next_made_up_to": "2027-01-25",
+  "overdue": false
+ },
+ "date_of_creation": "2006-01-25",
+ "etag": "fd61ad1330c075980566ed983011ce36835904cb",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-01-25",
+ "links": {
+  "persons_with_significant_control": "/company/05687775/persons-with-significant-control",
+  "self": "/company/05687775",
+  "filing_history": "/company/05687775/filing-history",
+  "officers": "/company/05687775/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2015-12-31",
+   "effective_from": "2012-03-29",
+   "name": "AQUALOGY ENVIRONMENT LIMITED"
+  },
+  {
+   "ceased_on": "2012-03-29",
+   "effective_from": "2009-07-15",
+   "name": "AGBAR ENVIRONMENT LIMITED"
+  },
+  {
+   "ceased_on": "2009-07-15",
+   "effective_from": "2006-01-25",
+   "name": "BRISTOL WATER SALES LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Suez House",
+  "address_line_2": "Grenfell Road",
+  "country": "United Kingdom",
+  "locality": "Maidenhead",
+  "postal_code": "SL6 1ES"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "36000",
+  "37000",
+  "71121",
+  "81222"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

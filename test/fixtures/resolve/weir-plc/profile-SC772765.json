@@ -1,0 +1,60 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "06"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-06-30",
+   "period_end_on": "2025-06-30",
+   "period_start_on": "2024-07-01",
+   "type": "total-exemption-full"
+  },
+  "next_accounts": {
+   "due_on": "2027-03-31",
+   "overdue": false,
+   "period_end_on": "2026-06-30",
+   "period_start_on": "2025-07-01"
+  },
+  "next_due": "2027-03-31",
+  "next_made_up_to": "2026-06-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "WEIR AGRISHIRE SERVICES LTD",
+ "company_number": "SC772765",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-06-14",
+  "next_due": "2027-06-28",
+  "next_made_up_to": "2027-06-14",
+  "overdue": false
+ },
+ "date_of_creation": "2023-06-15",
+ "etag": "75047976504b531a6342b917ae3b71c586d18335",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "scotland",
+ "links": {
+  "persons_with_significant_control": "/company/SC772765/persons-with-significant-control",
+  "self": "/company/SC772765",
+  "filing_history": "/company/SC772765/filing-history",
+  "officers": "/company/SC772765/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "20 Finlayson Way Coylton",
+  "country": "United Kingdom",
+  "locality": "Ayr",
+  "postal_code": "KA6 6GW",
+  "region": "Ayrshire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "33120",
+  "33200",
+  "46610"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

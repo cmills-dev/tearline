@@ -1,0 +1,26 @@
+{
+  "companyNumber": "02662226",
+  "companyName": "BRISTOL WATER PLC",
+  "transactionId": "MzU0MjkxMjg1OGFkaXF6a2N4",
+  "filingType": "AA",
+  "filedOn": "2026-09-11",
+  "madeUpDate": "2026-03-31",
+  "accountsType": "full",
+  "pageCount": 28,
+  "chPages": 28,
+  "file": "filing.pdf",
+  "format": "pdf",
+  "resourcesOffered": [
+    "application/pdf"
+  ],
+  "bytes": 1037550,
+  "sha256": "184b6e45c865ab982d435ed559bbfb4fd8a4c01abc8859ebabdd2ce8904e3ebe",
+  "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/O9ygDJnvUZ9TxGjVy7qbKwed57scgctH-miTXQCHzkQ",
+  "filingHistoryUrl": "https://api.company-information.service.gov.uk/company/02662226/filing-history/MzU0MjkxMjg1OGFkaXF6a2N4",
+  "publicRecordUrl": "https://find-and-update.company-information.service.gov.uk/company/02662226/filing-history",
+  "textLayerChars": 2,
+  "bytesCommitted": true,
+  "kind": "scan-full",
+  "notes": "28-page scan. Carries 8.75% irredeemable preference shares, which must be classified outside borrowings (audit finding 19).",
+  "frozenOn": "2026-09-15"
+}

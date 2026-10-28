@@ -1,0 +1,42 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2014-12-31",
+   "type": "dormant"
+  }
+ },
+ "can_file": false,
+ "company_name": "PRET A MANGER LIMITED",
+ "company_number": "03602613",
+ "company_status": "dissolved",
+ "date_of_cessation": "2017-01-17",
+ "date_of_creation": "1998-07-17",
+ "etag": "fb9a7f3ce3698785f285813d02ce476a5d6fb2aa",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-01-03",
+ "links": {
+  "self": "/company/03602613",
+  "filing_history": "/company/03602613/filing-history",
+  "officers": "/company/03602613/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "75b Verde",
+  "address_line_2": "10 Bressenden Place",
+  "country": "England",
+  "locality": "London",
+  "postal_code": "SW1E 5DH"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "74990"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false
+}

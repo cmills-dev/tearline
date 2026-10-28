@@ -1,0 +1,26 @@
+{
+  "companyNumber": "00771335",
+  "companyName": "SOLID STATE PLC",
+  "transactionId": "MzUzNTQzMzAzOGFkaXF6a2N4",
+  "filingType": "AA",
+  "filedOn": "2026-07-31",
+  "madeUpDate": "2026-03-31",
+  "accountsType": "group",
+  "pageCount": 140,
+  "chPages": 140,
+  "file": "filing.pdf",
+  "format": "pdf",
+  "resourcesOffered": [
+    "application/pdf"
+  ],
+  "bytes": 8064020,
+  "sha256": "595456e56de79f19f774c812abf92055cf93391cedf49a071291a3c4d32ee032",
+  "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/CnHHjbdCGTgOnlQVtl2jO6mEFMdtZcUGOlFyb6Jlpt4",
+  "filingHistoryUrl": "https://api.company-information.service.gov.uk/company/00771335/filing-history/MzUzNTQzMzAzOGFkaXF6a2N4",
+  "publicRecordUrl": "https://find-and-update.company-information.service.gov.uk/company/00771335/filing-history",
+  "textLayerChars": 2,
+  "bytesCommitted": true,
+  "kind": "scan-group",
+  "notes": "AIM group accounts scan, 140 pages.",
+  "frozenOn": "2026-09-15"
+}

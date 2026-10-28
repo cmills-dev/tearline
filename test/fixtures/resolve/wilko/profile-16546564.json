@@ -1,0 +1,52 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "06"
+  },
+  "next_accounts": {
+   "due_on": "2027-03-27",
+   "overdue": false,
+   "period_end_on": "2026-06-30",
+   "period_start_on": "2025-06-27"
+  },
+  "next_due": "2027-03-27",
+  "next_made_up_to": "2026-06-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "WILKO CORP LTD",
+ "company_number": "16546564",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-06-26",
+  "next_due": "2027-07-10",
+  "next_made_up_to": "2027-06-26",
+  "overdue": false
+ },
+ "date_of_creation": "2025-06-27",
+ "etag": "caa1351ee17349b428716a14f75e2a220def3beb",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/16546564/persons-with-significant-control",
+  "self": "/company/16546564",
+  "filing_history": "/company/16546564/filing-history",
+  "officers": "/company/16546564/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "The Oaks",
+  "address_line_2": "Chorley Hall Lane",
+  "country": "England",
+  "locality": "Alderley Edge",
+  "postal_code": "SK9 7UL"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "64209"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

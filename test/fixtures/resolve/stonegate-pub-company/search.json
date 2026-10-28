@@ -1,0 +1,281 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "opened-on"
+   ],
+   "company_status": "open",
+   "date_of_creation": "2010-08-20",
+   "company_type": "uk-establishment",
+   "company_number": "BR014816",
+   "address": {
+    "address_line_1": "Monkspath Hall Road",
+    "locality": "Solihull",
+    "postal_code": "B90 4SJ",
+    "premises": "3"
+   },
+   "title": "STONEGATE PUB COMPANY LIMITED",
+   "address_snippet": "3 Monkspath Hall Road, Solihull, B90 4SJ",
+   "description": "BR014816 - Opened on 20 August 2010",
+   "links": {
+    "self": "/company/BR014816"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "first-uk-establishment-opened-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2010-08-20",
+   "external_registration_number": "244248",
+   "company_type": "oversea-company",
+   "company_number": "FC029833",
+   "address": {
+    "address_line_1": "Cricket Square PO BOX 2681",
+    "country": "Cayman Islands",
+    "locality": "Grand Cayman",
+    "premises": "CONYERS TRUST COMPANY (CAYMAN) LIMITED",
+    "region": "Ky1-1111"
+   },
+   "title": "STONEGATE PUB COMPANY LIMITED",
+   "address_snippet": "CONYERS TRUST COMPANY (CAYMAN) LIMITED, Cricket Square PO BOX 2681, Grand Cayman, Ky1-1111, Cayman Islands",
+   "description": "FC029833 - First UK establishment opened on 20 August 2010",
+   "links": {
+    "self": "/company/FC029833"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    null,
+    "registered"
+   ],
+   "company_status": "registered",
+   "date_of_creation": "2022-10-21",
+   "external_registration_number": "244248",
+   "company_type": "registered-overseas-entity",
+   "company_number": "OE002199",
+   "address": {
+    "address_line_1": "Hutchins Drive",
+    "country": "Cayman Islands",
+    "locality": "Grand Cayman",
+    "postal_code": "KY1-1111",
+    "premises": "Conyers Trust Company (Cayman) Limited Cricket Square, PO BOX 2681"
+   },
+   "title": "STONEGATE PUB COMPANY LIMITED",
+   "address_snippet": "Conyers Trust Company (Cayman) Limited Cricket Square, PO BOX 2681 Hutchins Drive, Grand Cayman, Cayman Islands, KY1-1111",
+   "description": "OE002199 - Registered on 21 October 2022",
+   "links": {
+    "self": "/company/OE002199"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2022-06-06",
+   "company_type": "ltd",
+   "company_number": "14150771",
+   "address": {
+    "address_line_1": "Bentinck Street",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "W1U 2EU",
+    "premises": "20"
+   },
+   "title": "PWB KITCHENS LIMITED",
+   "address_snippet": "20 Bentinck Street, London, United Kingdom, W1U 2EU",
+   "description": "14150771 - Incorporated on 6 June 2022",
+   "links": {
+    "self": "/company/14150771"
+   },
+   "snippet": "STONEGATE PUB COMPANY KITCHENS LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2014-03-19",
+   "company_type": "ltd",
+   "company_number": "08948738",
+   "address": {
+    "address_line_1": "Monkspath Hall Road",
+    "country": "United Kingdom",
+    "locality": "Solihull",
+    "postal_code": "B90 4SJ",
+    "premises": "3"
+   },
+   "title": "STONEGATE PUB COMPANY FINANCING LIMITED",
+   "address_snippet": "3 Monkspath Hall Road, Solihull, United Kingdom, B90 4SJ",
+   "description": "08948738 - Incorporated on 19 March 2014",
+   "links": {
+    "self": "/company/08948738"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2019-07-09",
+   "company_type": "plc",
+   "company_number": "12092575",
+   "address": {
+    "address_line_1": "Monkspath Hall Road",
+    "country": "United Kingdom",
+    "locality": "Solihull",
+    "postal_code": "B90 4SJ",
+    "premises": "3"
+   },
+   "title": "STONEGATE PUB COMPANY FINANCING 2019 PLC",
+   "address_snippet": "3 Monkspath Hall Road, Solihull, United Kingdom, B90 4SJ",
+   "description": "12092575 - Incorporated on 9 July 2019",
+   "links": {
+    "self": "/company/12092575"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "first-uk-establishment-opened-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2010-10-15",
+   "external_registration_number": "246546",
+   "company_type": "oversea-company",
+   "company_number": "FC029895",
+   "address": {
+    "address_line_1": "Cricket Square PO BOX 2681",
+    "country": "Cayman Islands",
+    "locality": "Grand Cayman",
+    "premises": "CONYERS TRUST COMPANY (CAYMAN) LIMITED",
+    "region": "Ky1-1111"
+   },
+   "title": "STONEGATE PUB COMPANY HOLDINGS LIMITED",
+   "address_snippet": "CONYERS TRUST COMPANY (CAYMAN) LIMITED, Cricket Square PO BOX 2681, Grand Cayman, Ky1-1111, Cayman Islands",
+   "description": "FC029895 - First UK establishment opened on 15 October 2010",
+   "links": {
+    "self": "/company/FC029895"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "opened-on"
+   ],
+   "company_status": "open",
+   "date_of_creation": "2010-10-15",
+   "company_type": "uk-establishment",
+   "company_number": "BR014879",
+   "address": {
+    "address_line_1": "Bentinck Street",
+    "locality": "London",
+    "postal_code": "W1U 2EU",
+    "premises": "20"
+   },
+   "title": "STONEGATE PUB COMPANY HOLDINGS LIMITED",
+   "address_snippet": "20 Bentinck Street, London, W1U 2EU",
+   "description": "BR014879 - Opened on 15 October 2010",
+   "links": {
+    "self": "/company/BR014879"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "opened-on"
+   ],
+   "company_status": "open",
+   "date_of_creation": "2013-01-24",
+   "company_type": "uk-establishment",
+   "company_number": "BR016309",
+   "address": {
+    "address_line_1": "Bentinck Street",
+    "locality": "London",
+    "postal_code": "W1U 2EU",
+    "premises": "20"
+   },
+   "title": "STONEGATE PUB COMPANY MIDCO LIMITED",
+   "address_snippet": "20 Bentinck Street, London, W1U 2EU",
+   "description": "BR016309 - Opened on 24 January 2013",
+   "links": {
+    "self": "/company/BR016309"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "first-uk-establishment-opened-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2013-01-24",
+   "external_registration_number": "274710",
+   "company_type": "oversea-company",
+   "company_number": "FC031243",
+   "address": {
+    "address_line_1": "Cricket Square PO BOX 2681",
+    "country": "Cayman Islands",
+    "locality": "Grand Cayman",
+    "premises": "CONYERS TRUST COMPANY (CAYMAN) LIMITED",
+    "region": "Ky1-1111"
+   },
+   "title": "STONEGATE PUB COMPANY MIDCO LIMITED",
+   "address_snippet": "CONYERS TRUST COMPANY (CAYMAN) LIMITED, Cricket Square PO BOX 2681, Grand Cayman, Ky1-1111, Cayman Islands",
+   "description": "FC031243 - First UK establishment opened on 24 January 2013",
+   "links": {
+    "self": "/company/FC031243"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 10000,
+ "start_index": 0
+}

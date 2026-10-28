@@ -1,0 +1,22 @@
+{
+ "items": [
+  {
+   "transaction_id": "MzUzNzU1MzE5NGFkaXF6a2N4",
+   "barcode": "XF7X8BY2",
+   "type": "AA01",
+   "date": "2026-08-07",
+   "category": "accounts",
+   "description": "change-account-reference-date-company-current-shortened",
+   "description_values": {
+    "made_up_date": "2027-04-30",
+    "new_date": "2026-12-31"
+   },
+   "pages": 1,
+   "action_date": "2026-12-31",
+   "links": {
+    "self": "/company/17185325/filing-history/MzUzNzU1MzE5NGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/FTPbCivOpyNPdsYrYROEhQJU1pCsmDv7pIxNofQUNkM"
+   }
+  }
+ ]
+}

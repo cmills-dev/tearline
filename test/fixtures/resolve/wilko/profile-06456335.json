@@ -1,0 +1,45 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2013-12-31",
+   "type": "dormant"
+  }
+ },
+ "annual_return": {
+  "last_made_up_to": "2013-12-18"
+ },
+ "can_file": false,
+ "company_name": "WILKO LTD",
+ "company_number": "06456335",
+ "company_status": "dissolved",
+ "status": "active",
+ "date_of_cessation": "2015-08-04",
+ "date_of_creation": "2007-12-18",
+ "etag": "8731b2e14ac8ebe2c7edf97b055e7a3f2125bc70",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2013-12-18",
+ "links": {
+  "self": "/company/06456335",
+  "filing_history": "/company/06456335/filing-history",
+  "officers": "/company/06456335/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "1 Poulton Close",
+  "address_line_2": "1st Floor",
+  "locality": "Dover",
+  "postal_code": "CT17 0HL",
+  "region": "Kent"
+ },
+ "sic_codes": [
+  "99999"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false
+}

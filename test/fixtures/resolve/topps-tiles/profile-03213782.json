@@ -1,0 +1,68 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "09"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-09-27",
+   "period_end_on": "2025-09-27",
+   "period_start_on": "2024-09-29",
+   "type": "group"
+  },
+  "next_accounts": {
+   "due_on": "2027-03-31",
+   "overdue": false,
+   "period_end_on": "2026-09-30",
+   "period_start_on": "2025-09-28"
+  },
+  "next_due": "2027-03-31",
+  "next_made_up_to": "2026-09-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "TOPPS TILES PLC",
+ "company_number": "03213782",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-06-02",
+  "next_due": "2027-06-16",
+  "next_made_up_to": "2027-06-02",
+  "overdue": false
+ },
+ "date_of_creation": "1996-06-19",
+ "etag": "af4d481b94c0a12133fce631c0ce9ad1d4a42957",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2011-06-02",
+ "links": {
+  "self": "/company/03213782",
+  "charges": "/company/03213782/charges",
+  "filing_history": "/company/03213782/filing-history",
+  "officers": "/company/03213782/officers",
+  "exemptions": "/company/03213782/exemptions"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "1997-05-06",
+   "effective_from": "1996-06-19",
+   "name": "TABLEDOUBLE LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Topps Tiles Thorpe Way",
+  "address_line_2": "Grove Park",
+  "locality": "Enderby",
+  "postal_code": "LE19 1SU",
+  "region": "Leicestershire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "47520"
+ ],
+ "type": "plc",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

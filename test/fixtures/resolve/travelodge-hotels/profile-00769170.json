@@ -1,0 +1,93 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2024-12-31",
+   "period_end_on": "2024-12-31",
+   "period_start_on": "2024-01-01",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2026-09-30",
+   "overdue": false,
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2025-01-01"
+  },
+  "next_due": "2026-09-30",
+  "next_made_up_to": "2025-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "TRAVELODGE HOTELS LIMITED",
+ "company_number": "00769170",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-06-23",
+  "next_due": "2027-07-07",
+  "next_made_up_to": "2027-06-23",
+  "overdue": false
+ },
+ "date_of_creation": "1963-07-29",
+ "etag": "88598906840ff43ceb76efbcbcb125a7ef0b6f71",
+ "has_been_liquidated": true,
+ "has_charges": false,
+ "has_insolvency_history": true,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-06-25",
+ "links": {
+  "persons_with_significant_control": "/company/00769170/persons-with-significant-control",
+  "self": "/company/00769170",
+  "charges": "/company/00769170/charges",
+  "filing_history": "/company/00769170/filing-history",
+  "insolvency": "/company/00769170/insolvency",
+  "officers": "/company/00769170/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2004-03-30",
+   "effective_from": "2001-12-05",
+   "name": "TRAVELREST SERVICES LIMITED"
+  },
+  {
+   "ceased_on": "2001-12-05",
+   "effective_from": "1991-06-03",
+   "name": "FORTE (U.K.) LIMITED"
+  },
+  {
+   "ceased_on": "1991-06-03",
+   "effective_from": "1984-01-27",
+   "name": "TRUSTHOUSE FORTE (U.K.) LIMITED "
+  },
+  {
+   "ceased_on": "1984-01-27",
+   "effective_from": "1978-12-31",
+   "name": "TRUSTHOUSE FORTE AIRPORT SERVICES LIMITED"
+  },
+  {
+   "ceased_on": "1978-12-31",
+   "effective_from": "1963-07-29",
+   "name": "FERNLEY AEROCLEAN COMPANY LIMITED (THE)"
+  },
+  {
+   "ceased_on": "1978-12-31",
+   "effective_from": "1963-07-29",
+   "name": "AEROCLEAN LIMITED,"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Sleepy Hollow, Aylesbury Road",
+  "address_line_2": "Thame",
+  "locality": "Oxon",
+  "postal_code": "OX9 3AT"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "55100"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

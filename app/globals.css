@@ -1,0 +1,719 @@
+/* app/globals.css - Confidential Memorandum design system.
+   Cool prospectus paper, document ink, one rare maroon stamp accent.
+   Sharp corners everywhere, flat printed depth, hairline rules, tabular mono figures. */
+
+@import "./fonts.css";
+
+:root {
+  --paper: #f4f1ea;
+  --ink: #3a3936;
+  --accent: #7b2231;
+  --cover: #2a2723;
+  --rule: #d9d3c6;
+  --paper-2: #eeeae0; /* a second sheet, one tonal step darker */
+  --ink-soft: #625f57;
+  --ok: #3a6346;
+  --warn: #80531a;
+  --on-cover: #e8e4db;
+  --measure: 66ch;
+  --serif: "Libre Caslon Text", Georgia, serif;
+  --serif-display: "Libre Caslon Display", Georgia, serif;
+  --mono: "Courier Prime", "Courier New", monospace;
+}
+
+:root[data-theme="dark"],
+[data-theme="dark"] {
+  --paper: #26241f;
+  --ink: #e8e4db;
+  --accent: #d98a8c;
+  --cover: #1c1a16;
+  --rule: #45413a;
+  --paper-2: #302d27;
+  --ink-soft: #bbb6ac;
+  --ok: #8fbf9c;
+  --warn: #d6a95f;
+}
+
+* {
+  box-sizing: border-box;
+  border-radius: 0 !important;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--mono);
+  font-size: 15px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Every number renders tabular. */
+.num,
+td.num,
+.figure {
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--serif-display);
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 1.08;
+  margin: 0;
+}
+h1 {
+  font-size: clamp(2.1rem, 5vw, 3.4rem);
+}
+h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.3rem, 2.5vw, 1.7rem);
+  margin-top: 2.4rem;
+  margin-bottom: 0.8rem;
+}
+h3 {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  margin-top: 1.6rem;
+}
+
+a {
+  color: inherit;
+}
+
+/* ---- Legends / labels: uppercase tracked mono ---- */
+.legend {
+  font-family: var(--mono);
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 0.68rem;
+  color: var(--ink-soft);
+}
+
+/* ---- The confidentiality header band (charcoal cover) ---- */
+.band {
+  background: var(--cover);
+  color: var(--on-cover);
+  border-bottom: 2px solid var(--accent);
+}
+.band .wordmark {
+  font-family: var(--serif-display);
+  font-size: 1.35rem;
+  letter-spacing: 0.02em;
+}
+.band .legend {
+  color: #bbb6ac; /* dark.ink-soft: the nearest token to the softer caption this band had */
+}
+
+/* ---- Layout frame ---- */
+.frame {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 0 clamp(1rem, 4vw, 3rem);
+}
+.doc {
+  padding-bottom: 5rem;
+}
+
+/* ---- The illustrative stamp (rare maroon) ---- */
+.stamp {
+  display: inline-block;
+  border: 2px solid var(--accent);
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.62rem;
+  padding: 0.28rem 0.55rem;
+  font-family: var(--mono);
+  transform: rotate(-1.5deg);
+}
+
+/* ---- Ruled boxes ---- */
+.ruled {
+  border: 1px solid var(--rule);
+  background: var(--paper);
+}
+.ruled + .ruled {
+  border-top: none;
+}
+.hairline {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 2rem 0;
+}
+
+/* ---- Document field (primary action, not a marketing button) ---- */
+.field {
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  display: flex;
+  align-items: stretch;
+}
+.field input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  color: var(--ink);
+  font-family: var(--mono);
+  font-size: 1rem;
+  padding: 0.95rem 1rem;
+  outline: none;
+}
+.field button {
+  border: none;
+  border-left: 1px solid var(--ink);
+  background: var(--cover);
+  color: var(--on-cover);
+  font-family: var(--mono);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.72rem;
+  padding: 0 1.4rem;
+  cursor: pointer;
+}
+.field button:hover {
+  background: var(--accent);
+}
+
+/* ---- Figure tiles ---- */
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0;
+  border: 1px solid var(--rule);
+}
+.tile {
+  padding: 1.1rem 1.2rem 1.3rem;
+  border-right: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  background: var(--paper);
+  cursor: pointer;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+}
+.tile:hover {
+  background: var(--paper-2);
+}
+.tile .figure {
+  font-size: 1.9rem;
+  margin-top: 0.5rem;
+  display: block;
+}
+.tile.fulcrum .figure {
+  color: var(--accent);
+}
+
+/* ---- Rung badges ---- */
+.rung {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 0.12rem 0.4rem;
+  border: 1px solid var(--ink-soft);
+  color: var(--ink-soft);
+  vertical-align: middle;
+}
+.rung.R1 {
+  border-color: var(--ok);
+  color: var(--ok);
+}
+.rung.R2 {
+  border-color: var(--ink);
+  color: var(--ink);
+}
+.rung.R3 {
+  border-color: var(--warn);
+  color: var(--warn);
+}
+.rung.R4 {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* provenance tag [Acc]/[Web]/[NF] */
+.ptag {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.08em;
+  color: var(--ink-soft);
+}
+
+/* ---- Tables (ruled data) ---- */
+.table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--rule);
+}
+table.data {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--mono);
+  font-size: 0.86rem;
+}
+table.data th,
+table.data td {
+  padding: 0.5rem 0.8rem;
+  border-bottom: 1px solid var(--rule);
+  text-align: right;
+  white-space: nowrap;
+}
+table.data th:first-child,
+table.data td:first-child {
+  text-align: left;
+}
+table.data thead th {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.64rem;
+  color: var(--ink-soft);
+  border-bottom: 2px solid var(--ink);
+}
+table.data td.num {
+  font-variant-numeric: tabular-nums;
+}
+.cell-btn {
+  background: none;
+  border: none;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline dotted var(--ink-soft);
+  text-underline-offset: 3px;
+}
+.cell-btn:hover {
+  color: var(--accent);
+}
+
+/* ---- Redaction bar ---- */
+.redact {
+  background: var(--ink);
+  color: var(--ink);
+  padding: 0 0.15em;
+  transition: background 0.25s ease;
+  cursor: help;
+  border-radius: 0;
+}
+.redact:hover {
+  background: var(--accent);
+  color: #f4f1ea;
+}
+
+/* ---- Capital structure ladder ---- */
+.capital {
+  border: 1px solid var(--rule);
+}
+.tranche {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.5rem 1rem;
+  padding: 0.9rem 1.1rem;
+  border-bottom: 1px solid var(--rule);
+  background: var(--paper);
+}
+.tranche:last-child {
+  border-bottom: none;
+}
+.tranche.fulcrum {
+  border-left: 3px solid var(--accent);
+}
+.tranche .amount {
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 1.05rem;
+  text-align: right;
+}
+.tranche.fulcrum .amount {
+  color: var(--accent);
+}
+.tranche .meta {
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+}
+
+/* ---- Evidence card drawer ---- */
+.drawer-scrim {
+  position: fixed;
+  inset: 0;
+  background: rgba(26, 24, 18, 0.45);
+  z-index: 40;
+}
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: min(520px, 94vw);
+  background: var(--paper);
+  border-left: 2px solid var(--accent);
+  z-index: 41;
+  overflow-y: auto;
+  padding: 1.6rem 1.6rem 3rem;
+}
+.drawer .snippet {
+  border: 1px solid var(--rule);
+  background: var(--paper-2);
+  padding: 0.9rem 1rem;
+  font-family: var(--mono);
+  font-size: 0.84rem;
+  white-space: pre-wrap;
+}
+.drawer dl {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  gap: 0.4rem 0.6rem;
+  margin: 0;
+  font-size: 0.82rem;
+}
+.drawer dt {
+  color: var(--ink-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.62rem;
+  align-self: center;
+}
+.drawer dd {
+  margin: 0;
+}
+.hash {
+  word-break: break-all;
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+}
+.close-x {
+  background: none;
+  border: 1px solid var(--ink);
+  color: var(--ink);
+  font-family: var(--mono);
+  cursor: pointer;
+  padding: 0.2rem 0.6rem;
+  float: right;
+}
+
+/* ---- Verification chips ---- */
+.check {
+  display: flex;
+  gap: 0.7rem;
+  padding: 0.6rem 0;
+  border-bottom: 1px dotted var(--rule);
+  font-size: 0.82rem;
+}
+.check .status {
+  font-family: var(--mono);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.62rem;
+  padding: 0.1rem 0.4rem;
+  border: 1px solid;
+  height: fit-content;
+}
+.check .status.pass {
+  color: var(--ok);
+  border-color: var(--ok);
+}
+.check .status.fail {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+/* ---- Ladder summary bar ---- */
+.ladder-bar {
+  display: flex;
+  border: 1px solid var(--rule);
+  font-size: 0.72rem;
+}
+.ladder-seg {
+  padding: 0.5rem 0.8rem;
+  border-right: 1px solid var(--rule);
+  flex: 1;
+  text-align: center;
+}
+.ladder-seg:last-child {
+  border-right: none;
+}
+.ladder-seg .n {
+  font-size: 1.3rem;
+  display: block;
+  font-variant-numeric: tabular-nums;
+}
+
+.prose {
+  max-width: var(--measure);
+  font-family: var(--mono);
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+.prose p {
+  margin: 0 0 0.9rem;
+}
+
+.tombstone {
+  text-align: center;
+  border: 2px solid var(--ink);
+  padding: 1.6rem;
+  margin: 2rem 0;
+}
+.tombstone .legend {
+  display: block;
+  margin-bottom: 0.6rem;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+@media (max-width: 720px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.muted {
+  color: var(--ink-soft);
+}
+.small {
+  font-size: 0.76rem;
+}
+.mt {
+  margin-top: 1.4rem;
+}
+.mono {
+  font-family: var(--mono);
+}
+
+/* ---- Engine B: origination screen ---- */
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+.chip {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+}
+.chip.on {
+  background: var(--cover);
+  color: var(--on-cover);
+  border-color: var(--cover);
+}
+.chip:hover {
+  border-color: var(--accent);
+}
+
+.mandate-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+.mandate-grid .span-2 {
+  grid-column: 1 / -1;
+}
+@media (max-width: 720px) {
+  .mandate-grid {
+    grid-template-columns: 1fr;
+  }
+  .mandate-grid .span-2 {
+    grid-column: auto;
+  }
+}
+.pad {
+  padding: 1rem 1.1rem;
+}
+.check-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+.check-list.row {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.45rem 1.2rem;
+}
+.opt {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--mono);
+  font-size: 0.84rem;
+}
+.opt input[type="number"],
+.opt select {
+  font-family: var(--mono);
+  font-size: 0.84rem;
+  border: 1px solid var(--rule);
+  background: var(--paper);
+  color: var(--ink);
+  padding: 0.35rem 0.5rem;
+  margin-left: 0.3rem;
+}
+.opt input[type="number"] {
+  width: 6.5rem;
+}
+.pair {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.tagchip {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  border: 1px solid var(--ink-soft);
+  color: var(--ink-soft);
+  padding: 0.08rem 0.35rem;
+  margin: 0 0.25rem 0.2rem 0;
+}
+
+.evidence-panel {
+  padding: 1rem 1.1rem 1.2rem;
+}
+.reason-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.reason {
+  font-family: var(--mono);
+  font-size: 0.82rem;
+  padding-left: 0.8rem;
+  border-left: 2px solid var(--rule);
+}
+.reason.supports {
+  border-left-color: var(--ok);
+}
+.reason.against {
+  border-left-color: var(--warn);
+}
+.reason.neutral {
+  border-left-color: var(--ink-soft);
+}
+.reason-kind {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.6rem;
+  color: var(--ink-soft);
+  margin-right: 0.4rem;
+}
+
+/* ---- Engine A deepening: section head + model export action ---- */
+.section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.export-btn {
+  font-family: var(--mono);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.66rem;
+  padding: 0.5rem 0.9rem;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.export-btn:hover {
+  background: var(--cover);
+  color: var(--on-cover);
+  border-color: var(--cover);
+}
+
+/* ---- Trend / year-on-year delta ----
+   Direction is carried by a neutral glyph and the sign only. No new colours:
+   deltas stay in ink; maroon is reserved for the single most important figure. */
+.delta {
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  color: var(--ink);
+}
+.delta .arrow {
+  color: var(--ink-soft);
+  margin-right: 0.3rem;
+  font-size: 0.72em;
+}
+.delta .pct {
+  color: var(--ink-soft);
+  font-size: 0.9em;
+  margin-left: 0.45rem;
+}
+.delta.fulcrum {
+  color: var(--accent);
+}
+.delta.fulcrum .arrow,
+.delta.fulcrum .pct {
+  color: var(--accent);
+}
+
+/* ---- Sources / references panel ---- */
+.refs {
+  border: 1px solid var(--rule);
+}
+.ref {
+  padding: 0.9rem 1.1rem;
+  border-bottom: 1px solid var(--rule);
+}
+.ref:last-child {
+  border-bottom: none;
+}
+.ref-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  align-items: baseline;
+}
+.ref-cite {
+  font-family: var(--mono);
+  color: var(--ink);
+  font-weight: 700;
+}
+.ref-doc {
+  font-family: var(--serif);
+  font-size: 0.98rem;
+}
+.ref-backs {
+  list-style: none;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+.ref-backs li {
+  font-family: var(--mono);
+  font-size: 0.82rem;
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.ref-hash {
+  margin: 0;
+}

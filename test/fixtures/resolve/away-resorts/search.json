@@ -1,0 +1,282 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2007-12-21",
+   "company_type": "ltd",
+   "company_number": "06458827",
+   "address": {
+    "address_line_1": "200 Maylands Avenue",
+    "country": "England",
+    "locality": "Hemel Hempstead",
+    "postal_code": "HP2 7TG",
+    "premises": "The Maylands Building"
+   },
+   "title": "AWAY RESORTS LIMITED",
+   "address_snippet": "The Maylands Building, 200 Maylands Avenue, Hemel Hempstead, England, HP2 7TG",
+   "description": "06458827 - Incorporated on 21 December 2007",
+   "links": {
+    "self": "/company/06458827"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2008-01-28",
+   "company_type": "ltd",
+   "company_number": "06486367",
+   "address": {
+    "address_line_1": "200 Maylands Avenue",
+    "country": "England",
+    "locality": "Hemel Hempstead",
+    "postal_code": "HP2 7TG",
+    "premises": "The Maylands Building"
+   },
+   "title": "AWAY RESORTS HOLDINGS LIMITED",
+   "address_snippet": "The Maylands Building, 200 Maylands Avenue, Hemel Hempstead, England, HP2 7TG",
+   "description": "06486367 - Incorporated on 28 January 2008",
+   "links": {
+    "self": "/company/06486367"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2008-04-10",
+   "company_type": "ltd",
+   "company_number": "06561381",
+   "address": {
+    "address_line_1": "200 Maylands Avenue",
+    "country": "England",
+    "locality": "Hemel Hempstead",
+    "postal_code": "HP2 7TG",
+    "premises": "The Maylands Building"
+   },
+   "title": "AWAY RESORTS (TRANSPORT) LIMITED",
+   "address_snippet": "The Maylands Building, 200 Maylands Avenue, Hemel Hempstead, England, HP2 7TG",
+   "description": "06561381 - Incorporated on 10 April 2008",
+   "links": {
+    "self": "/company/06561381"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "first-uk-establishment-opened-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2019-08-09",
+   "external_registration_number": "128940",
+   "company_type": "oversea-company",
+   "company_number": "FC037751",
+   "address": {
+    "address_line_1": "Esplanade",
+    "country": "Jersey",
+    "locality": "St Helier",
+    "postal_code": "JE1 0BD",
+    "premises": "27"
+   },
+   "title": "ARCHER TOPCO (AWAY RESORTS) LIMITED",
+   "address_snippet": "27 Esplanade, St Helier, Jersey, JE1 0BD",
+   "description": "FC037751 - First UK establishment opened on 9 August 2019",
+   "links": {
+    "self": "/company/FC037751"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "opened-on"
+   ],
+   "company_status": "open",
+   "date_of_creation": "2019-08-09",
+   "company_type": "uk-establishment",
+   "company_number": "BR022842",
+   "address": {
+    "locality": "Hemel Hempstead",
+    "postal_code": "HP2 7TG",
+    "premises": "The Maylands Building 200 Maylands Avenue"
+   },
+   "title": "ARCHER TOPCO (AWAY RESORTS) LIMITED",
+   "address_snippet": "The Maylands Building 200 Maylands Avenue, Hemel Hempstead, HP2 7TG",
+   "description": "BR022842 - Opened on 9 August 2019",
+   "links": {
+    "self": "/company/BR022842"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2017-01-12",
+   "company_type": "ltd",
+   "company_number": "10560740",
+   "address": {
+    "address_line_1": "Main Street",
+    "country": "United Kingdom",
+    "locality": "Norwell",
+    "postal_code": "NG23 6JN",
+    "premises": "The Old Saddler's",
+    "region": "Nottinghamshire"
+   },
+   "title": "ACTIVE LIFESTYLE RESORTS LIMITED",
+   "address_snippet": "The Old Saddler's, Main Street, Norwell, Nottinghamshire, United Kingdom, NG23 6JN",
+   "description": "10560740 - Incorporated on 12 January 2017",
+   "links": {
+    "self": "/company/10560740"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2025-03-26",
+   "company_type": "ltd",
+   "company_number": "16343600",
+   "address": {
+    "address_line_1": "Adderbury",
+    "country": "England",
+    "locality": "Banbury",
+    "postal_code": "OX17 3PE",
+    "premises": "Adderbury House, Lake Walk, Oxfordshire Lake Walk"
+   },
+   "title": "ADDERBURY RESORTS LIMITED",
+   "address_snippet": "Adderbury House, Lake Walk, Oxfordshire Lake Walk, Adderbury, Banbury, England, OX17 3PE",
+   "description": "16343600 - Incorporated on 26 March 2025",
+   "links": {
+    "self": "/company/16343600"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2022-08-26",
+   "date_of_cessation": "2026-03-24",
+   "company_type": "ltd",
+   "company_number": "14320966",
+   "address": {
+    "address_line_1": "- COMPANIES HOUSE DEFAULT ADDRESS",
+    "locality": "Cardiff",
+    "po_box": "4385",
+    "postal_code": "CF14 8LH",
+    "premises": "14320966"
+   },
+   "title": "ADRIATIC RESORTS HOLDINGS UK LIMITED",
+   "address_snippet": "4385, 14320966 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",
+   "description": "14320966 - Dissolved on 24 March 2026",
+   "links": {
+    "self": "/company/14320966"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2026-07-15",
+   "company_type": "ltd",
+   "company_number": "17342364",
+   "address": {
+    "address_line_1": "Limscott House",
+    "address_line_2": "Bruce Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E3 3HR",
+    "premises": "Flat 25"
+   },
+   "title": "AFFINITI RESORTS LIMITED",
+   "address_snippet": "Flat 25 Limscott House, Bruce Road, London, England, E3 3HR",
+   "description": "17342364 - Incorporated on 15 July 2026",
+   "links": {
+    "self": "/company/17342364"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "1996-11-05",
+   "date_of_cessation": "2026-01-13",
+   "company_type": "ltd",
+   "company_number": "03273643",
+   "address": {
+    "address_line_1": "Marine Parade",
+    "locality": "Weston-Super-Mare",
+    "postal_code": "BS23 1AL",
+    "premises": "Grand Pier",
+    "region": "Somerset"
+   },
+   "title": "AGM RESORTS LIMITED",
+   "address_snippet": "Grand Pier, Marine Parade, Weston-Super-Mare, Somerset, BS23 1AL",
+   "description": "03273643 - Dissolved on 13 January 2026",
+   "links": {
+    "self": "/company/03273643"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 3326,
+ "start_index": 0
+}

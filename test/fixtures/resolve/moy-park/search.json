@@ -1,0 +1,282 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1961-03-03",
+   "company_type": "ltd",
+   "company_number": "NI004842",
+   "address": {
+    "address_line_1": "39 Seagoe Industrial Estate",
+    "locality": "Craigavon",
+    "postal_code": "BT63 5QE",
+    "premises": "The Food Park"
+   },
+   "title": "MOY PARK LIMITED",
+   "address_snippet": "The Food Park, 39 Seagoe Industrial Estate, Craigavon, BT63 5QE",
+   "description": "NI004842 - Incorporated on 3 March 1961",
+   "links": {
+    "self": "/company/NI004842"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "closed-on"
+   ],
+   "company_status": "closed-on",
+   "date_of_creation": "1970-01-12",
+   "date_of_cessation": "2014-03-12",
+   "company_type": "oversea-company",
+   "company_number": "FC006640",
+   "address": {
+    "address_line_1": "Royal Oak Building",
+    "country": "Northern Ireland",
+    "locality": "Marsh Bank Employment Park",
+    "postal_code": "CW2 8WY",
+    "premises": "Joseph O'Toole",
+    "region": "Middlewich Road Crewe"
+   },
+   "title": "MOY PARK LIMITED",
+   "address_snippet": "Joseph O'Toole, Royal Oak Building, Marsh Bank Employment Park, Middlewich Road Crewe, Northern Ireland, CW2 8WY",
+   "description": "FC006640 - Closed on 12 March 2014",
+   "links": {
+    "self": "/company/FC006640"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2014-05-14",
+   "company_type": "plc",
+   "company_number": "NI624604",
+   "address": {
+    "address_line_1": "39 Seagoe Industrial Estate",
+    "locality": "Craigavon",
+    "postal_code": "BT63 5QE",
+    "premises": "The Food Park",
+    "region": "Co. Armagh"
+   },
+   "title": "MOY PARK (BONDCO) PLC",
+   "address_snippet": "The Food Park, 39 Seagoe Industrial Estate, Craigavon, Co. Armagh, BT63 5QE",
+   "description": "NI624604 - Incorporated on 14 May 2014",
+   "links": {
+    "self": "/company/NI624604"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2008-08-29",
+   "company_type": "ltd",
+   "company_number": "NI070325",
+   "address": {
+    "address_line_1": "39 Seagoe Industrial Estate",
+    "locality": "Craigavon",
+    "postal_code": "BT63 5QE",
+    "premises": "The Food Park",
+    "region": "Co. Armagh"
+   },
+   "title": "MOY PARK HOLDINGS (EUROPE) LIMITED",
+   "address_snippet": "The Food Park, 39 Seagoe Industrial Estate, Craigavon, Co. Armagh, BT63 5QE",
+   "description": "NI070325 - Incorporated on 29 August 2008",
+   "links": {
+    "self": "/company/NI070325"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2014-05-13",
+   "company_type": "ltd",
+   "company_number": "NI624578",
+   "address": {
+    "address_line_1": "39 Seagoe Industrial Estate",
+    "locality": "Craigavon",
+    "postal_code": "BT63 5QE",
+    "premises": "The Food Park",
+    "region": "Co. Armagh"
+   },
+   "title": "MOY PARK (NEWCO) LTD",
+   "address_snippet": "The Food Park, 39 Seagoe Industrial Estate, Craigavon, Co. Armagh, BT63 5QE",
+   "description": "NI624578 - Incorporated on 13 May 2014",
+   "links": {
+    "self": "/company/NI624578"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "1992-09-11",
+   "date_of_cessation": "2018-07-17",
+   "company_type": "ltd",
+   "company_number": "NI026865",
+   "address": {
+    "address_line_1": "40 Linenhall Street",
+    "country": "Northern Ireland",
+    "locality": "Belfast",
+    "postal_code": "BT2 8BA",
+    "premises": "Elliott Duffy Garrett"
+   },
+   "title": "MOY PARK HOLDINGS LIMITED",
+   "address_snippet": "Elliott Duffy Garrett, 40 Linenhall Street, Belfast, Northern Ireland, BT2 8BA",
+   "description": "NI026865 - Dissolved on 17 July 2018",
+   "links": {
+    "self": "/company/NI026865"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2026-08-25",
+   "company_type": "ltd",
+   "company_number": "17418360",
+   "address": {
+    "address_line_1": "Kingswood Avenue",
+    "country": "England",
+    "locality": "Belper",
+    "postal_code": "DE56 1TU",
+    "premises": "33"
+   },
+   "title": "MOYLAN & PARKIN PROPERTY INVESTMENTS LIMITED",
+   "address_snippet": "33 Kingswood Avenue, Belper, England, DE56 1TU",
+   "description": "17418360 - Incorporated on 25 August 2026",
+   "links": {
+    "self": "/company/17418360"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2007-06-04",
+   "company_type": "ltd",
+   "company_number": "06267425",
+   "address": {
+    "address_line_1": "High Street",
+    "country": "England",
+    "locality": "Haverhill",
+    "postal_code": "CB9 8AD",
+    "premises": "31"
+   },
+   "title": "MOYNS PARK ESTATE LIMITED",
+   "address_snippet": "31 High Street, Haverhill, England, CB9 8AD",
+   "description": "06267425 - Incorporated on 4 June 2007",
+   "links": {
+    "self": "/company/06267425"
+   },
+   "snippet": "MOYNS PARK ESTATE AND STUD LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2014-04-08",
+   "date_of_cessation": "2020-11-17",
+   "company_type": "ltd",
+   "company_number": "08985875",
+   "address": {
+    "address_line_1": "Sale Place",
+    "locality": "London",
+    "postal_code": "W2 1PU",
+    "premises": "26"
+   },
+   "title": "MOYLE PARK LIMITED",
+   "address_snippet": "26 Sale Place, London, W2 1PU",
+   "description": "08985875 - Dissolved on 17 November 2020",
+   "links": {
+    "self": "/company/08985875"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1968-09-20",
+   "company_type": "ltd",
+   "company_number": "00939130",
+   "address": {
+    "address_line_1": "10 Market Walk",
+    "country": "United Kingdom",
+    "locality": "Saffron Walden",
+    "postal_code": "CB10 1JZ",
+    "premises": "Market House",
+    "region": "Essex"
+   },
+   "title": "A.B. MOYLAN (FUEL OILS) LIMITED",
+   "address_snippet": "Market House, 10 Market Walk, Saffron Walden, Essex, United Kingdom, CB10 1JZ",
+   "description": "00939130 - Incorporated on 20 September 1968",
+   "links": {
+    "self": "/company/00939130"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 10000,
+ "start_index": 0
+}

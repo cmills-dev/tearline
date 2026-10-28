@@ -1,0 +1,26 @@
+{
+  "companyNumber": "03558065",
+  "companyName": "BOPARAN HOLDINGS LIMITED",
+  "transactionId": "MzUxODk5OTExM2FkaXF6a2N4",
+  "filingType": "AA",
+  "filedOn": "2026-05-04",
+  "madeUpDate": "2025-07-26",
+  "accountsType": "group",
+  "pageCount": 113,
+  "chPages": 113,
+  "file": "filing.pdf",
+  "format": "pdf",
+  "resourcesOffered": [
+    "application/pdf"
+  ],
+  "bytes": 4871049,
+  "sha256": "cc60f20e1bf30689f106aae146caa2f6df2eb6540de20ed42abea86800035120",
+  "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/MBK5d5l9ODA7DNZyja44bEKonN6o4GcBFOPTQgjS068",
+  "filingHistoryUrl": "https://api.company-information.service.gov.uk/company/03558065/filing-history/MzUxODk5OTExM2FkaXF6a2N4",
+  "publicRecordUrl": "https://find-and-update.company-information.service.gov.uk/company/03558065/filing-history",
+  "textLayerChars": 2,
+  "bytesCommitted": true,
+  "kind": "scan-group",
+  "notes": "Group accounts scan, 113 pages.",
+  "frozenOn": "2026-09-15"
+}

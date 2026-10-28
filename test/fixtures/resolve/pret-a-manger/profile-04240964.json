@@ -1,0 +1,68 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2026-01-01",
+   "period_end_on": "2026-01-01",
+   "period_start_on": "2025-01-03",
+   "type": "audit-exemption-subsidiary"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2026-01-02"
+  },
+  "next_due": "2027-09-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "PRET A MANGER (HONG KONG) LIMITED",
+ "company_number": "04240964",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-01-03",
+  "next_due": "2027-01-17",
+  "next_made_up_to": "2027-01-03",
+  "overdue": false
+ },
+ "date_of_creation": "2001-06-25",
+ "etag": "2551fe5467f2f5c3e42410600b578aee8160fb37",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-01-03",
+ "links": {
+  "persons_with_significant_control": "/company/04240964/persons-with-significant-control",
+  "self": "/company/04240964",
+  "charges": "/company/04240964/charges",
+  "filing_history": "/company/04240964/filing-history",
+  "officers": "/company/04240964/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2001-07-31",
+   "effective_from": "2001-06-25",
+   "name": "BROOMCO (2602) LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "75b Verde",
+  "address_line_2": "10 Bressenden Place",
+  "country": "England",
+  "locality": "London",
+  "postal_code": "SW1E 5DH"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "56101"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

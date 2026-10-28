@@ -1,0 +1,38 @@
+{
+  "companyNumber": "11391321",
+  "companyName": "PRET A MANGER LIMITED",
+  "transactionId": "MzUyNzQ5NTk5NmFkaXF6a2N4",
+  "filingType": "AA",
+  "filedOn": "2026-06-21",
+  "madeUpDate": "2026-01-01",
+  "accountsType": "audit-exemption-subsiduary",
+  "pageCount": 27,
+  "chPages": 27,
+  "file": "filing.pdf",
+  "format": "pdf",
+  "resourcesOffered": [
+    "application/pdf"
+  ],
+  "bytes": 721573,
+  "sha256": "10dd7483b1e1d52a398e1b25d7d055b135364662755bc479045a5f02e14adf24",
+  "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/pJ7VfUkAo_MGZkCBnFVMBWyUbHnSflIQ35Rl_eW-938",
+  "filingHistoryUrl": "https://api.company-information.service.gov.uk/company/11391321/filing-history/MzUyNzQ5NTk5NmFkaXF6a2N4",
+  "publicRecordUrl": "https://find-and-update.company-information.service.gov.uk/company/11391321/filing-history",
+  "textLayerChars": 2,
+  "bytesCommitted": true,
+  "kind": "subsidiary",
+  "notes": "Audit-exempt subsidiary (s479A). The parent's group accounts were filed the same day as PARENT_ACC and are frozen beside it as parent.pdf.",
+  "frozenOn": "2026-09-15",
+  "parent": {
+    "transactionId": "MzUyNzQ5NTk3MWFkaXF6a2N4",
+    "filingType": "PARENT_ACC",
+    "filedOn": "2026-06-21",
+    "file": "parent.pdf",
+    "pageCount": 106,
+    "bytes": 4459028,
+    "sha256": "5f594bc30d72fbd251af48c5cb80c8b79ea7cb1946090200d675fafa04d41ce2",
+    "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/ufCqTAhD9Bf_KoXS-K-XPOaBgEMAgV1yfTH1z2IlCOo",
+    "textLayerChars": 2,
+    "bytesCommitted": true
+  }
+}

@@ -1,0 +1,281 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1991-04-29",
+   "company_type": "ltd",
+   "company_number": "02605751",
+   "address": {
+    "address_line_1": "Marshalsea Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE1 1EP",
+    "premises": "5-7"
+   },
+   "title": "WAGAMAMA LIMITED",
+   "address_snippet": "5-7 Marshalsea Road, London, England, SE1 1EP",
+   "description": "02605751 - Incorporated on 29 April 1991",
+   "links": {
+    "self": "/company/02605751"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2016-10-20",
+   "company_type": "ltd",
+   "company_number": "10439358",
+   "address": {
+    "address_line_1": "Marshalsea Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE1 1EP",
+    "premises": "5-7"
+   },
+   "title": "WAGAMAMA CPU LIMITED",
+   "address_snippet": "5-7 Marshalsea Road, London, England, SE1 1EP",
+   "description": "10439358 - Incorporated on 20 October 2016",
+   "links": {
+    "self": "/company/10439358"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1996-08-13",
+   "company_type": "ltd",
+   "company_number": "03237591",
+   "address": {
+    "address_line_1": "Marshalsea Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE1 1EP",
+    "premises": "5-7"
+   },
+   "title": "WAGAMAMA GROUP LIMITED",
+   "address_snippet": "5-7 Marshalsea Road, London, England, SE1 1EP",
+   "description": "03237591 - Incorporated on 13 August 1996",
+   "links": {
+    "self": "/company/03237591"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2011-03-08",
+   "company_type": "ltd",
+   "company_number": "07556525",
+   "address": {
+    "address_line_1": "Marshalsea Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE1 1EP",
+    "premises": "5-7"
+   },
+   "title": "WAGAMAMA (HOLDINGS) LIMITED",
+   "address_snippet": "5-7 Marshalsea Road, London, England, SE1 1EP",
+   "description": "07556525 - Incorporated on 8 March 2011",
+   "links": {
+    "self": "/company/07556525"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1999-11-22",
+   "company_type": "ltd",
+   "company_number": "03881186",
+   "address": {
+    "address_line_1": "Marshalsea Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE1 1EP",
+    "premises": "5-7"
+   },
+   "title": "WAGAMAMA INTERNATIONAL (FRANCHISING) LIMITED",
+   "address_snippet": "5-7 Marshalsea Road, London, England, SE1 1EP",
+   "description": "03881186 - Incorporated on 22 November 1999",
+   "links": {
+    "self": "/company/03881186"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2015-01-16",
+   "date_of_cessation": "2023-06-09",
+   "company_type": "ltd",
+   "company_number": "09392832",
+   "address": {
+    "address_line_1": "Two Chamberlain Square",
+    "locality": "Birmingham",
+    "postal_code": "B3 3AX",
+    "premises": "C/O Mazars Llp First Floor"
+   },
+   "title": "WAGAMAMA FINANCE LIMITED",
+   "address_snippet": "C/O Mazars Llp First Floor, Two Chamberlain Square, Birmingham, B3 3AX",
+   "description": "09392832 - Dissolved on 9 June 2023",
+   "links": {
+    "self": "/company/09392832"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2018-04-11",
+   "date_of_cessation": "2023-04-25",
+   "company_type": "ltd",
+   "company_number": "11305225",
+   "address": {
+    "address_line_1": "1st Floor Two Chamberlain Square",
+    "locality": "Birmingham",
+    "postal_code": "B3 3AX",
+    "premises": "C/O MAZARS LLP"
+   },
+   "title": "WAGAMAMA NEWCO LIMITED",
+   "address_snippet": "C/O MAZARS LLP, 1st Floor Two Chamberlain Square, Birmingham, B3 3AX",
+   "description": "11305225 - Dissolved on 25 April 2023",
+   "links": {
+    "self": "/company/11305225"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2022-07-12",
+   "date_of_cessation": "2023-03-07",
+   "company_type": "ltd",
+   "company_number": "14228011",
+   "address": {
+    "address_line_1": "Lower Marsh",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "SE1 7AE",
+    "premises": "276"
+   },
+   "title": "WAGAMAMA (ELEPHANT PARK) LIMITED",
+   "address_snippet": "276 Lower Marsh, London, United Kingdom, SE1 7AE",
+   "description": "14228011 - Dissolved on 7 March 2023",
+   "links": {
+    "self": "/company/14228011"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2008-07-18",
+   "date_of_cessation": "2011-06-28",
+   "company_type": "ltd",
+   "company_number": "06650909",
+   "address": {
+    "address_line_1": "Browning Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "E12 6NU",
+    "premises": "225",
+    "region": "London"
+   },
+   "title": "TAJ PAN HOUSE LIMITED",
+   "address_snippet": "225 Browning Road, London, London, United Kingdom, E12 6NU",
+   "description": "06650909 - Dissolved on 28 June 2011",
+   "links": {
+    "self": "/company/06650909"
+   },
+   "snippet": "WAGAMAMA ENTERPRISES",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "registered-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2011-12-07",
+   "company_type": "limited-partnership",
+   "company_number": "SL009986",
+   "address": {
+    "address_line_1": "Charlotte Square",
+    "locality": "Edinburgh",
+    "postal_code": "EH2 4DF",
+    "premises": "16"
+   },
+   "title": "DS MABEL LIMITED PARTNERSHIP",
+   "address_snippet": "16 Charlotte Square, Edinburgh, EH2 4DF",
+   "description": "SL009986 - Registered on 7 December 2011",
+   "links": {
+    "self": "/company/SL009986"
+   },
+   "snippet": "DS WAGAMAMA",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 11,
+ "start_index": 0
+}

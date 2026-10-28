@@ -1,0 +1,52 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2026-04-28"
+  },
+  "next_due": "2027-09-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "TRAVELODGE HOTELS ISLE OF MAN LIMITED",
+ "company_number": "17185325",
+ "company_status": "active",
+ "confirmation_statement": {
+  "next_due": "2027-05-11",
+  "next_made_up_to": "2027-04-27",
+  "overdue": false
+ },
+ "date_of_creation": "2026-04-28",
+ "etag": "1f62e12e8fc0a47b8e9898feab99f3ca51eb808f",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/17185325/persons-with-significant-control",
+  "self": "/company/17185325",
+  "filing_history": "/company/17185325/filing-history",
+  "officers": "/company/17185325/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "Sleepy Hollow",
+  "address_line_2": "Aylesbury Road",
+  "country": "England",
+  "locality": "Thame",
+  "postal_code": "OX9 3AT",
+  "region": "Oxfordshire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "55100"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

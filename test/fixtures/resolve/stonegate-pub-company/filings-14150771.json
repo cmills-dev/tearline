@@ -1,0 +1,94 @@
+{
+ "items": [
+  {
+   "transaction_id": "MzUyODA0MDA1N2FkaXF6a2N4",
+   "barcode": "AF4SZ6TM",
+   "type": "AA",
+   "date": "2026-07-04",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-full",
+   "description_values": {
+    "made_up_date": "2025-09-28"
+   },
+   "pages": 15,
+   "action_date": "2025-09-28",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/14150771/filing-history/MzUyODA0MDA1N2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/i9oW_fN3zQnAsHYJDGCYhJtyG-KBAKsnrOGE5gzHdG8"
+   }
+  },
+  {
+   "transaction_id": "MzQ3MTc0Mzc3NmFkaXF6a2N4",
+   "barcode": "AE5FHII9",
+   "type": "AA",
+   "date": "2025-06-30",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-full",
+   "description_values": {
+    "made_up_date": "2024-09-29"
+   },
+   "pages": 14,
+   "action_date": "2024-09-29",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/14150771/filing-history/MzQ3MTc0Mzc3NmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/slc79Ij8RySatu7Fa1-s86V3ujN__rBDHSkREugv65o"
+   }
+  },
+  {
+   "transaction_id": "MzQyMjA0MjM3OGFkaXF6a2N4",
+   "barcode": "AD3698OY",
+   "type": "AA",
+   "date": "2024-05-20",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-full",
+   "description_values": {
+    "made_up_date": "2023-09-24"
+   },
+   "pages": 14,
+   "action_date": "2023-09-24",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/14150771/filing-history/MzQyMjA0MjM3OGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/l_QDwMdXNEkyqV-KBLN9rl35XGAAECs5dV0h5mdYzBE"
+   }
+  },
+  {
+   "transaction_id": "MzQxNDAzNTA0N2FkaXF6a2N4",
+   "barcode": "XCYO5CYE",
+   "type": "AA01",
+   "date": "2024-03-11",
+   "category": "accounts",
+   "description": "change-account-reference-date-company-previous-shortened",
+   "description_values": {
+    "made_up_date": "2024-06-30",
+    "new_date": "2023-09-25"
+   },
+   "pages": 1,
+   "action_date": "2023-09-25",
+   "links": {
+    "self": "/company/14150771/filing-history/MzQxNDAzNTA0N2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/oRSREgQnadCOD0lXUxJBReNYB4tyCusG4MgpJQsua6U"
+   }
+  },
+  {
+   "transaction_id": "MzQxMzE3MTg3N2FkaXF6a2N4",
+   "barcode": "ACXWEGNC",
+   "type": "AA",
+   "date": "2024-03-07",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-full",
+   "description_values": {
+    "made_up_date": "2023-06-30"
+   },
+   "pages": 15,
+   "action_date": "2023-06-30",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/14150771/filing-history/MzQxMzE3MTg3N2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ag3cA8XmBOhxKvNVWqjlN30IhCQJFgrJzBsrfI2f5gY"
+   }
+  }
+ ]
+}

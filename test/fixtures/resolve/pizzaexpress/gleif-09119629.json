@@ -1,0 +1,152 @@
+{
+ "meta": {
+  "goldenCopy": {
+   "publishDate": "2026-09-15T08:00:00Z"
+  },
+  "pagination": {
+   "currentPage": 1,
+   "perPage": 15,
+   "from": 1,
+   "to": 1,
+   "total": 1,
+   "lastPage": 1
+  }
+ },
+ "links": {
+  "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.registeredAs%5D=09119629&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=15",
+  "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.registeredAs%5D=09119629&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=15"
+ },
+ "data": [
+  {
+   "type": "lei-records",
+   "id": "549300EEIJ0PEX7FR525",
+   "attributes": {
+    "lei": "549300EEIJ0PEX7FR525",
+    "entity": {
+     "legalName": {
+      "name": "PIZZAEXPRESS FINANCING 2 PLC",
+      "language": "en"
+     },
+     "otherNames": [
+      {
+       "name": "TWINKLE PIZZA PLC",
+       "language": "en",
+       "type": "PREVIOUS_LEGAL_NAME"
+      }
+     ],
+     "transliteratedOtherNames": [],
+     "legalAddress": {
+      "language": "en",
+      "addressLines": [
+       "HUNTON HOUSE HIGHBRIDGE ESTATE",
+       "OXFORD ROAD MIDDLESEX"
+      ],
+      "addressNumber": null,
+      "addressNumberWithinBuilding": null,
+      "mailRouting": null,
+      "city": "UXBRIDGE",
+      "region": "GB-HIL",
+      "country": "GB",
+      "postalCode": "UB8 1LX"
+     },
+     "headquartersAddress": {
+      "language": "en",
+      "addressLines": [
+       "HUNTON HOUSE HIGHBRIDGE ESTATE",
+       "OXFORD ROAD MIDDLESEX"
+      ],
+      "addressNumber": null,
+      "addressNumberWithinBuilding": null,
+      "mailRouting": null,
+      "city": "UXBRIDGE",
+      "region": "GB-HIL",
+      "country": "GB",
+      "postalCode": "UB8 1LX"
+     },
+     "registeredAt": {
+      "id": "RA000585",
+      "other": null
+     },
+     "registeredAs": "09119629",
+     "jurisdiction": "GB",
+     "category": "GENERAL",
+     "legalForm": {
+      "id": "B6ES",
+      "other": null
+     },
+     "associatedEntity": {
+      "lei": null,
+      "name": null
+     },
+     "status": "ACTIVE",
+     "expiration": {
+      "date": null,
+      "reason": null
+     },
+     "successorEntity": {
+      "lei": null,
+      "name": null
+     },
+     "successorEntities": [],
+     "creationDate": "2014-07-06T05:00:00Z",
+     "subCategory": null,
+     "otherAddresses": [],
+     "eventGroups": []
+    },
+    "registration": {
+     "initialRegistrationDate": "2015-06-02T01:42:00Z",
+     "lastUpdateDate": "2024-07-20T00:05:28Z",
+     "status": "LAPSED",
+     "nextRenewalDate": "2024-07-19T15:46:11Z",
+     "managingLou": "213800WAVVOPS85N2205",
+     "corroborationLevel": "FULLY_CORROBORATED",
+     "validatedAt": {
+      "id": "RA000585",
+      "other": null
+     },
+     "validatedAs": "09119629",
+     "otherValidationAuthorities": []
+    },
+    "bic": null,
+    "mic": null,
+    "ocid": "gb/09119629",
+    "qcc": "QGBH9F4J2F",
+    "gem": null,
+    "spglobal": [
+     "268752860"
+    ],
+    "conformityFlag": "NON_CONFORMING"
+   },
+   "relationships": {
+    "managing-lou": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300EEIJ0PEX7FR525/managing-lou"
+     }
+    },
+    "lei-issuer": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300EEIJ0PEX7FR525/lei-issuer"
+     }
+    },
+    "field-modifications": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300EEIJ0PEX7FR525/field-modifications"
+     }
+    },
+    "direct-parent": {
+     "links": {
+      "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300EEIJ0PEX7FR525/direct-parent-reporting-exception"
+     }
+    },
+    "ultimate-parent": {
+     "links": {
+      "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300EEIJ0PEX7FR525/ultimate-parent-reporting-exception"
+     }
+    }
+   },
+   "links": {
+    "self": "https://api.gleif.org/api/v1/lei-records/549300EEIJ0PEX7FR525"
+   }
+  }
+ ]
+}

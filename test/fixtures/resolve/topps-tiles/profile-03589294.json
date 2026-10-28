@@ -1,0 +1,46 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "28",
+   "month": "09"
+  },
+  "last_accounts": {
+   "made_up_to": "2015-10-03",
+   "type": "dormant"
+  }
+ },
+ "annual_return": {
+  "last_made_up_to": "2015-06-14"
+ },
+ "can_file": false,
+ "company_name": "TOPPS TILES QUEST TRUSTEE LIMITED",
+ "company_number": "03589294",
+ "company_status": "dissolved",
+ "status": "active",
+ "date_of_cessation": "2016-06-07",
+ "date_of_creation": "1998-06-23",
+ "etag": "05fda9362798931a6158f207d9708c76b85b6835",
+ "has_been_liquidated": false,
+ "has_charges": true,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-06-14",
+ "links": {
+  "self": "/company/03589294",
+  "charges": "/company/03589294/charges",
+  "filing_history": "/company/03589294/filing-history",
+  "officers": "/company/03589294/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "Topps Tiles Thorpe Way",
+  "address_line_2": "Grove Park",
+  "locality": "Enderby",
+  "postal_code": "LE19 1SU",
+  "region": "Leicestershire"
+ },
+ "sic_codes": [
+  "47520"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false
+}

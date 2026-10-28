@@ -1,0 +1,80 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2024-12-29",
+   "period_end_on": "2024-12-29",
+   "period_start_on": "2024-01-01",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2026-09-30",
+   "overdue": false,
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2024-12-30"
+  },
+  "next_due": "2026-09-30",
+  "next_made_up_to": "2025-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "PIZZAEXPRESS LIMITED",
+ "company_number": "01404552",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-01-28",
+  "next_due": "2027-02-11",
+  "next_made_up_to": "2027-01-28",
+  "overdue": false
+ },
+ "date_of_creation": "1978-12-11",
+ "etag": "a488eface33738cdfc506b19e3ca9224c9c5c202",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-01-28",
+ "links": {
+  "persons_with_significant_control": "/company/01404552/persons-with-significant-control",
+  "persons_with_significant_control_statements": "/company/01404552/persons-with-significant-control-statements",
+  "self": "/company/01404552",
+  "charges": "/company/01404552/charges",
+  "filing_history": "/company/01404552/filing-history",
+  "officers": "/company/01404552/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2003-09-30",
+   "effective_from": "1993-02-17",
+   "name": "PIZZAEXPRESS PLC"
+  },
+  {
+   "ceased_on": "1993-02-17",
+   "effective_from": "1981-12-31",
+   "name": "STAR COMPUTER GROUP P L C"
+  },
+  {
+   "ceased_on": "1981-12-31",
+   "effective_from": "1978-12-11",
+   "name": "STAR COMPUTERS LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Building 01 Arc Uxbridge",
+  "address_line_2": "Sanderson Road",
+  "country": "United Kingdom",
+  "locality": "Uxbridge",
+  "postal_code": "UB8 1DH",
+  "region": "Middlesex"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "56101"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

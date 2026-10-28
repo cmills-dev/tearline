@@ -1,0 +1,251 @@
+{
+ "note": "Recorded Anthropic Messages API responses for page-finding, the first read, the line second read and the debt-note facility read (WP-BE16) of a frozen UK gold scan. No PDF bytes. Replayed offline by test/capitalStructure.test.ts.",
+ "companyNumber": "00771335",
+ "readerModel": "claude-opus-5",
+ "finderModel": "claude-haiku-4-5",
+ "recordedAt": "2026-09-27T22:55:51.930Z",
+ "seconds": {
+  "pageFindAndFirstRead": 43.18,
+  "secondRead": 20.116,
+  "facilityRead": 7.228,
+  "total": 63.296,
+  "endToEndMeasured": "2026-09-22T21:14:40.908Z"
+ },
+ "gbp": 0.4052,
+ "gbpThisRecording": 0.0265,
+ "usage": [
+  {
+   "label": "vision-facilities:00771335",
+   "model": "claude-opus-5",
+   "inputTokens": 3701,
+   "outputTokens": 583,
+   "seconds": 7.162,
+   "gbp": 0.026464
+  }
+ ],
+ "calls": [
+  {
+   "stage": "contents",
+   "model": "claude-haiku-4-5",
+   "response": {
+    "model": "claude-haiku-4-5-20251001",
+    "id": "msg_011CfUmQTBLxZRSc62fFx4AG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "text",
+      "text": "{\"contents_found\": \"yes\", \"contents_pdf_page_index\": 3, \"page_numbers\": [{\"pdf_page_index\": 1, \"printed_page_number\": \"\"}, {\"pdf_page_index\": 2, \"printed_page_number\": \"\"}, {\"pdf_page_index\": 3, \"printed_page_number\": \"01\"}, {\"pdf_page_index\": 4, \"printed_page_number\": \"02\"}, {\"pdf_page_index\": 5, \"printed_page_number\": \"03\"}, {\"pdf_page_index\": 6, \"printed_page_number\": \"04\"}, {\"pdf_page_index\": 7, \"printed_page_number\": \"05\"}, {\"pdf_page_index\": 8, \"printed_page_number\": \"06\"}, {\"pdf_page_index\": 9, \"printed_page_number\": \"07\"}, {\"pdf_page_index\": 10, \"printed_page_number\": \"08\"}, {\"pdf_page_index\": 11, \"printed_page_number\": \"09\"}, {\"pdf_page_index\": 12, \"printed_page_number\": \"10\"}], \"entries\": [{\"section\": \"group_income_statement\", \"title_as_printed\": \"Consolidated statement of comprehensive income\", \"printed_page\": \"89\"}, {\"section\": \"group_balance_sheet\", \"title_as_printed\": \"Consolidated statement of financial position\", \"printed_page\": \"91\"}, {\"section\": \"group_cash_flow_statement\", \"title_as_printed\": \"Consolidated statement of cash flows\", \"printed_page\": \"92\"}, {\"section\": \"group_notes\", \"title_as_printed\": \"Notes to the financial statements\", \"printed_page\": \"94\"}, {\"section\": \"company_financial_statements\", \"title_as_printed\": \"Company statement of financial position\", \"printed_page\": \"132\"}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 19893,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 449,
+     "service_tier": "standard",
+     "inference_geo": "not_available"
+    },
+    "diagnostics": null
+   },
+   "status": 200
+  },
+  {
+   "stage": "classify:118-136",
+   "model": "claude-haiku-4-5",
+   "response": {
+    "model": "claude-haiku-4-5-20251001",
+    "id": "msg_011CfUmRSzCx8zk5LoUweLJK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "text",
+      "text": "{\"pages\": [{\"pdf_page_index\": 1, \"printed_page_number\": \"116\", \"basis\": \"group\", \"roles\": [\"leases_note\"]}, {\"pdf_page_index\": 2, \"printed_page_number\": \"117\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 3, \"printed_page_number\": \"118\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 4, \"printed_page_number\": \"119\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 5, \"printed_page_number\": \"120\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 6, \"printed_page_number\": \"121\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 7, \"printed_page_number\": \"122\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 8, \"printed_page_number\": \"123\", \"basis\": \"group\", \"roles\": [\"net_debt_note\"]}, {\"pdf_page_index\": 9, \"printed_page_number\": \"124\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 10, \"printed_page_number\": \"125\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 11, \"printed_page_number\": \"126\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 12, \"printed_page_number\": \"127\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 13, \"printed_page_number\": \"128\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 14, \"printed_page_number\": \"129\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 15, \"printed_page_number\": \"130\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 16, \"printed_page_number\": \"131\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 17, \"printed_page_number\": \"132\", \"basis\": \"company\", \"roles\": [\"balance_sheet\"]}, {\"pdf_page_index\": 18, \"printed_page_number\": \"133\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 19, \"printed_page_number\": \"134\", \"basis\": \"company\", \"roles\": [\"other\"]}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 30836,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 644,
+     "service_tier": "standard",
+     "inference_geo": "not_available"
+    },
+    "diagnostics": null
+   },
+   "status": 200
+  },
+  {
+   "stage": "classify:88-117",
+   "model": "claude-haiku-4-5",
+   "response": {
+    "model": "claude-haiku-4-5-20251001",
+    "id": "msg_011CfUmRb9buypgSMvuxpjax",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "text",
+      "text": "{\"pages\": [{\"pdf_page_index\": 1, \"printed_page_number\": \"86\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 2, \"printed_page_number\": \"87\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 3, \"printed_page_number\": \"88\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 4, \"printed_page_number\": \"89\", \"basis\": \"group\", \"roles\": [\"income_statement\"]}, {\"pdf_page_index\": 5, \"printed_page_number\": \"90\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 6, \"printed_page_number\": \"91\", \"basis\": \"group\", \"roles\": [\"balance_sheet\"]}, {\"pdf_page_index\": 7, \"printed_page_number\": \"92\", \"basis\": \"group\", \"roles\": [\"cash_flow_statement\"]}, {\"pdf_page_index\": 8, \"printed_page_number\": \"93\", \"basis\": \"group\", \"roles\": [\"cash_flow_statement\"]}, {\"pdf_page_index\": 9, \"printed_page_number\": \"94\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 10, \"printed_page_number\": \"95\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 11, \"printed_page_number\": \"96\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 12, \"printed_page_number\": \"97\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 13, \"printed_page_number\": \"98\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 14, \"printed_page_number\": \"99\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 15, \"printed_page_number\": \"100\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 16, \"printed_page_number\": \"101\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 17, \"printed_page_number\": \"102\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 18, \"printed_page_number\": \"103\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 19, \"printed_page_number\": \"104\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 20, \"printed_page_number\": \"105\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 21, \"printed_page_number\": \"106\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 22, \"printed_page_number\": \"107\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 23, \"printed_page_number\": \"108\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 24, \"printed_page_number\": \"109\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 25, \"printed_page_number\": \"110\", \"basis\": \"group\", \"roles\": [\"leases_note\"]}, {\"pdf_page_index\": 26, \"printed_page_number\": \"111\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 27, \"printed_page_number\": \"112\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 28, \"printed_page_number\": \"113\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 29, \"printed_page_number\": \"114\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 30, \"printed_page_number\": \"115\", \"basis\": \"group\", \"roles\": [\"borrowings_note\"]}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 48139,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 1016,
+     "service_tier": "standard",
+     "inference_geo": "not_available"
+    },
+    "diagnostics": null
+   },
+   "status": 200
+  },
+  {
+   "stage": "first-read",
+   "model": "claude-opus-5",
+   "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUmSH1iPa5S3CNWMqxBc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "CAISsQkKtAIIEhgCKkDi/Rvrv0aHY2gak3HRrkNwfIY8qBIZ+GdzAC9STLcglFfJHnA5cY2VsMGURPw+JkPG4h3Y9gpfLl7n+j09sQM6Mg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRlMDhmMzYwMy1hMmViLTQ5ZGItODZlMi01ZDNiYTRmMGM3NWSoAZq95tUGwgFACAYQABoSAV7MAtqKA083CNuYBYJUBCatIAIyBBJxzyU6BDbNfBVCBDgzI4pKBDgzI4pQAFoE2QXhVmACaAFwAdoBYAoWcHJlZml4X2JlZm9yZV9ibG9ja192MRIgdig4f2yN6oxkeKnwFq2Az9/XMYAw3P5W8E199uASF/ciADIgwsATyGqckuIvlm89hhd2j4t6RMkCrcwJe/oeCYr7Th9IAxIM6yxqRAHaUwdvXEmDGgw15GfCYnlf/B4kpcAiMLmymV9bsSgLrtWuH0oLy6KfJE+Zy+NatnV9Z2FacE0OjL+xL3XTd2nG07omP+UFIiqpBg4EWHQd1PKLvo0TTn1WIu/hGSVUrlov280ObeQXxSKJryacDUZ8+05igyiJgGkau5ii8yEZPFLbMT94p2ZL2I0DqGn8YGRDh8I70Dj8CU0Gf6AY9UOiiUu8eUypvWTYUgx4FSIKO4i4au4ICaCzDU4FwC+ljkE7YCS3LBfmTDNYEom+MqZgfL7JruG7NLpKRVdxN9ubc1TsbM+1KTQD/j8r1KqQBSXg0byimXEnGkSxw3uRkKPzEEohzgT9/ycKmUskc2Fax2Qif8moSeNP9+Qz2CCSj47gzO6Hsqv+Rheky6ozaP8sfXN/D8xyUXkqBAKTyyfhlLv/PiSfHGVpDME91qJHl2Il+hr2XiXTckqNxAqlsgIDa8S8nH+VvSfGNlMfu01lp92UiAuELA8O359Sab+P7UXiMlCZL3yt/4m4JG90xqpCSRNoJU05DbefARwSU5GviaLEd4OTj1vIUBfQZCk+uqLqdooqf99o4gO41YZ6JSsPSXEYKy2J/12kOUk3V+/XQHWhgUR9QKiOPJ/E4oIVbAom1D01EJcMcaztLD/ETteSNB2HjQRwq7Wd2KYTDWp8zUKo+hW0q9gxj5JDp8qa9awB+vT6gnp1IZBMlwAW9ZV9VujeBjHBOZf+1tt9/1xHHN8sxPIzkXfh/6btlj8Ldlvw75SiY0N5RcWERGR5Xt4GEntwDKRGs9Vn6TpdrCUkXeiIUB2wgy+KHdGX3tvYG303XljrnZVV44VCeYLN3PzC32TbmCyXYWgxP/OC1yvQzUsHL7/1a4SoS/pcruRqsembkf/hB8aS3jv6FJhqKJjgtTZ+bcVfYhoX1WFwKJKBs/gJktK0vndoOsUdi2miseAECmW+uRm7kNQSbZq+Fp6WGCgJQap9tAFEuPj0dmA/irKRb4lL5ZLMbVl+HtmLbwGo04LulAqJiklpmmA9nrqk9loA4jbI4aLIeJV/rrK1rFSbFKH3rNwuGH4ST5RXDVmu4XnfJ87wZPcF+3bu49q/jBbZbDm+HFloFtMqBkrKq//PxYP0jYhm5WEKIsvMNhf2TaI5C7XUz28QQYi46L6+qpgnGAE="
+     },
+     {
+      "type": "text",
+      "text": "{\"document\":{\"company_name_as_printed\":\"Solid State\",\"period_end\":\"2026-03-31\",\"currency\":\"GBP\",\"basis\":\"consolidated\"},\"lines\":[{\"key\":\"turnover\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Revenue\",\"figure_text\":\"154,144\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":1,\"printed_page_number\":\"89\",\"statement\":\"Consolidated statement of comprehensive income\",\"period_end\":\"2026-03-31\",\"note_reference\":\"3, 31\"},{\"key\":\"operating_profit\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Operating profit\",\"figure_text\":\"6,947\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":1,\"printed_page_number\":\"89\",\"statement\":\"Consolidated statement of comprehensive income\",\"period_end\":\"2026-03-31\",\"note_reference\":\"4\"},{\"key\":\"depreciation_amortisation\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed-as-single-figure\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"interest_payable\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Finance costs\",\"figure_text\":\"(1,102)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"pdf_page_index\":1,\"printed_page_number\":\"89\",\"statement\":\"Consolidated statement of comprehensive income\",\"period_end\":\"2026-03-31\",\"note_reference\":\"6\"},{\"key\":\"profit_before_tax\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Profit before taxation\",\"figure_text\":\"5,845\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":1,\"printed_page_number\":\"89\",\"statement\":\"Consolidated statement of comprehensive income\",\"period_end\":\"2026-03-31\",\"note_reference\":\"\"},{\"key\":\"cash_at_bank\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Cash and cash equivalents – available on demand\",\"figure_text\":\"6,568\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"91\",\"statement\":\"Consolidated statement of financial position\",\"period_end\":\"2026-03-31\",\"note_reference\":\"22\"},{\"key\":\"borrowings_within_one_year\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Current borrowings\",\"figure_text\":\"(17)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"91\",\"statement\":\"Consolidated statement of financial position\",\"period_end\":\"2026-03-31\",\"note_reference\":\"19, 21, 22\"},{\"key\":\"borrowings_after_one_year\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Non-current borrowings\",\"figure_text\":\"(10,142)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"91\",\"statement\":\"Consolidated statement of financial position\",\"period_end\":\"2026-03-31\",\"note_reference\":\"19, 21, 22\"},{\"key\":\"lease_liabilities_total\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total lease liabilities\",\"figure_text\":\"5,893\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":7,\"printed_page_number\":\"116\",\"statement\":\"20. Lease liabilities\",\"period_end\":\"2026-03-31\",\"note_reference\":\"20\"},{\"key\":\"lease_liabilities_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Current lease liabilities\",\"figure_text\":\"1,222\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":7,\"printed_page_number\":\"116\",\"statement\":\"20. Lease liabilities\",\"period_end\":\"2026-03-31\",\"note_reference\":\"20\"},{\"key\":\"lease_liabilities_non_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Non-current lease liabilities\",\"figure_text\":\"4,671\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":7,\"printed_page_number\":\"116\",\"statement\":\"20. Lease liabilities\",\"period_end\":\"2026-03-31\",\"note_reference\":\"20\"},{\"key\":\"preference_shares\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"shareholder_loans\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"net_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total net assets\",\"figure_text\":\"63,314\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"91\",\"statement\":\"Consolidated statement of financial position\",\"period_end\":\"2026-03-31\",\"note_reference\":\"\"},{\"key\":\"total_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total assets\",\"figure_text\":\"107,214\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"91\",\"statement\":\"Consolidated statement of financial position\",\"period_end\":\"2026-03-31\",\"note_reference\":\"\"},{\"key\":\"current_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total current liabilities\",\"figure_text\":\"(26,048)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"91\",\"statement\":\"Consolidated statement of financial position\",\"period_end\":\"2026-03-31\",\"note_reference\":\"\"},{\"key\":\"net_current_liabilities\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"}],\"debt_note\":{\"status\":\"found\",\"abstain_reason\":\"\",\"scale_caption\":\"£'000\",\"pdf_page_indexes\":[6],\"facilities\":[{\"name_as_printed\":\"RCF accrued interest\",\"type\":\"revolving_credit_facility\",\"lender\":\"\",\"amount_drawn_text\":\"17\",\"facility_size_text\":\"\",\"currency\":\"\",\"maturity\":\"Current borrowings\",\"rate_or_margin\":\"\",\"security\":\"The bank facilities are secured by a fixed and floating charge over the assets of the Company and the Group.\",\"ranking\":\"\",\"pdf_page_index\":6},{\"name_as_printed\":\"Bank borrowings – term loans\",\"type\":\"term_loan\",\"lender\":\"\",\"amount_drawn_text\":\"–\",\"facility_size_text\":\"\",\"currency\":\"\",\"maturity\":\"Current borrowings\",\"rate_or_margin\":\"\",\"security\":\"The bank facilities are secured by a fixed and floating charge over the assets of the Company and the Group.\",\"ranking\":\"\",\"pdf_page_index\":6},{\"name_as_printed\":\"Bank borrowings - RCF\",\"type\":\"revolving_credit_facility\",\"lender\":\"Lloyds Bank PLC and Comerica Bank\",\"amount_drawn_text\":\"10,142\",\"facility_size_text\":\"£15.0m\",\"currency\":\"multi-currency\",\"maturity\":\"committed for three years, with two optional 12-month extension options\",\"rate_or_margin\":\"\",\"security\":\"The bank facilities are secured by a fixed and floating charge over the assets of the Company and the Group.\",\"ranking\":\"\",\"pdf_page_index\":6},{\"name_as_printed\":\"multi-currency overdraft facility\",\"type\":\"overdraft\",\"lender\":\"\",\"amount_drawn_text\":\"\",\"facility_size_text\":\"£5m\",\"currency\":\"multi-currency\",\"maturity\":\"\",\"rate_or_margin\":\"\",\"security\":\"\",\"ranking\":\"\",\"pdf_page_index\":6}],\"maturity_buckets\":[{\"bucket_as_printed\":\"Within one year\",\"amount_text\":\"17\",\"pdf_page_index\":6},{\"bucket_as_printed\":\"Between one and two years\",\"amount_text\":\"–\",\"pdf_page_index\":6},{\"bucket_as_printed\":\"Between two and five years\",\"amount_text\":\"10,142\",\"pdf_page_index\":6},{\"bucket_as_printed\":\"Total borrowings\",\"amount_text\":\"10,159\",\"pdf_page_index\":6}]}}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 16707,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 3219,
+     "output_tokens_details": {
+      "thinking_tokens": 312
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   },
+   "status": 200
+  },
+  {
+   "stage": "facility-read",
+   "model": "claude-opus-5",
+   "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUmV8ZJRMdyMzm2uBnna",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "CAIS+wgKtAIIEhgCKkACcJfuPOAl84Mo+wuE/9O5/A/C6iF3GUAruBVAaccuWkegFobIhXiKles2nc0FEU2ao3wp/UCT1Y59zELBp06xMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRlMDhmMzYwMy1hMmViLTQ5ZGItODZlMi01ZDNiYTRmMGM3NWSoAb+95tUGwgFACAYQABoSATgoAtqKA083CLzCBUZJBCatIAIyBBJxzyU6BAI5je1CBDgzI4pKBDgzI4pQAFoE2QXhVmACaAFwAdoBYAoWcHJlZml4X2JlZm9yZV9ibG9ja192MRIgKBVo6iuERV5PzzcEDW9gDrHypplamJR6sAKLSgRI+oQiADIgwsATyGqckuIvlm89hhd2j4t6RMkCrcwJe/oeCYr7Th9IAxIMbVtO6KW4lj7Q7kO5GgzZi+l5FVgDYi5vuSUiMJwPLTJtS1ygknE5iTgGHpXcGNFzV+4Od3VZbImWcz6H+DJzouEeDkN4Qo2VC9mPgirzBYWtWPB274z1Y92UR7arTz0s64iWj683zIZjqrtAkWiaeSrAuWg1a/tCz/tuGqXFZShX14CWgu3oCpFXa+VS4BWV7QFLPn8ZhSyFrhJxsnh7iLiRHnJwwGIfXzvnDdzqqmLC3toTLkG9YP/k5je3h7+0YQEVgG6PliPa6i55/tKQrJ/Z0a5SkQ2yngwR+4/0+sHoxMDfxCwu2FpzFoq8lz5IJhfVxxgDEH2FINwgjqvuPxWZwsWGUhPQcliQbikmHIlHkt4yk8VM6B2z0NCIegPCxXr1nkRjvXsCwpx0rHB/XadTHENghwB4Kz793Jti8DtJtvANPKD2gqd4oqAHICHFPLoLLN+YQ3AjxvqY2OfZY5ERoKXrN0cQPSGz93bZuVk35Z+5B/wbEtvGoMWD7VR3GyiZPMjd/5X/pDHl5tukyJheyIthcNTnorvpQYsa7qsJ3+EOInGCkvgGHOqeidNtM5+AwKk4pIoqpA+xZR+XScKEsPqKl6qkSxY4YShJu2reLMbM0WX4utCozCqCCd0zbpit0epzfNOMuX9bl6xZGk6OTtI9fJ+cxB+owYcrC960c6sYZa/iCFWm7mMimG8L6ahPnH5Pps+oPm6tcbtdAA7sqNLkwg1fDakLCgtk+SGezJ5nhbKEofA2Itj6DxdiRRfUuKBjd3YrcOXfrQDORgbc9DpgHUzimMjbj7ZzjAv4a1quyi5UKQYuYmXEfuOkvQgiWxedKg7L7hHjZ8+Y8HyUHrWtkV4lASYIX4J7+A5mwpwjV6LbXTw18GkNpHn77pSxxOPbZN79SCsgp+haBw2FtX9kSfU7gEVS7Nl1UgqEmAHQFHTwoLp8MxjjzVZoEAtLCWodaIWuIycQWGU3F739UFPgG661wfuS6o1pFaGi/39MrhE1fDfP+j8n18np1apypSCKqbPsNkD23WvYP3O70Q6a9OEyKncmj3GFqEpnyO1mX/oHVzdF9vz4i5tMegKq1E2n37T008KpLPE4HA4QGAE="
+     },
+     {
+      "type": "text",
+      "text": "{\"note\":{\"status\":\"found\",\"abstain_reason\":\"\",\"heading\":\"19. Bank borrowings and facilities\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"basis\":\"none\",\"basis_text\":\"\"},\"facilities\":[{\"name_as_printed\":\"Bank borrowings - term loans\",\"type\":\"term_loan\",\"lender\":\"\",\"amount_drawn_text\":\"–\",\"drawn_column_heading\":\"2026\",\"drawn_period_end\":\"\",\"facility_size_text\":\"\",\"maturity\":\"\",\"rate_or_margin\":\"\",\"security\":\"The bank facilities are secured by a fixed and floating charge over the assets of the Company and the Group.\",\"ranking_text\":\"\",\"excerpt_page\":1},{\"name_as_printed\":\"Bank borrowings - RCF\",\"type\":\"revolving_credit_facility\",\"lender\":\"Lloyds Bank PLC and Comerica Bank\",\"amount_drawn_text\":\"10,142\",\"drawn_column_heading\":\"2026\",\"drawn_period_end\":\"\",\"facility_size_text\":\"£15.0m\",\"maturity\":\"committed for three years, with two optional 12-month extension options\",\"rate_or_margin\":\"\",\"security\":\"The bank facilities are secured by a fixed and floating charge over the assets of the Company and the Group.\",\"ranking_text\":\"\",\"excerpt_page\":1},{\"name_as_printed\":\"The multi-currency overdraft facility\",\"type\":\"overdraft\",\"lender\":\"\",\"amount_drawn_text\":\"\",\"drawn_column_heading\":\"\",\"drawn_period_end\":\"\",\"facility_size_text\":\"£5m\",\"maturity\":\"\",\"rate_or_margin\":\"\",\"security\":\"The bank facilities are secured by a fixed and floating charge over the assets of the Company and the Group.\",\"ranking_text\":\"\",\"excerpt_page\":1}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 3701,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 881,
+     "output_tokens_details": {
+      "thinking_tokens": 306
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   },
+   "status": 200
+  },
+  {
+   "stage": "second-read",
+   "model": "claude-opus-5",
+   "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUmV7YHo8omCofw5ziiX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "text",
+      "text": "{\"lines\":[{\"key\":\"turnover\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Revenue\",\"figure_text\":\"154,144\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":1,\"statement\":\"Consolidated statement of comprehensive income\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated statement of comprehensive income\"},{\"key\":\"operating_profit\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Operating profit\",\"figure_text\":\"6,947\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":1,\"statement\":\"Consolidated statement of comprehensive income\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated statement of comprehensive income\"},{\"key\":\"interest_payable\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Finance costs\",\"figure_text\":\"(1,102)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":1,\"statement\":\"Consolidated statement of comprehensive income\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated statement of comprehensive income\"},{\"key\":\"profit_before_tax\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Profit before taxation\",\"figure_text\":\"5,845\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":1,\"statement\":\"Consolidated statement of comprehensive income\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated statement of comprehensive income\"},{\"key\":\"cash_at_bank\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Cash and cash equivalents – available on demand\",\"figure_text\":\"6,568\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":2,\"statement\":\"Consolidated statement of financial position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated statement of financial position\"},{\"key\":\"borrowings_within_one_year\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Current borrowings\",\"figure_text\":\"(17)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":2,\"statement\":\"Consolidated statement of financial position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated statement of financial position\"},{\"key\":\"borrowings_after_one_year\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Non-current borrowings\",\"figure_text\":\"(10,142)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":2,\"statement\":\"Consolidated statement of financial position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated statement of financial position\"},{\"key\":\"lease_liabilities_total\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total lease liabilities\",\"figure_text\":\"5,893\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":3,\"statement\":\"20. Lease liabilities\",\"basis\":\"consolidated\",\"basis_text\":\"The following is a reconciliation of the Group's lease liabilities:\"},{\"key\":\"lease_liabilities_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Current lease liabilities\",\"figure_text\":\"1,222\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":3,\"statement\":\"20. Lease liabilities\",\"basis\":\"consolidated\",\"basis_text\":\"The following is a reconciliation of the Group's lease liabilities:\"},{\"key\":\"lease_liabilities_non_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Non-current lease liabilities\",\"figure_text\":\"4,671\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":3,\"statement\":\"20. Lease liabilities\",\"basis\":\"consolidated\",\"basis_text\":\"The following is a reconciliation of the Group's lease liabilities:\"},{\"key\":\"net_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total net assets\",\"figure_text\":\"63,314\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":2,\"statement\":\"Consolidated statement of financial position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated statement of financial position\"},{\"key\":\"total_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total assets\",\"figure_text\":\"107,214\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":2,\"statement\":\"Consolidated statement of financial position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated statement of financial position\"},{\"key\":\"current_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total current liabilities\",\"figure_text\":\"(26,048)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-03-31\",\"excerpt_page\":2,\"statement\":\"Consolidated statement of financial position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated statement of financial position\"}],\"tie_lines\":[{\"role\":\"total_equity\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total equity\",\"figure_text\":\"63,314\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"column_heading\":\"2026\",\"period_end\":\"2026-03-31\",\"excerpt_page\":2},{\"role\":\"total_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total liabilities\",\"figure_text\":\"(43,900)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"column_heading\":\"2026\",\"period_end\":\"2026-03-31\",\"excerpt_page\":2},{\"role\":\"current_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total current assets\",\"figure_text\":\"59,619\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"column_heading\":\"2026\",\"period_end\":\"2026-03-31\",\"excerpt_page\":2},{\"role\":\"borrowings_total\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"column_heading\":\"\",\"period_end\":\"\",\"excerpt_page\":0},{\"role\":\"net_debt\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"column_heading\":\"\",\"period_end\":\"\",\"excerpt_page\":0}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 8759,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 2796,
+     "output_tokens_details": {
+      "thinking_tokens": 0
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   },
+   "status": 200
+  }
+ ]
+}

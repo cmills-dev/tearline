@@ -1,0 +1,549 @@
+{
+ "items": [
+  {
+   "transaction_id": "MzIwNzE3MTA2MWFkaXF6a2N4",
+   "barcode": "A77LXS7K",
+   "type": "AA",
+   "date": "2018-06-13",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-dormant",
+   "description_values": {
+    "made_up_date": "2017-12-31"
+   },
+   "pages": 2,
+   "action_date": "2017-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MzIwNzE3MTA2MWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZNbTlVE_yo4tC8igFNsk9YJk5Tn9rUwm2yE-Od_UAvY"
+   }
+  },
+  {
+   "transaction_id": "MzE4NjIyODQ0M2FkaXF6a2N4",
+   "barcode": "A6FFTT69",
+   "type": "AA",
+   "date": "2017-09-26",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-dormant",
+   "description_values": {
+    "made_up_date": "2016-12-31"
+   },
+   "pages": 2,
+   "action_date": "2016-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MzE4NjIyODQ0M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/djge96PAoeoLzdloMT5YtjsxMBttbH1ide8gtXW5Uk8"
+   }
+  },
+  {
+   "transaction_id": "MzE1MjY2ODEwMGFkaXF6a2N4",
+   "barcode": "A5ARUZJC",
+   "type": "AA",
+   "date": "2016-07-12",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-dormant",
+   "description_values": {
+    "made_up_date": "2015-12-31"
+   },
+   "pages": 2,
+   "action_date": "2015-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MzE1MjY2ODEwMGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/PSdrxAUVLg3QNtbLeNnVoWJWIbp_fiwiDkXATmG1C7o"
+   }
+  },
+  {
+   "transaction_id": "MzEyNjAxOTk5OWFkaXF6a2N4",
+   "barcode": "A4AAZ1YB",
+   "type": "AA",
+   "date": "2015-06-30",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2014-12-31"
+   },
+   "pages": 12,
+   "action_date": "2014-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MzEyNjAxOTk5OWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/MUDfE7sxxtuxDggHbekj46s2Zu9YDu4nGpjJIT7xLlE"
+   }
+  },
+  {
+   "transaction_id": "MzEwMzY3NzMyOWFkaXF6a2N4",
+   "barcode": "L3BNM40H",
+   "type": "AA",
+   "date": "2014-07-15",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2013-12-31"
+   },
+   "pages": 12,
+   "action_date": "2013-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MzEwMzY3NzMyOWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/an3HOmJ5RafackjRvL38yzx36mck7DVr0BXGH2aanVg"
+   }
+  },
+  {
+   "transaction_id": "MzA4MDEyNzA5MWFkaXF6a2N4",
+   "barcode": "A2AQ6YZK",
+   "type": "AA",
+   "date": "2013-06-20",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2012-12-31"
+   },
+   "pages": 12,
+   "action_date": "2012-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MzA4MDEyNzA5MWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/9NshmDP1WUuG9YLS44stpTLBVa9ruhzB54T6hRK2M44"
+   }
+  },
+  {
+   "transaction_id": "MzA1OTQ0Nzc3NmFkaXF6a2N4",
+   "barcode": "A1BD1P36",
+   "type": "AA",
+   "date": "2012-06-20",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2011-12-31"
+   },
+   "pages": 12,
+   "action_date": "2011-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MzA1OTQ0Nzc3NmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/SfDNiOoqIOKM3Fp1l_c2__rdxBviuvLiZDKVrl1jQUY"
+   }
+  },
+  {
+   "transaction_id": "MzAzNzQ1MDI5M2FkaXF6a2N4",
+   "barcode": "ADVOVU94",
+   "type": "AA",
+   "date": "2011-05-19",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2010-12-31"
+   },
+   "pages": 13,
+   "action_date": "2010-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MzAzNzQ1MDI5M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/xCWCiA40KywThPU8Djpq6GcpVFXhz4inNzEanEUGFsQ"
+   }
+  },
+  {
+   "transaction_id": "MzAxNTU5NDg3NWFkaXF6a2N4",
+   "barcode": "A0ATMJWE",
+   "type": "AA",
+   "date": "2010-05-14",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2009-12-31"
+   },
+   "pages": 13,
+   "action_date": "2009-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MzAxNTU5NDg3NWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/JxLRSaJaMnViR1MUx6w7-6Edaw-wOCpethLa9nHt1rE"
+   }
+  },
+  {
+   "transaction_id": "MzAwMDg4ODMxM2FkaXF6a2N4",
+   "barcode": "AOPT6E22",
+   "type": "AA",
+   "date": "2009-10-16",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2008-12-31"
+   },
+   "pages": 13,
+   "action_date": "2008-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MzAwMDg4ODMxM2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/pXZfTB1q3eURl-Pbm_X3hKvA9yY6i2SoCYdhqrP1xMo"
+   }
+  },
+  {
+   "transaction_id": "MjAxOTU3MDQ4NGFkaXF6a2N4",
+   "barcode": "A5RYV5EI",
+   "type": "AA",
+   "date": "2008-12-08",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2007-12-31"
+   },
+   "pages": 13,
+   "action_date": "2007-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MjAxOTU3MDQ4NGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/oelAvOAwYV9ETlSiAPvOhuxloMQEwU1vKoUWNcluDWI"
+   }
+  },
+  {
+   "transaction_id": "MTg0NjA4NjA4YWRpcXprY3g",
+   "type": "AA",
+   "date": "2007-08-24",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2006-12-31"
+   },
+   "pages": 13,
+   "action_date": "2006-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MTg0NjA4NjA4YWRpcXprY3g",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/gt3z-wVN1_YF0oh9HWj3oL2qPUAzZx9ANW3Hw15N_V4"
+   }
+  },
+  {
+   "transaction_id": "MTcwMzU4NDU2YWRpcXprY3g",
+   "type": "AA",
+   "date": "2006-11-05",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2005-12-31"
+   },
+   "pages": 13,
+   "action_date": "2005-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MTcwMzU4NDU2YWRpcXprY3g",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/y993uJF53wbaBDD3Ee8zB7yVZFrbjHN3O39sAnBKrTY"
+   }
+  },
+  {
+   "transaction_id": "OTcyOTI1NWFkaXF6a2N4",
+   "type": "AA",
+   "date": "2005-10-20",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2004-12-31"
+   },
+   "pages": 13,
+   "action_date": "2004-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/OTcyOTI1NWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/ByM0EZo2loWmHjUTKD2N5RT1OzI6tKPJoE5gU9C5fe8"
+   }
+  },
+  {
+   "transaction_id": "Mjg5MjI4MzdhZGlxemtjeA",
+   "type": "AA",
+   "date": "2004-10-29",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2003-12-31"
+   },
+   "pages": 13,
+   "action_date": "2003-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/Mjg5MjI4MzdhZGlxemtjeA",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/4XMHVjltjgu1HVGjbWD2CAIopzYS_gWxUr2B-xOglZA"
+   }
+  },
+  {
+   "transaction_id": "MTc0MDU5MjZhZGlxemtjeA",
+   "type": "AA",
+   "date": "2003-08-15",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2002-12-31"
+   },
+   "pages": 14,
+   "action_date": "2002-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MTc0MDU5MjZhZGlxemtjeA",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/q4VAV4c_nDH85D6mhyXf6TN--FlGPQ28XFb0i1aUr3Y"
+   }
+  },
+  {
+   "transaction_id": "NjQ5NjkxMDlhZGlxemtjeA",
+   "type": "AA",
+   "date": "2002-08-22",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2001-12-31"
+   },
+   "pages": 14,
+   "action_date": "2001-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/NjQ5NjkxMDlhZGlxemtjeA",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/mnOY7B63ThV7dQpth-jZ9gjjLu46aPBbIX5Eh8HRLJw"
+   }
+  },
+  {
+   "transaction_id": "NjY4MjU5NTRhZGlxemtjeA",
+   "type": "AA",
+   "date": "2001-10-12",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "2000-12-31"
+   },
+   "pages": 13,
+   "action_date": "2000-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/NjY4MjU5NTRhZGlxemtjeA",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/gUxfgJw6XyoLlijNzrVhIqL_I6_tqrvJckMRncb2HxQ"
+   }
+  },
+  {
+   "transaction_id": "MzM4NzM4MzNhZGlxemtjeA",
+   "type": "AA",
+   "date": "2000-10-31",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1999-12-31"
+   },
+   "pages": 15,
+   "action_date": "1999-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MzM4NzM4MzNhZGlxemtjeA",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/jSzFoq5QvsuLQYQQ7R7ONZ9EhZ2V--kKCEyY9z7rSzo"
+   }
+  },
+  {
+   "transaction_id": "MTkxNTMxMTNhZGlxemtjeA",
+   "type": "AA",
+   "date": "1999-10-27",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1998-12-31"
+   },
+   "pages": 14,
+   "action_date": "1998-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MTkxNTMxMTNhZGlxemtjeA",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/BUjT9ft2Idt4qfAjPsBp7A5t7sP3gMIbvJNm4qwj5yI"
+   }
+  },
+  {
+   "transaction_id": "NTEwNzU1NTdhZGlxemtjeA",
+   "type": "AA",
+   "date": "1998-10-06",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1997-12-31"
+   },
+   "pages": 14,
+   "action_date": "1997-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/NTEwNzU1NTdhZGlxemtjeA",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/jevNCKOHUE3DF95TpN0vuA8tjh6Z3FAoY54OC3bAv0I"
+   }
+  },
+  {
+   "transaction_id": "Mzc4NTQxOTBhZGlxemtjeA",
+   "type": "AA",
+   "date": "1997-07-18",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1996-12-31"
+   },
+   "pages": 12,
+   "action_date": "1996-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/Mzc4NTQxOTBhZGlxemtjeA",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/ByGzge6p_YL9pRC9-G5-TpvbkDH7wp-R62ulxlhZ9ic"
+   }
+  },
+  {
+   "transaction_id": "MTA2NjgyNDg1YWRpcXprY3g",
+   "type": "AA",
+   "date": "1996-06-11",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1995-12-31"
+   },
+   "pages": 6,
+   "action_date": "1995-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MTA2NjgyNDg1YWRpcXprY3g",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/PQ2heh7N16yyTnGdK0MdohY96k5sf8h9Qh35Gaofj8c"
+   }
+  },
+  {
+   "transaction_id": "MTExMDYwNjc4YWRpcXprY3g",
+   "type": "AA",
+   "date": "1995-05-05",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1994-12-31"
+   },
+   "pages": 6,
+   "action_date": "1994-12-31",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00905563/filing-history/MTExMDYwNjc4YWRpcXprY3g",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/mDx6Bs0uTWjVhPbuww0fBCazCZlbKI2g6RR_ALBx8qw"
+   }
+  },
+  {
+   "transaction_id": "MTUxMzIzNjFhZGlxemtjeA",
+   "type": "AA",
+   "date": "1994-04-29",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1993-12-31"
+   },
+   "action_date": "1993-12-31",
+   "links": {
+    "self": "/company/00905563/filing-history/MTUxMzIzNjFhZGlxemtjeA"
+   }
+  },
+  {
+   "transaction_id": "OTUyMDQzMjZhZGlxemtjeA",
+   "type": "AA",
+   "date": "1993-05-14",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1992-12-31"
+   },
+   "action_date": "1992-12-31",
+   "links": {
+    "self": "/company/00905563/filing-history/OTUyMDQzMjZhZGlxemtjeA"
+   }
+  },
+  {
+   "transaction_id": "NjQ0ODI3ODhhZGlxemtjeA",
+   "type": "AA",
+   "date": "1992-05-11",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1991-12-31"
+   },
+   "action_date": "1991-12-31",
+   "links": {
+    "self": "/company/00905563/filing-history/NjQ0ODI3ODhhZGlxemtjeA"
+   }
+  },
+  {
+   "transaction_id": "MTU2NDE5MTdhZGlxemtjeA",
+   "type": "AA",
+   "date": "1991-06-13",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1990-12-31"
+   },
+   "action_date": "1990-12-31",
+   "links": {
+    "self": "/company/00905563/filing-history/MTU2NDE5MTdhZGlxemtjeA"
+   }
+  },
+  {
+   "transaction_id": "MjQ1NDk5MTRhZGlxemtjeA",
+   "type": "AA",
+   "date": "1990-07-26",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1989-12-31"
+   },
+   "action_date": "1989-12-31",
+   "links": {
+    "self": "/company/00905563/filing-history/MjQ1NDk5MTRhZGlxemtjeA"
+   }
+  },
+  {
+   "transaction_id": "MTU1MzU3ODQ1YWRpcXprY3g",
+   "type": "AA",
+   "date": "1989-08-07",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1988-12-31"
+   },
+   "action_date": "1988-12-31",
+   "links": {
+    "self": "/company/00905563/filing-history/MTU1MzU3ODQ1YWRpcXprY3g"
+   }
+  },
+  {
+   "transaction_id": "OTA2NjI5MDdhZGlxemtjeA",
+   "type": "AA",
+   "date": "1988-06-16",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1987-12-31"
+   },
+   "action_date": "1987-12-31",
+   "links": {
+    "self": "/company/00905563/filing-history/OTA2NjI5MDdhZGlxemtjeA"
+   }
+  },
+  {
+   "transaction_id": "NjMyMDYwMThhZGlxemtjeA",
+   "type": "AA",
+   "date": "1987-06-17",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1986-12-31"
+   },
+   "action_date": "1986-12-31",
+   "links": {
+    "self": "/company/00905563/filing-history/NjMyMDYwMThhZGlxemtjeA"
+   }
+  },
+  {
+   "transaction_id": "MTMxNjM5MzU2YWRpcXprY3g",
+   "type": "AA",
+   "date": "1986-07-29",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-full",
+   "description_values": {
+    "made_up_date": "1985-12-31"
+   },
+   "action_date": "1985-12-31",
+   "links": {
+    "self": "/company/00905563/filing-history/MTMxNjM5MzU2YWRpcXprY3g"
+   }
+  }
+ ]
+}

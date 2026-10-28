@@ -1,0 +1,64 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "25",
+   "month": "09"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-09-28",
+   "period_end_on": "2025-09-28",
+   "period_start_on": "2024-09-30",
+   "type": "total-exemption-full"
+  },
+  "next_accounts": {
+   "due_on": "2027-06-25",
+   "overdue": false,
+   "period_end_on": "2026-09-25",
+   "period_start_on": "2025-09-29"
+  },
+  "next_due": "2027-06-25",
+  "next_made_up_to": "2026-09-25",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "PWB KITCHENS LIMITED",
+ "company_number": "14150771",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-06-05",
+  "next_due": "2027-06-19",
+  "next_made_up_to": "2027-06-05",
+  "overdue": false
+ },
+ "date_of_creation": "2022-06-06",
+ "etag": "304e1bd63f85c6fa81db8d41260771687cf01da6",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/14150771/persons-with-significant-control",
+  "self": "/company/14150771",
+  "filing_history": "/company/14150771/filing-history",
+  "officers": "/company/14150771/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2025-11-28",
+   "effective_from": "2022-06-06",
+   "name": "STONEGATE PUB COMPANY KITCHENS LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "20 Bentinck Street",
+  "country": "United Kingdom",
+  "locality": "London",
+  "postal_code": "W1U 2EU"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "64209"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

@@ -1,0 +1,26 @@
+{
+  "companyNumber": "00211475",
+  "companyName": "JAMES FISHER AND SONS PUBLIC LIMITED COMPANY",
+  "transactionId": "MzUyMzIyMjQwNmFkaXF6a2N4",
+  "filingType": "AA",
+  "filedOn": "2026-05-29",
+  "madeUpDate": "2025-12-31",
+  "accountsType": "group",
+  "pageCount": 210,
+  "chPages": 210,
+  "file": "filing.pdf",
+  "format": "pdf",
+  "resourcesOffered": [
+    "application/pdf"
+  ],
+  "bytes": 13461365,
+  "sha256": "65089927e438a600c3c6e39607fb0b4bf20f966c69ac03adcd66f0fe7eba9c0c",
+  "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/VDFimrYMnN7V_aDuyAwNEcbJmUJVN1eudMXWzc91cBY",
+  "filingHistoryUrl": "https://api.company-information.service.gov.uk/company/00211475/filing-history/MzUyMzIyMjQwNmFkaXF6a2N4",
+  "publicRecordUrl": "https://find-and-update.company-information.service.gov.uk/company/00211475/filing-history",
+  "textLayerChars": 2,
+  "bytesCommitted": true,
+  "kind": "large-group",
+  "notes": "Group accounts scan over 200 pages.",
+  "frozenOn": "2026-09-15"
+}

@@ -1,0 +1,60 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2024-12-31",
+   "period_end_on": "2024-12-31",
+   "period_start_on": "2024-01-01",
+   "type": "micro-entity"
+  },
+  "next_accounts": {
+   "due_on": "2026-09-30",
+   "overdue": false,
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2025-01-01"
+  },
+  "next_due": "2026-09-30",
+  "next_made_up_to": "2025-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "WEIR AGENCIES LIMITED",
+ "company_number": "NI013856",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-09-27",
+  "next_due": "2026-10-11",
+  "next_made_up_to": "2026-09-27",
+  "overdue": false
+ },
+ "date_of_creation": "1979-09-28",
+ "etag": "9a1f294f685f2d266c398c95f440bfc52eab708b",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "northern-ireland",
+ "last_full_members_list_date": "2015-09-27",
+ "links": {
+  "persons_with_significant_control": "/company/NI013856/persons-with-significant-control",
+  "self": "/company/NI013856",
+  "filing_history": "/company/NI013856/filing-history",
+  "officers": "/company/NI013856/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "Wits End 38 Chimera Wood",
+  "address_line_2": "Helens Bay",
+  "country": "Northern Ireland",
+  "locality": "Bangor",
+  "postal_code": "BT19 1XX"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "99999"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

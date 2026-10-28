@@ -1,0 +1,70 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "04"
+  },
+  "last_accounts": {
+   "made_up_to": "2011-04-30",
+   "period_end_on": "2011-04-30",
+   "type": "full"
+  }
+ },
+ "annual_return": {
+  "last_made_up_to": "2012-02-01"
+ },
+ "can_file": false,
+ "company_name": "CGL REALISATIONS LIMITED",
+ "company_number": "00278576",
+ "company_status": "dissolved",
+ "date_of_cessation": "2026-05-05",
+ "date_of_creation": "1933-08-08",
+ "etag": "a3935d28077aefb6dbab46820db4920ff4f4a3a2",
+ "has_been_liquidated": true,
+ "has_charges": false,
+ "has_insolvency_history": true,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2012-02-01",
+ "links": {
+  "self": "/company/00278576",
+  "charges": "/company/00278576/charges",
+  "filing_history": "/company/00278576/filing-history",
+  "insolvency": "/company/00278576/insolvency",
+  "officers": "/company/00278576/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2019-10-21",
+   "effective_from": "2012-01-31",
+   "name": "COMET GROUP LIMITED"
+  },
+  {
+   "ceased_on": "2012-01-31",
+   "effective_from": "2012-01-31",
+   "name": "COMET GROUP P L C LIMITED"
+  },
+  {
+   "ceased_on": "2012-01-31",
+   "effective_from": "1982-02-26",
+   "name": "COMET GROUP P L C"
+  },
+  {
+   "ceased_on": "1982-02-26",
+   "effective_from": "1933-08-08",
+   "name": "COMET RADIOVISION SERVICES LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "C/O Teneo Financial Advisory Limited The Colmore Building",
+  "address_line_2": "20 Colmore Circus Queensway",
+  "locality": "Birmingham",
+  "postal_code": "B4 6AT"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "47540"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

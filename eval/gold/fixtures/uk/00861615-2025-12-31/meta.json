@@ -1,0 +1,27 @@
+{
+  "companyNumber": "00861615",
+  "companyName": "BUSY BEES DAY NURSERIES LIMITED",
+  "transactionId": "MzUzODA1MDYzNGFkaXF6a2N4",
+  "filingType": "AA",
+  "filedOn": "2026-08-11",
+  "madeUpDate": "2025-12-31",
+  "accountsType": "dormant",
+  "pageCount": 9,
+  "chPages": 9,
+  "file": "filing.xhtml",
+  "format": "xhtml",
+  "resourcesOffered": [
+    "application/pdf",
+    "application/xhtml+xml"
+  ],
+  "bytes": 145763,
+  "sha256": "216632f5d4c7ef11cc84370a2c4c496cf5322f3e91cfd7626b88acce86ab698e",
+  "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/O51LzmMAgm6XlWWWE-iqQ3MZ2lhZiYz3OE2qqt-f4ZA",
+  "filingHistoryUrl": "https://api.company-information.service.gov.uk/company/00861615/filing-history/MzUzODA1MDYzNGFkaXF6a2N4",
+  "publicRecordUrl": "https://find-and-update.company-information.service.gov.uk/company/00861615/filing-history",
+  "textLayerChars": null,
+  "bytesCommitted": true,
+  "kind": "ixbrl",
+  "notes": "STAND-IN, replace in WP-BE17. Dormant accounts (9 pages), not a mid-size trading company. Twenty lookups found no mid-size private iXBRL filer: Gymshark, Richer Sounds, Hotel Chocolat, Charles Tyrwhitt, Bettys & Taylors and Pure Gym all file PDF only. This sibling of Busy Bees Nurseries was the one iXBRL filing reached inside the budget.",
+  "frozenOn": "2026-09-15"
+}

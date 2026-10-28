@@ -1,0 +1,67 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "29",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-12-28",
+   "period_end_on": "2025-12-28",
+   "period_start_on": "2024-12-30",
+   "type": "audit-exemption-subsidiary"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-29",
+   "overdue": false,
+   "period_end_on": "2026-12-29",
+   "period_start_on": "2025-12-29"
+  },
+  "next_due": "2027-09-29",
+  "next_made_up_to": "2026-12-29",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "WAGAMAMA GROUP LIMITED",
+ "company_number": "03237591",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-06-29",
+  "next_due": "2027-07-13",
+  "next_made_up_to": "2027-06-29",
+  "overdue": false
+ },
+ "date_of_creation": "1996-08-13",
+ "etag": "3cb3218d9e83f720ef25beec788d43a8324c4ad5",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-08-02",
+ "links": {
+  "persons_with_significant_control": "/company/03237591/persons-with-significant-control",
+  "self": "/company/03237591",
+  "charges": "/company/03237591/charges",
+  "filing_history": "/company/03237591/filing-history",
+  "officers": "/company/03237591/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "1999-01-25",
+   "effective_from": "1996-08-13",
+   "name": "RELAYDOME LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "5-7 Marshalsea Road",
+  "country": "England",
+  "locality": "London",
+  "postal_code": "SE1 1EP"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "99999"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

@@ -1,0 +1,77 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "05"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-05-31",
+   "period_end_on": "2025-05-31",
+   "period_start_on": "2024-06-01",
+   "type": "audit-exemption-subsidiary"
+  },
+  "next_accounts": {
+   "due_on": "2027-02-28",
+   "overdue": false,
+   "period_end_on": "2026-05-31",
+   "period_start_on": "2025-06-01"
+  },
+  "next_due": "2027-02-28",
+  "next_made_up_to": "2026-05-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "ITALIAN COFFEE HOLDINGS LTD",
+ "company_number": "04129005",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-11-17",
+  "next_due": "2026-12-01",
+  "next_made_up_to": "2026-11-17",
+  "overdue": false
+ },
+ "date_of_creation": "2000-12-21",
+ "etag": "35e404f65f5f943f5358596d3d9495018b832dd6",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-12-21",
+ "links": {
+  "persons_with_significant_control": "/company/04129005/persons-with-significant-control",
+  "self": "/company/04129005",
+  "charges": "/company/04129005/charges",
+  "filing_history": "/company/04129005/filing-history",
+  "officers": "/company/04129005/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2017-10-02",
+   "effective_from": "2007-04-27",
+   "name": "CAFFE NERO GROUP LIMITED"
+  },
+  {
+   "ceased_on": "2007-04-27",
+   "effective_from": "2001-02-26",
+   "name": "CAFFE NERO GROUP PLC"
+  },
+  {
+   "ceased_on": "2001-02-26",
+   "effective_from": "2000-12-21",
+   "name": "BOATGLOBE LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "9-15 Neal Street",
+  "country": "England",
+  "locality": "London",
+  "postal_code": "WC2H 9QL"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "70100"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

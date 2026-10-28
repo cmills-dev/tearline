@@ -1,0 +1,284 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2025-03-15",
+   "company_type": "ltd",
+   "company_number": "16318460",
+   "address": {
+    "address_line_1": "Monmouth Grove",
+    "address_line_2": "Kingsmead",
+    "country": "England",
+    "locality": "Milton Keynes",
+    "postal_code": "MK4 4BA",
+    "premises": "19"
+   },
+   "title": "AAAC HOLDINGS LIMITED",
+   "address_snippet": "19 Monmouth Grove, Kingsmead, Milton Keynes, England, MK4 4BA",
+   "description": "16318460 - Incorporated on 15 March 2025",
+   "links": {
+    "self": "/company/16318460"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2021-09-14",
+   "company_type": "ltd",
+   "company_number": "13621282",
+   "address": {
+    "address_line_1": "Russet Close",
+    "country": "England",
+    "locality": "Staines-Upon-Thames",
+    "postal_code": "TW19 6AX",
+    "premises": "4b"
+   },
+   "title": "AAA COMMERCIAL HOLDINGS LTD",
+   "address_snippet": "4b Russet Close, Staines-Upon-Thames, England, TW19 6AX",
+   "description": "13621282 - Incorporated on 14 September 2021",
+   "links": {
+    "self": "/company/13621282"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2026-04-29",
+   "company_type": "ltd",
+   "company_number": "17190229",
+   "address": {
+    "address_line_1": "City Way",
+    "country": "England",
+    "locality": "Rochester",
+    "postal_code": "ME1 2BQ",
+    "premises": "364"
+   },
+   "title": "AAA ESTATES HOLDINGS LTD",
+   "address_snippet": "364 City Way, Rochester, England, ME1 2BQ",
+   "description": "17190229 - Incorporated on 29 April 2026",
+   "links": {
+    "self": "/company/17190229"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2000-01-28",
+   "company_type": "ltd",
+   "company_number": "03916144",
+   "address": {
+    "address_line_1": "Victoria Place",
+    "address_line_2": "Holbeck",
+    "country": "England",
+    "locality": "Leeds",
+    "postal_code": "LS11 5AE",
+    "premises": "4"
+   },
+   "title": "AAA HOLDINGS LIMITED",
+   "address_snippet": "4 Victoria Place, Holbeck, Leeds, England, LS11 5AE",
+   "description": "03916144 - Incorporated on 28 January 2000",
+   "links": {
+    "self": "/company/03916144"
+   },
+   "snippet": "NU-HEAT UK (HOLDINGS) LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2024-09-24",
+   "company_type": "ltd",
+   "company_number": "15974410",
+   "address": {
+    "address_line_1": "Regent Street",
+    "address_line_2": "Kingswood",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS15 8JX",
+    "premises": "7"
+   },
+   "title": "AAA HOLDINGS (BRISTOL) LTD",
+   "address_snippet": "7 Regent Street, Kingswood, Bristol, England, BS15 8JX",
+   "description": "15974410 - Incorporated on 24 September 2024",
+   "links": {
+    "self": "/company/15974410"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2015-01-26",
+   "company_type": "ltd",
+   "company_number": "09407264",
+   "address": {
+    "address_line_1": "St. Boniface Road",
+    "country": "England",
+    "locality": "Ventnor",
+    "postal_code": "PO38 1PL",
+    "premises": "Cornerstone",
+    "region": "Isle Of Wight"
+   },
+   "title": "AAA HOLDINGS (IOW) LIMITED",
+   "address_snippet": "Cornerstone, St. Boniface Road, Ventnor, Isle Of Wight, England, PO38 1PL",
+   "description": "09407264 - Incorporated on 26 January 2015",
+   "links": {
+    "self": "/company/09407264"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2026-06-03",
+   "company_type": "ltd",
+   "company_number": "17258367",
+   "address": {
+    "address_line_1": "1st Floor",
+    "country": "England",
+    "locality": "South Croydon",
+    "postal_code": "CR2 6EB",
+    "premises": "The Pavillions 33 Brighton Road"
+   },
+   "title": "AAA HOLDINGS (LONDON) LIMITED",
+   "address_snippet": "The Pavillions 33 Brighton Road, 1st Floor, South Croydon, England, CR2 6EB",
+   "description": "17258367 - Incorporated on 3 June 2026",
+   "links": {
+    "self": "/company/17258367"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2022-11-16",
+   "company_type": "ltd",
+   "company_number": "14489363",
+   "address": {
+    "address_line_1": "Leagrave Road",
+    "country": "England",
+    "locality": "Luton",
+    "postal_code": "LU4 8HZ",
+    "premises": "12-14"
+   },
+   "title": "AAA HOLDINGS (LUTON) LTD",
+   "address_snippet": "12-14 Leagrave Road, Luton, England, LU4 8HZ",
+   "description": "14489363 - Incorporated on 16 November 2022",
+   "links": {
+    "self": "/company/14489363"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2024-07-02",
+   "company_type": "ltd",
+   "company_number": "15813748",
+   "address": {
+    "address_line_1": "Claude Avenue",
+    "country": "England",
+    "locality": "Middlesbrough",
+    "postal_code": "TS5 5PR",
+    "premises": "16"
+   },
+   "title": "AAA HOLDINGS NE LTD",
+   "address_snippet": "16 Claude Avenue, Middlesbrough, England, TS5 5PR",
+   "description": "15813748 - Incorporated on 2 July 2024",
+   "links": {
+    "self": "/company/15813748"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2017-04-03",
+   "company_type": "ltd",
+   "company_number": "10703066",
+   "address": {
+    "address_line_1": "Old Durham Road",
+    "country": "England",
+    "locality": "Gateshead",
+    "postal_code": "NE9 5LA",
+    "premises": "353-355",
+    "region": "Tyne And Wear"
+   },
+   "title": "AAA HOLDINGS NORTHEAST LTD",
+   "address_snippet": "353-355 Old Durham Road, Gateshead, Tyne And Wear, England, NE9 5LA",
+   "description": "10703066 - Incorporated on 3 April 2017",
+   "links": {
+    "self": "/company/10703066"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 10000,
+ "start_index": 0
+}

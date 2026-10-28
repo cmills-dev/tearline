@@ -1,0 +1,69 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "03"
+  },
+  "last_accounts": {
+   "made_up_to": "2026-03-31",
+   "period_end_on": "2026-03-31",
+   "period_start_on": "2025-04-01",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-30",
+   "overdue": false,
+   "period_end_on": "2027-03-31",
+   "period_start_on": "2026-04-01"
+  },
+  "next_due": "2027-09-30",
+  "next_made_up_to": "2027-03-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "BRISTOL WATER PLC",
+ "company_number": "02662226",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-07-29",
+  "next_due": "2027-08-12",
+  "next_made_up_to": "2027-07-29",
+  "overdue": false
+ },
+ "date_of_creation": "1991-11-12",
+ "etag": "3c651823cb0c246552b62eea8168c46a3ba74886",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-07-09",
+ "links": {
+  "persons_with_significant_control": "/company/02662226/persons-with-significant-control",
+  "self": "/company/02662226",
+  "charges": "/company/02662226/charges",
+  "filing_history": "/company/02662226/filing-history",
+  "officers": "/company/02662226/officers",
+  "exemptions": "/company/02662226/exemptions"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "1991-12-19",
+   "effective_from": "1991-11-12",
+   "name": "THE BRISTOL WATERWORKS PLC"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Bristol Water Plc",
+  "address_line_2": "Bridgwater Road",
+  "country": "England",
+  "locality": "Bristol",
+  "postal_code": "BS13 7AT"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "36000"
+ ],
+ "type": "plc",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

@@ -1,0 +1,58 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "03"
+  },
+  "last_accounts": {
+   "type": "no-accounts-type-available"
+  },
+  "next_accounts": {
+   "due_on": "2003-01-31",
+   "overdue": true,
+   "period_end_on": "2002-03-31",
+   "period_start_on": "1985-03-18"
+  },
+  "next_due": "2003-01-31",
+  "next_made_up_to": "2002-03-31",
+  "overdue": true
+ },
+ "annual_return": {
+  "last_made_up_to": "1996-07-28"
+ },
+ "can_file": true,
+ "company_name": "WILKO ENGINEERING CO. (BIRMINGHAM) LIMITED",
+ "company_number": "01896324",
+ "company_status": "liquidation",
+ "date_of_creation": "1985-03-18",
+ "etag": "a92ffb2a094be42c8d915d612028ada81699511a",
+ "has_charges": false,
+ "has_insolvency_history": true,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "1996-07-28",
+ "links": {
+  "self": "/company/01896324",
+  "filing_history": "/company/01896324/filing-history",
+  "insolvency": "/company/01896324/insolvency"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "1985-04-30",
+   "effective_from": "1985-03-18",
+   "name": "CHAINMAIL LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "26/28 Goodall Street",
+  "address_line_2": "Walsall",
+  "locality": "West Midlands",
+  "postal_code": "WS1 1QL"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "2852"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

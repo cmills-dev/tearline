@@ -1,0 +1,49 @@
+PASS control A reads own: 6 of 8 paths show QA06-SECRET-A to A
+PASS xtenant B /api/model/qa06-secret: status 404, no QA06-SECRET-A
+PASS xtenant B /api/export/deck/qa06-secret: status 404, no QA06-SECRET-A
+PASS xtenant B /api/export/references/qa06-secret?format=csv: status 404, no QA06-SECRET-A
+PASS xtenant B /api/export/references/qa06-secret?format=html: status 404, no QA06-SECRET-A
+PASS xtenant B /api/run/qa06-run-a: status 404, no QA06-SECRET-A
+PASS xtenant B /sheet/qa06-secret: status 404, no QA06-SECRET-A
+PASS xtenant B /workspace: status 200, no QA06-SECRET-A
+PASS xtenant B /api/onboarding/state: status 200, no QA06-SECRET-A
+PASS xtenant anon /api/model/qa06-secret: status 401, no QA06-SECRET-A
+PASS xtenant anon /api/export/deck/qa06-secret: status 401, no QA06-SECRET-A
+PASS xtenant anon /api/export/references/qa06-secret?format=csv: status 401, no QA06-SECRET-A
+PASS xtenant anon /api/export/references/qa06-secret?format=html: status 401, no QA06-SECRET-A
+PASS xtenant anon /api/run/qa06-run-a: status 401, no QA06-SECRET-A
+PASS xtenant anon /sheet/qa06-secret: status 200, no QA06-SECRET-A
+PASS xtenant anon /workspace: status 200, no QA06-SECRET-A
+PASS xtenant anon /api/onboarding/state: status 401, no QA06-SECRET-A
+PASS xtenant onboarding/state: B GET 200
+PASS xtenant monitor list: B list 200, A's 09999999 absent
+PASS xtenant crafted tenant params: status 404
+PASS xtenant crafted run body: status 503
+PASS cookie forged signature: status 401
+PASS cookie sid without handle: status 401
+PASS cookie A sid + B handle: status 401
+PASS cookie expired (validly signed): status 401
+PASS cookie without exp (validly signed): status 200; the handle row still bounds the session
+PASS cookie tenant-swapped (validly signed): status 401
+PASS cookie revoked by logout, replayed: status 401
+PASS csrf cross Origin POST (json): status 403 with Origin https://evil.example
+PASS csrf cross Origin POST (text/plain, no preflight): status 403; SameSite=Lax keeps the cookie off a real cross-site POST, so this needs a same-site attacker
+PASS csrf login from another origin: status 403: login CSRF signs a victim into the attacker's desk
+PASS cookie flags:  Path=/; Expires=Mon |  Max-Age=604800; Secure; HttpOnly; SameSite=lax |  Path=/; Expires=Mon |  Max-Age=604800; Secure; HttpOnly; SameSite=lax
+PASS header content-security-policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self'; frame-src 'self'; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'
+PASS header strict-transport-security: max-age=63072000; includeSubDomains
+PASS header x-frame-options: SAMEORIGIN
+PASS header x-content-type-options: nosniff
+PASS header referrer-policy: strict-origin-when-cross-origin
+PASS header permissions-policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()
+PASS header x-powered-by: absent
+PASS size cap 20 MB login body: status 413 in 558 ms
+FIND health disclosure [low]: {"status":"ok","contractVersion":"0.1.0","dataMode":"fixtures","llm":"off","storeDurable":true,"cacheBackend":"upstash","dbRoleSafe":true,"ready":true,"region":"unknown","commit":"dev","time":"2026-09-28T07:25:20.023Z"}
+FIND kb read without session [low]: status 200
+FIND kb ingest without session [low]: status 200
+PASS cron with spoofed x-vercel-cron: status 401
+PASS shared promote without admin secret: status 403
+PASS login limit per IP (fixed IP): 429 at attempt 21
+FIND login limit per IP with rotated x-real-ip [medium]: no 429 in 24 attempts (limit is 20 per 5 min): the client picks its own IP off Vercel
+
+SUMMARY: 43 pass, 4 find, 0 skip, 0 blocking

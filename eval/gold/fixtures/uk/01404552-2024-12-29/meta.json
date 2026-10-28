@@ -1,0 +1,26 @@
+{
+  "companyNumber": "01404552",
+  "companyName": "PIZZAEXPRESS LIMITED",
+  "transactionId": "MzQ4MjMyMTE4OWFkaXF6a2N4",
+  "filingType": "AA",
+  "filedOn": "2025-09-23",
+  "madeUpDate": "2024-12-29",
+  "accountsType": "full",
+  "pageCount": 26,
+  "chPages": 26,
+  "file": "filing.pdf",
+  "format": "pdf",
+  "resourcesOffered": [
+    "application/pdf"
+  ],
+  "bytes": 1046492,
+  "sha256": "946857ccb3293fcc4160266d0485c7fa415bf4c7d4a332ba182615f084c9ad96",
+  "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/CHxt4Ab-snwuu6MNiPe9rR0d61lq5xW-t-vDDe9n1q8",
+  "filingHistoryUrl": "https://api.company-information.service.gov.uk/company/01404552/filing-history/MzQ4MjMyMTE4OWFkaXF6a2N4",
+  "publicRecordUrl": "https://find-and-update.company-information.service.gov.uk/company/01404552/filing-history",
+  "textLayerChars": 2,
+  "bytesCommitted": true,
+  "kind": "scan-full",
+  "notes": "Full accounts scan, 26 pages.",
+  "frozenOn": "2026-09-15"
+}

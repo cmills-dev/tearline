@@ -1,0 +1,274 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1987-02-25",
+   "company_type": "ltd",
+   "company_number": "02103564",
+   "address": {
+    "address_line_1": "Knowsley Industrial Park",
+    "locality": "Liverpool",
+    "postal_code": "L33 7SZ",
+    "premises": "Matalan Head Office Perimeter Road"
+   },
+   "title": "MATALAN RETAIL LTD.",
+   "address_snippet": "Matalan Head Office Perimeter Road, Knowsley Industrial Park, Liverpool, L33 7SZ",
+   "description": "02103564 - Incorporated on 25 February 1987",
+   "links": {
+    "self": "/company/02103564"
+   },
+   "snippet": "MATALAN DISCOUNT CLUB (CASH & CARRY) LTD. · MATALAN (CASH & CARRY) LIMITED · MATALAN (SALFORD) LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1981-08-13",
+   "company_type": "ltd",
+   "company_number": "01579910",
+   "address": {
+    "address_line_1": "Knowsley Industrial Park",
+    "locality": "Liverpool",
+    "postal_code": "L33 7SZ",
+    "premises": "Matalan Head Office Perimeter Road"
+   },
+   "title": "MATALAN LIMITED",
+   "address_snippet": "Matalan Head Office Perimeter Road, Knowsley Industrial Park, Liverpool, L33 7SZ",
+   "description": "01579910 - Incorporated on 13 August 1981",
+   "links": {
+    "self": "/company/01579910"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2021-07-14",
+   "company_type": "ltd",
+   "company_number": "13509795",
+   "address": {
+    "address_line_1": "Knowsley Industrial Park",
+    "country": "United Kingdom",
+    "locality": "Liverpool",
+    "postal_code": "L33 7SZ",
+    "premises": "Matalan Head Office Perimeter Road"
+   },
+   "title": "MATALAN AF LIMITED",
+   "address_snippet": "Matalan Head Office Perimeter Road, Knowsley Industrial Park, Liverpool, United Kingdom, L33 7SZ",
+   "description": "13509795 - Incorporated on 14 July 2021",
+   "links": {
+    "self": "/company/13509795"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2013-02-26",
+   "company_type": "ltd",
+   "company_number": "08420456",
+   "address": {
+    "address_line_1": "Knowsley Industrial Park",
+    "locality": "Liverpool",
+    "postal_code": "L33 7SZ",
+    "premises": "Matalan Head Office Perimeter Road"
+   },
+   "title": "MATALAN DIRECT LIMITED",
+   "address_snippet": "Matalan Head Office Perimeter Road, Knowsley Industrial Park, Liverpool, L33 7SZ",
+   "description": "08420456 - Incorporated on 26 February 2013",
+   "links": {
+    "self": "/company/08420456"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2006-10-10",
+   "company_type": "plc",
+   "company_number": "05962488",
+   "address": {
+    "address_line_1": "Knowsley Industrial Park",
+    "locality": "Liverpool",
+    "postal_code": "L33 7SZ",
+    "premises": "Matalan Head Office Perimeter Road"
+   },
+   "title": "MATALAN FINANCE PLC",
+   "address_snippet": "Matalan Head Office Perimeter Road, Knowsley Industrial Park, Liverpool, L33 7SZ",
+   "description": "05962488 - Incorporated on 10 October 2006",
+   "links": {
+    "self": "/company/05962488"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2001-07-11",
+   "company_type": "ltd",
+   "company_number": "04250515",
+   "address": {
+    "address_line_1": "Knowsley Industrial Park",
+    "locality": "Liverpool",
+    "postal_code": "L33 7SZ",
+    "premises": "Matalan Head Office Perimeter Road"
+   },
+   "title": "MATALAN HOLDING COMPANY LIMITED",
+   "address_snippet": "Matalan Head Office Perimeter Road, Knowsley Industrial Park, Liverpool, L33 7SZ",
+   "description": "04250515 - Incorporated on 11 July 2001",
+   "links": {
+    "self": "/company/04250515"
+   },
+   "snippet": "MATALAN NO.1 LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2001-07-11",
+   "company_type": "ltd",
+   "company_number": "04250527",
+   "address": {
+    "address_line_1": "Knowsley Industrial Park",
+    "locality": "Liverpool",
+    "postal_code": "L33 7SZ",
+    "premises": "Matalan Head Office Perimeter Road"
+   },
+   "title": "MATALAN INVESTMENTS LIMITED",
+   "address_snippet": "Matalan Head Office Perimeter Road, Knowsley Industrial Park, Liverpool, L33 7SZ",
+   "description": "04250527 - Incorporated on 11 July 2001",
+   "links": {
+    "self": "/company/04250527"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2021-10-18",
+   "company_type": "ltd",
+   "company_number": "13686635",
+   "address": {
+    "address_line_1": "Philip Lane",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "N15 4HQ",
+    "premises": "183"
+   },
+   "title": "MATALAN PROPERTIES LTD",
+   "address_snippet": "183 Philip Lane, London, England, N15 4HQ",
+   "description": "13686635 - Incorporated on 18 October 2021",
+   "links": {
+    "self": "/company/13686635"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2001-01-08",
+   "company_type": "ltd",
+   "company_number": "04137221",
+   "address": {
+    "address_line_1": "Knowsley Industrial Park",
+    "country": "United Kingdom",
+    "locality": "Liverpool",
+    "postal_code": "L33 7SZ",
+    "premises": "Matalan Head Office Perimeter Road"
+   },
+   "title": "MATALAN TRAVEL LIMITED",
+   "address_snippet": "Matalan Head Office Perimeter Road, Knowsley Industrial Park, Liverpool, United Kingdom, L33 7SZ",
+   "description": "04137221 - Incorporated on 8 January 2001",
+   "links": {
+    "self": "/company/04137221"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2025-08-15",
+   "date_of_cessation": "2026-05-12",
+   "company_type": "ltd",
+   "company_number": "16654245",
+   "address": {
+    "address_line_1": "- COMPANIES HOUSE DEFAULT ADDRESS",
+    "locality": "Cardiff",
+    "po_box": "4385",
+    "postal_code": "CF14 8LH",
+    "premises": "16654245"
+   },
+   "title": "16654245 LTD",
+   "address_snippet": "4385, 16654245 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",
+   "description": "16654245 - Dissolved on 12 May 2026",
+   "links": {
+    "self": "/company/16654245"
+   },
+   "snippet": "MATALAN 22 LTD",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 10000,
+ "start_index": 0
+}

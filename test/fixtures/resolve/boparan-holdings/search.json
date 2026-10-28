@@ -1,0 +1,283 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1998-05-05",
+   "company_type": "ltd",
+   "company_number": "03558065",
+   "address": {
+    "address_line_1": "Fox Way",
+    "locality": "Wakefield",
+    "postal_code": "WF2 8EE",
+    "premises": "Trinity Park House Trinity Business Park",
+    "region": "West Yorkshire"
+   },
+   "title": "BOPARAN HOLDINGS LIMITED",
+   "address_snippet": "Trinity Park House Trinity Business Park, Fox Way, Wakefield, West Yorkshire, WF2 8EE",
+   "description": "03558065 - Incorporated on 5 May 1998",
+   "links": {
+    "self": "/company/03558065"
+   },
+   "snippet": "2 SISTERS HOLDINGS LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2016-05-20",
+   "company_type": "ltd",
+   "company_number": "10192508",
+   "address": {
+    "address_line_1": "9 Colmore Row",
+    "country": "United Kingdom",
+    "locality": "Birmingham",
+    "postal_code": "B3 2BJ",
+    "premises": "Colmore Court",
+    "region": "West Midlands"
+   },
+   "title": "BOPARAN RESTAURANTS HOLDINGS LIMITED",
+   "address_snippet": "Colmore Court, 9 Colmore Row, Birmingham, West Midlands, United Kingdom, B3 2BJ",
+   "description": "10192508 - Incorporated on 20 May 2016",
+   "links": {
+    "self": "/company/10192508"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2016-01-13",
+   "company_type": "ltd",
+   "company_number": "09950317",
+   "address": {
+    "address_line_1": "9 Colmore Row",
+    "country": "United Kingdom",
+    "locality": "Birmingham",
+    "postal_code": "B3 2BJ",
+    "premises": "Colmore Court",
+    "region": "West Midlands"
+   },
+   "title": "CINNAMON COLLECTION LIMITED",
+   "address_snippet": "Colmore Court, 9 Colmore Row, Birmingham, West Midlands, United Kingdom, B3 2BJ",
+   "description": "09950317 - Incorporated on 13 January 2016",
+   "links": {
+    "self": "/company/09950317"
+   },
+   "snippet": "BOPARAN RESTAURANTS HOLDINGS LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2012-04-19",
+   "company_type": "ltd",
+   "company_number": "08037526",
+   "address": {
+    "address_line_1": "Spon End",
+    "locality": "Coventry",
+    "postal_code": "CV1 3HF",
+    "premises": "115-116",
+    "region": "Warwickshire"
+   },
+   "title": "B BOPARAN LTD",
+   "address_snippet": "115-116 Spon End, Coventry, Warwickshire, CV1 3HF",
+   "description": "08037526 - Incorporated on 19 April 2012",
+   "links": {
+    "self": "/company/08037526"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2022-11-14",
+   "company_type": "ltd",
+   "company_number": "14482632",
+   "address": {
+    "address_line_1": "Floor Colmore Court",
+    "address_line_2": "9 Colmore Row",
+    "country": "United Kingdom",
+    "locality": "Birmingham",
+    "postal_code": "B3 2BJ",
+    "premises": "2nd",
+    "region": "West Midlands"
+   },
+   "title": "BOPARAN BRANDS LIMITED",
+   "address_snippet": "2nd Floor Colmore Court, 9 Colmore Row, Birmingham, West Midlands, United Kingdom, B3 2BJ",
+   "description": "14482632 - Incorporated on 14 November 2022",
+   "links": {
+    "self": "/company/14482632"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2009-03-19",
+   "company_type": "private-limited-guarant-nsc-limited-exemption",
+   "company_number": "06852304",
+   "address": {
+    "address_line_1": "Colmore Row",
+    "locality": "Birmingham",
+    "postal_code": "B3 2BJ",
+    "premises": "9",
+    "region": "West Midlands"
+   },
+   "title": "THE BOPARAN CHARITABLE TRUST",
+   "address_snippet": "9 Colmore Row, Birmingham, West Midlands, B3 2BJ",
+   "description": "06852304 - Incorporated on 19 March 2009",
+   "links": {
+    "self": "/company/06852304"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2012-12-20",
+   "company_type": "ltd",
+   "company_number": "08338921",
+   "address": {
+    "address_line_1": "Floor Colmore Court",
+    "address_line_2": "9 Colmore Row",
+    "locality": "Birmingham",
+    "postal_code": "B3 2BJ",
+    "premises": "2nd"
+   },
+   "title": "BOPARAN EVENTS LIMITED",
+   "address_snippet": "2nd Floor Colmore Court, 9 Colmore Row, Birmingham, B3 2BJ",
+   "description": "08338921 - Incorporated on 20 December 2012",
+   "links": {
+    "self": "/company/08338921"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2014-03-10",
+   "company_type": "ltd",
+   "company_number": "08930735",
+   "address": {
+    "address_line_1": "Colmore Court",
+    "address_line_2": "Colmore Row",
+    "locality": "Birmingham",
+    "postal_code": "B3 2BJ",
+    "premises": "9"
+   },
+   "title": "BOPARAN FAMILY TRUSTEE LIMITED",
+   "address_snippet": "9 Colmore Court, Colmore Row, Birmingham, B3 2BJ",
+   "description": "08930735 - Incorporated on 10 March 2014",
+   "links": {
+    "self": "/company/08930735"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2011-04-06",
+   "company_type": "plc",
+   "company_number": "07594510",
+   "address": {
+    "address_line_1": "Fox Way",
+    "locality": "Wakefield",
+    "postal_code": "WF2 8EE",
+    "premises": "Trinity Park House Trinity Business Park",
+    "region": "West Yorkshire"
+   },
+   "title": "BOPARAN FINANCE PLC",
+   "address_snippet": "Trinity Park House Trinity Business Park, Fox Way, Wakefield, West Yorkshire, WF2 8EE",
+   "description": "07594510 - Incorporated on 6 April 2011",
+   "links": {
+    "self": "/company/07594510"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1996-04-22",
+   "company_type": "ltd",
+   "company_number": "03188828",
+   "address": {
+    "address_line_1": "Fox Way",
+    "locality": "Wakefield",
+    "postal_code": "WF2 8EE",
+    "premises": "Trinity Park House Trinity Business Park",
+    "region": "West Yorkshire"
+   },
+   "title": "BOPARAN FOODS LIMITED",
+   "address_snippet": "Trinity Park House Trinity Business Park, Fox Way, Wakefield, West Yorkshire, WF2 8EE",
+   "description": "03188828 - Incorporated on 22 April 1996",
+   "links": {
+    "self": "/company/03188828"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 10000,
+ "start_index": 0
+}

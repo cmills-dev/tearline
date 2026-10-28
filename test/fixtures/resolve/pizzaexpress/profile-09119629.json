@@ -1,0 +1,70 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-12-28",
+   "period_end_on": "2025-12-28",
+   "period_start_on": "2024-12-30",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2027-06-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2025-12-29"
+  },
+  "next_due": "2027-06-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "PIZZAEXPRESS FINANCING 2 PLC",
+ "company_number": "09119629",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-12-14",
+  "next_due": "2026-12-28",
+  "next_made_up_to": "2026-12-14",
+  "overdue": false
+ },
+ "date_of_creation": "2014-07-07",
+ "etag": "f21c9d6709dc948de82b3bd1e9d96af8488024c2",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-07-07",
+ "links": {
+  "persons_with_significant_control": "/company/09119629/persons-with-significant-control",
+  "persons_with_significant_control_statements": "/company/09119629/persons-with-significant-control-statements",
+  "self": "/company/09119629",
+  "charges": "/company/09119629/charges",
+  "filing_history": "/company/09119629/filing-history",
+  "officers": "/company/09119629/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2014-10-13",
+   "effective_from": "2014-07-07",
+   "name": "TWINKLE PIZZA PLC"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Building 01 Arc Uxbridge",
+  "address_line_2": "Sanderson Road",
+  "country": "England",
+  "locality": "Uxbridge",
+  "postal_code": "UB8 1DH",
+  "region": "Middlesex"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "74990"
+ ],
+ "type": "plc",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

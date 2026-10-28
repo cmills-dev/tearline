@@ -1,0 +1,67 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "25",
+   "month": "09"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-09-28",
+   "period_end_on": "2025-09-28",
+   "period_start_on": "2024-09-30",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2027-06-25",
+   "overdue": false,
+   "period_end_on": "2026-09-25",
+   "period_start_on": "2025-09-29"
+  },
+  "next_due": "2027-06-25",
+  "next_made_up_to": "2026-09-25",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "STONEGATE PUB COMPANY FINANCING LIMITED",
+ "company_number": "08948738",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-03-19",
+  "next_due": "2027-04-02",
+  "next_made_up_to": "2027-03-19",
+  "overdue": false
+ },
+ "date_of_creation": "2014-03-19",
+ "etag": "45c014d609c0e1e3d8e74fe6261a68a7d8aa8f67",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-03-19",
+ "links": {
+  "persons_with_significant_control": "/company/08948738/persons-with-significant-control",
+  "self": "/company/08948738",
+  "charges": "/company/08948738/charges",
+  "filing_history": "/company/08948738/filing-history",
+  "officers": "/company/08948738/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2022-09-26",
+   "effective_from": "2014-03-19",
+   "name": "STONEGATE PUB COMPANY FINANCING PLC"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "3 Monkspath Hall Road",
+  "country": "United Kingdom",
+  "locality": "Solihull",
+  "postal_code": "B90 4SJ"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "82990"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

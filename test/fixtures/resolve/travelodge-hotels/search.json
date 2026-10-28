@@ -1,0 +1,281 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1963-07-29",
+   "company_type": "ltd",
+   "company_number": "00769170",
+   "address": {
+    "address_line_1": "Thame",
+    "locality": "Oxon",
+    "postal_code": "OX9 3AT",
+    "premises": "Sleepy Hollow, Aylesbury Road"
+   },
+   "title": "TRAVELODGE HOTELS LIMITED",
+   "address_snippet": "Sleepy Hollow, Aylesbury Road, Thame, Oxon, OX9 3AT",
+   "description": "00769170 - Incorporated on 29 July 1963",
+   "links": {
+    "self": "/company/00769170"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "closed"
+   ],
+   "company_status": "closed",
+   "date_of_creation": "2014-03-14",
+   "company_type": "uk-establishment",
+   "company_number": "BR017628",
+   "address": {
+    "locality": "Swindon",
+    "postal_code": "SN1 2SF",
+    "premises": "Princes House"
+   },
+   "title": "TRAVELODGE HOTELS LTD",
+   "address_snippet": "Princes House, Swindon, SN1 2SF",
+   "description": "BR017628 - Closed",
+   "links": {
+    "self": "/company/BR017628"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "closed"
+   ],
+   "company_status": "closed",
+   "date_of_creation": "2013-10-07",
+   "company_type": "uk-establishment",
+   "company_number": "BR017629",
+   "address": {
+    "locality": "Swindon",
+    "postal_code": "SN1 2SF",
+    "premises": "Princess House"
+   },
+   "title": "TRAVELODGE HOTELS LTD",
+   "address_snippet": "Princess House, Swindon, SN1 2SF",
+   "description": "BR017629 - Closed",
+   "links": {
+    "self": "/company/BR017629"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2026-04-28",
+   "company_type": "ltd",
+   "company_number": "17185325",
+   "address": {
+    "address_line_1": "Aylesbury Road",
+    "country": "England",
+    "locality": "Thame",
+    "postal_code": "OX9 3AT",
+    "premises": "Sleepy Hollow",
+    "region": "Oxfordshire"
+   },
+   "title": "TRAVELODGE HOTELS ISLE OF MAN LIMITED",
+   "address_snippet": "Sleepy Hollow, Aylesbury Road, Thame, Oxfordshire, England, OX9 3AT",
+   "description": "17185325 - Incorporated on 28 April 2026",
+   "links": {
+    "self": "/company/17185325"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    null,
+    "registered"
+   ],
+   "company_status": "registered",
+   "date_of_creation": "2022-12-13",
+   "external_registration_number": "13812V",
+   "company_type": "registered-overseas-entity",
+   "company_number": "OE007788",
+   "address": {
+    "address_line_1": "Victoria Road",
+    "country": "Isle Of Man",
+    "locality": "Douglas",
+    "postal_code": "IM2 4DF",
+    "premises": "First Names House"
+   },
+   "title": "MANCHESTER TRAVELODGE PROPERTY LIMITED",
+   "address_snippet": "First Names House, Victoria Road, Douglas, Isle Of Man, IM2 4DF",
+   "description": "OE007788 - Registered on 13 December 2022",
+   "links": {
+    "self": "/company/OE007788"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2016-09-09",
+   "company_type": "llp",
+   "company_number": "OC413630",
+   "address": {
+    "address_line_1": "Floor, 88 Baker Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1U 6TQ",
+    "premises": "1st"
+   },
+   "title": "MANCHESTER TRAVELODGE PROPERTY LLP",
+   "address_snippet": "1st Floor, 88 Baker Street, London, England, W1U 6TQ",
+   "description": "OC413630 - Incorporated on 9 September 2016",
+   "links": {
+    "self": "/company/OC413630"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2024-12-09",
+   "company_type": "ltd",
+   "company_number": "16123001",
+   "address": {
+    "address_line_1": "Wood Street",
+    "address_line_2": "Patchway",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS34 5GB",
+    "premises": "202"
+   },
+   "title": "MNMV TRAVELODGE LIMITED",
+   "address_snippet": "202 Wood Street, Patchway, Bristol, England, BS34 5GB",
+   "description": "16123001 - Incorporated on 9 December 2024",
+   "links": {
+    "self": "/company/16123001"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "registered-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2015-11-12",
+   "company_type": "limited-partnership",
+   "company_number": "LP017073",
+   "address": {
+    "address_line_1": "Knowlhill",
+    "country": "United Kingdom",
+    "locality": "Milton Keynes",
+    "postal_code": "MK5 8FR",
+    "premises": "Seebeck House 1 Seebeck Place",
+    "region": "Buckinghamshire"
+   },
+   "title": "RIVERSIDE CAPITAL (TRAVELODGE PORTFOLIO 1) LP",
+   "address_snippet": "Seebeck House 1 Seebeck Place Knowlhill, Milton Keynes, Buckinghamshire, United Kingdom, MK5 8FR",
+   "description": "LP017073 - Registered on 12 November 2015",
+   "links": {
+    "self": "/company/LP017073"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2015-10-28",
+   "company_type": "ltd",
+   "company_number": "09845246",
+   "address": {
+    "address_line_1": "Knowlhill",
+    "country": "United Kingdom",
+    "locality": "Milton Keynes",
+    "postal_code": "MK5 8FR",
+    "premises": "Seebeck House 1 Seebeck Place",
+    "region": "Buckinghamshire"
+   },
+   "title": "RIVERSIDE CAPITAL (TRAVELODGE PORTFOLIO 1) HOLDCO GP LIMITED",
+   "address_snippet": "Seebeck House 1 Seebeck Place, Knowlhill, Milton Keynes, Buckinghamshire, United Kingdom, MK5 8FR",
+   "description": "09845246 - Incorporated on 28 October 2015",
+   "links": {
+    "self": "/company/09845246"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2015-11-05",
+   "company_type": "ltd",
+   "company_number": "09858876",
+   "address": {
+    "address_line_1": "Knowlhill",
+    "country": "United Kingdom",
+    "locality": "Milton Keynes",
+    "postal_code": "MK5 8FR",
+    "premises": "Seebeck House 1 Seebeck Place",
+    "region": "Buckinghamshire"
+   },
+   "title": "RIVERSIDE CAPITAL (TRAVELODGE PORTFOLIO 1) KL GP LIMITED",
+   "address_snippet": "Seebeck House 1 Seebeck Place, Knowlhill, Milton Keynes, Buckinghamshire, United Kingdom, MK5 8FR",
+   "description": "09858876 - Incorporated on 5 November 2015",
+   "links": {
+    "self": "/company/09858876"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 6911,
+ "start_index": 0
+}

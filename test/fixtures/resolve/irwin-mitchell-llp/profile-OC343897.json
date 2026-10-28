@@ -1,0 +1,56 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "04"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-04-30",
+   "period_end_on": "2025-04-30",
+   "period_start_on": "2024-05-01",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2027-01-31",
+   "overdue": false,
+   "period_end_on": "2026-04-30",
+   "period_start_on": "2025-05-01"
+  },
+  "next_due": "2027-01-31",
+  "next_made_up_to": "2026-04-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "IRWIN MITCHELL LLP",
+ "company_number": "OC343897",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-03-10",
+  "next_due": "2027-03-24",
+  "next_made_up_to": "2027-03-10",
+  "overdue": false
+ },
+ "date_of_creation": "2009-03-10",
+ "etag": "c365041813a2b80c8d649613fd79c4e3dbf397ff",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control_statements": "/company/OC343897/persons-with-significant-control-statements",
+  "self": "/company/OC343897",
+  "filing_history": "/company/OC343897/filing-history",
+  "officers": "/company/OC343897/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "Riverside East",
+  "address_line_2": "2 Millsands",
+  "locality": "Sheffield",
+  "postal_code": "S3 8DT",
+  "region": "South Yorkshire"
+ },
+ "registered_office_is_in_dispute": false,
+ "type": "llp",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

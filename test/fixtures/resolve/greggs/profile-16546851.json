@@ -1,0 +1,52 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "06"
+  },
+  "next_accounts": {
+   "due_on": "2027-03-27",
+   "overdue": false,
+   "period_end_on": "2026-06-30",
+   "period_start_on": "2025-06-27"
+  },
+  "next_due": "2027-03-27",
+  "next_made_up_to": "2026-06-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "GREGGS CARGO AND LOGISTICS UK LTD",
+ "company_number": "16546851",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-06-26",
+  "next_due": "2027-07-10",
+  "next_made_up_to": "2027-06-26",
+  "overdue": false
+ },
+ "date_of_creation": "2025-06-27",
+ "etag": "a5aed6137a4bd31d0c26e8377ef35cf00e69c614",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/16546851/persons-with-significant-control",
+  "self": "/company/16546851",
+  "filing_history": "/company/16546851/filing-history",
+  "officers": "/company/16546851/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "11 Cygnet Court Holly Lane",
+  "country": "England",
+  "locality": "Smethwick",
+  "postal_code": "B66 1QQ",
+  "region": "West Midlands"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "53202"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

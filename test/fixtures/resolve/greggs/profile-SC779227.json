@@ -1,0 +1,58 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "08"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-08-31",
+   "period_end_on": "2025-08-31",
+   "period_start_on": "2024-09-01",
+   "type": "total-exemption-full"
+  },
+  "next_accounts": {
+   "due_on": "2027-05-31",
+   "overdue": false,
+   "period_end_on": "2026-08-31",
+   "period_start_on": "2025-09-01"
+  },
+  "next_due": "2027-05-31",
+  "next_made_up_to": "2026-08-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "GREGG'S GRAPHICS LIMITED",
+ "company_number": "SC779227",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-08-15",
+  "next_due": "2027-08-29",
+  "next_made_up_to": "2027-08-15",
+  "overdue": false
+ },
+ "date_of_creation": "2023-08-16",
+ "etag": "467b59f198f6f36b370bded2296d48b0ac780a5a",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "scotland",
+ "links": {
+  "persons_with_significant_control": "/company/SC779227/persons-with-significant-control",
+  "self": "/company/SC779227",
+  "filing_history": "/company/SC779227/filing-history",
+  "officers": "/company/SC779227/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "27 North Bridge Street",
+  "country": "United Kingdom",
+  "locality": "Hawick",
+  "postal_code": "TD9 9BD"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "62090",
+  "63990"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

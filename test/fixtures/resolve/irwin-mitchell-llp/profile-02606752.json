@@ -1,0 +1,62 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "05"
+  },
+  "last_accounts": {
+   "made_up_to": "2019-05-31",
+   "period_end_on": "2019-05-31",
+   "type": "dormant"
+  }
+ },
+ "can_file": false,
+ "company_name": "IRWIN MITCHELL RIVERSIDE LIMITED",
+ "company_number": "02606752",
+ "company_status": "dissolved",
+ "status": "active",
+ "date_of_cessation": "2020-09-22",
+ "date_of_creation": "1991-05-01",
+ "etag": "c5afda368b02cac69f53abe24a418e50a7f65f0e",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-05-01",
+ "links": {
+  "persons_with_significant_control": "/company/02606752/persons-with-significant-control",
+  "self": "/company/02606752",
+  "filing_history": "/company/02606752/filing-history",
+  "officers": "/company/02606752/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2009-03-10",
+   "effective_from": "1995-02-28",
+   "name": "IRWIN MITCHELL LIMITED"
+  },
+  {
+   "ceased_on": "1995-02-28",
+   "effective_from": "1991-06-24",
+   "name": "KERSHAW TUDOR LIMITED"
+  },
+  {
+   "ceased_on": "1991-06-24",
+   "effective_from": "1991-05-01",
+   "name": "KT548 LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "C/O Irwin Mitchell",
+  "address_line_2": "2 Wellington Place",
+  "locality": "Leeds",
+  "postal_code": "LS1 4BZ",
+  "region": "West Yorkshire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "74990"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false
+}

@@ -1,0 +1,43 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "29",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2020-12-27",
+   "period_end_on": "2020-12-27",
+   "type": "dormant"
+  }
+ },
+ "can_file": false,
+ "company_name": "WAGAMAMA NEWCO LIMITED",
+ "company_number": "11305225",
+ "company_status": "dissolved",
+ "date_of_cessation": "2023-04-25",
+ "date_of_creation": "2018-04-11",
+ "etag": "e962c86094350ea8fd65556110ac7a97af32cbe5",
+ "has_charges": false,
+ "has_insolvency_history": true,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/11305225/persons-with-significant-control",
+  "self": "/company/11305225",
+  "filing_history": "/company/11305225/filing-history",
+  "insolvency": "/company/11305225/insolvency",
+  "officers": "/company/11305225/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "C/O MAZARS LLP",
+  "address_line_2": "1st Floor Two Chamberlain Square",
+  "locality": "Birmingham",
+  "postal_code": "B3 3AX"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "99999"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

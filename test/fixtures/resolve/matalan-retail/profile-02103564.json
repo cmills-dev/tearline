@@ -1,0 +1,77 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "26",
+   "month": "02"
+  },
+  "last_accounts": {
+   "made_up_to": "2026-02-28",
+   "period_end_on": "2026-02-28",
+   "period_start_on": "2025-02-23",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2027-11-26",
+   "overdue": false,
+   "period_end_on": "2027-02-26",
+   "period_start_on": "2026-03-01"
+  },
+  "next_due": "2027-11-26",
+  "next_made_up_to": "2027-02-26",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "MATALAN RETAIL LTD.",
+ "company_number": "02103564",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-07-30",
+  "next_due": "2027-08-13",
+  "next_made_up_to": "2027-07-30",
+  "overdue": false
+ },
+ "date_of_creation": "1987-02-25",
+ "etag": "c33b4fdf759ade996b072fb6003a4130b221f8f6",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-07-31",
+ "links": {
+  "persons_with_significant_control": "/company/02103564/persons-with-significant-control",
+  "self": "/company/02103564",
+  "charges": "/company/02103564/charges",
+  "filing_history": "/company/02103564/filing-history",
+  "officers": "/company/02103564/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "1998-03-03",
+   "effective_from": "1992-12-10",
+   "name": "MATALAN DISCOUNT CLUB (CASH & CARRY) LTD."
+  },
+  {
+   "ceased_on": "1992-12-10",
+   "effective_from": "1988-08-12",
+   "name": "MATALAN (CASH & CARRY) LIMITED"
+  },
+  {
+   "ceased_on": "1988-08-12",
+   "effective_from": "1987-02-25",
+   "name": "MATALAN (SALFORD) LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Matalan Head Office Perimeter Road",
+  "address_line_2": "Knowsley Industrial Park",
+  "locality": "Liverpool",
+  "postal_code": "L33 7SZ"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "47710"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

@@ -1,0 +1,67 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "03"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-03-31",
+   "period_end_on": "2025-03-31",
+   "period_start_on": "2024-04-01",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2026-12-31",
+   "overdue": false,
+   "period_end_on": "2026-03-31",
+   "period_start_on": "2025-04-01"
+  },
+  "next_due": "2026-12-31",
+  "next_made_up_to": "2026-03-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "MCDERMOTT KC TRAINING LIMITED",
+ "company_number": "07971844",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-03-01",
+  "next_due": "2027-03-15",
+  "next_made_up_to": "2027-03-01",
+  "overdue": false
+ },
+ "date_of_creation": "2012-03-01",
+ "etag": "1e2a12a219283b00b399154ca80360e07b0fee8e",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-03-01",
+ "links": {
+  "persons_with_significant_control": "/company/07971844/persons-with-significant-control",
+  "self": "/company/07971844",
+  "filing_history": "/company/07971844/filing-history",
+  "officers": "/company/07971844/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2026-03-09",
+   "effective_from": "2012-03-01",
+   "name": "WEIR HOUSE CHAMBERS LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Incom House Waterside",
+  "address_line_2": "Trafford Park",
+  "care_of": "TOPPING PARTNERSHIP",
+  "locality": "Manchester",
+  "postal_code": "M17 1WD"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "99999"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

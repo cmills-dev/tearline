@@ -1,0 +1,277 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1997-10-24",
+   "company_type": "ltd",
+   "company_number": "03454787",
+   "address": {
+    "address_line_1": "Shaftsbury Drive",
+    "locality": "Burntwood",
+    "postal_code": "WS7 9QP",
+    "premises": "Busy Bees At St Matthews",
+    "region": "Staffordshire"
+   },
+   "title": "BUSY BEES NURSERIES LIMITED",
+   "address_snippet": "Busy Bees At St Matthews, Shaftsbury Drive, Burntwood, Staffordshire, WS7 9QP",
+   "description": "03454787 - Incorporated on 24 October 1997",
+   "links": {
+    "self": "/company/03454787"
+   },
+   "snippet": "BUSY BEES (2) LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1989-06-28",
+   "company_type": "ltd",
+   "company_number": "SC118818",
+   "address": {
+    "address_line_1": "Lochside Place",
+    "address_line_2": "Edinburgh",
+    "postal_code": "EH12 9DF",
+    "premises": "1"
+   },
+   "title": "BUSY BEES NURSERIES (SCOTLAND) LIMITED",
+   "address_snippet": "1 Lochside Place, Edinburgh, EH12 9DF",
+   "description": "SC118818 - Incorporated on 28 June 1989",
+   "links": {
+    "self": "/company/SC118818"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "1999-12-13",
+   "date_of_cessation": "2015-11-10",
+   "company_type": "ltd",
+   "company_number": "03895685",
+   "address": {
+    "address_line_1": "Shaftsbury Drive",
+    "locality": "Burntwood",
+    "postal_code": "WS7 9QP",
+    "premises": "Busy Bees At St Matthews",
+    "region": "Staffordshire"
+   },
+   "title": "BUSY BEES NURSERIES GROUP LIMITED",
+   "address_snippet": "Busy Bees At St Matthews, Shaftsbury Drive, Burntwood, Staffordshire, WS7 9QP",
+   "description": "03895685 - Dissolved on 10 November 2015",
+   "links": {
+    "self": "/company/03895685"
+   },
+   "snippet": "BUSY BEES GROUP",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1965-10-15",
+   "company_type": "ltd",
+   "company_number": "00861615",
+   "address": {
+    "address_line_1": "Shaftsbury Drive",
+    "locality": "Burntwood",
+    "postal_code": "WS7 9QP",
+    "premises": "St Matthews",
+    "region": "Staffordshire"
+   },
+   "title": "BUSY BEES DAY NURSERIES LIMITED",
+   "address_snippet": "St Matthews, Shaftsbury Drive, Burntwood, Staffordshire, WS7 9QP",
+   "description": "00861615 - Incorporated on 15 October 1965",
+   "links": {
+    "self": "/company/00861615"
+   },
+   "snippet": "LEAPFROG DAY NURSERIES LIMITED · NORD ANGLIA NURSERIES LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1996-07-25",
+   "company_type": "ltd",
+   "company_number": "03229362",
+   "address": {
+    "address_line_1": "Shaftsbury Drive",
+    "locality": "Burntwood",
+    "postal_code": "WS7 9QP",
+    "premises": "St Matthews",
+    "region": "Staffordshire"
+   },
+   "title": "BUSY BEES DAY NURSERIES (TRADING) LIMITED",
+   "address_snippet": "St Matthews, Shaftsbury Drive, Burntwood, Staffordshire, WS7 9QP",
+   "description": "03229362 - Incorporated on 25 July 1996",
+   "links": {
+    "self": "/company/03229362"
+   },
+   "snippet": "LEAPFROG DAY NURSERIES (TRADING) LIMITED · LEAPFROG DAY NURSERIES LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2014-02-19",
+   "company_type": "ltd",
+   "company_number": "08901139",
+   "address": {
+    "address_line_1": "Vickers Close",
+    "address_line_2": "Preston Farm Industrial Estate",
+    "country": "England",
+    "locality": "Stockton-On-Tees",
+    "postal_code": "TS18 3TD",
+    "premises": "Unit 3"
+   },
+   "title": "BOOKKEEPING 4 BUSY BEES LIMITED",
+   "address_snippet": "Unit 3 Vickers Close, Preston Farm Industrial Estate, Stockton-On-Tees, England, TS18 3TD",
+   "description": "08901139 - Incorporated on 19 February 2014",
+   "links": {
+    "self": "/company/08901139"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2018-06-04",
+   "company_type": "ltd",
+   "company_number": "11397161",
+   "address": {
+    "address_line_1": "Old Gloucester Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC1N 3AX",
+    "premises": "27"
+   },
+   "title": "BRIGHTON BUSY BEES LIMITED",
+   "address_snippet": "27 Old Gloucester Street, London, England, WC1N 3AX",
+   "description": "11397161 - Incorporated on 4 June 2018",
+   "links": {
+    "self": "/company/11397161"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "converted-closed-on"
+   ],
+   "company_status": "converted-closed",
+   "date_of_cessation": "Unknown",
+   "external_registration_number": "1190279",
+   "company_type": "charitable-incorporated-organisation",
+   "company_number": "CE022422",
+   "address": {},
+   "title": "BROWN EDGE BUSY BEES",
+   "description": "CE022422 - Converted/Closed on ",
+   "links": {
+    "self": "/company/CE022422"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2023-08-01",
+   "company_type": "ltd",
+   "company_number": "15042352",
+   "address": {
+    "address_line_1": "Wintersdale Road",
+    "country": "United Kingdom",
+    "locality": "Leicester",
+    "postal_code": "LE5 2GS",
+    "premises": "107",
+    "region": "Leicestershire"
+   },
+   "title": "BUSY AS BEES LIMITED",
+   "address_snippet": "107 Wintersdale Road, Leicester, Leicestershire, United Kingdom, LE5 2GS",
+   "description": "15042352 - Incorporated on 1 August 2023",
+   "links": {
+    "self": "/company/15042352"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2019-08-28",
+   "company_type": "ltd",
+   "company_number": "12177151",
+   "address": {
+    "address_line_1": "Shepherd Street",
+    "address_line_2": "Northfleet",
+    "country": "England",
+    "locality": "Gravesend",
+    "postal_code": "DA11 9PT",
+    "premises": "56-58",
+    "region": "Kent"
+   },
+   "title": "BUSY AS BEES NURSERY LTD",
+   "address_snippet": "56-58 Shepherd Street, Northfleet, Gravesend, Kent, England, DA11 9PT",
+   "description": "12177151 - Incorporated on 28 August 2019",
+   "links": {
+    "self": "/company/12177151"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 6587,
+ "start_index": 0
+}

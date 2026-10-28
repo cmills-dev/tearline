@@ -1,0 +1,70 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-12-27",
+   "period_end_on": "2025-12-27",
+   "period_start_on": "2024-12-29",
+   "type": "group"
+  },
+  "next_accounts": {
+   "due_on": "2027-06-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2025-12-28"
+  },
+  "next_due": "2027-06-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "GREGGS PLC",
+ "company_number": "00502851",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-04-14",
+  "next_due": "2027-04-28",
+  "next_made_up_to": "2027-04-14",
+  "overdue": false
+ },
+ "date_of_creation": "1951-12-29",
+ "etag": "ef86fc1c1ccb24690e281544f53b47a167c79399",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2011-05-08",
+ "links": {
+  "persons_with_significant_control_statements": "/company/00502851/persons-with-significant-control-statements",
+  "self": "/company/00502851",
+  "charges": "/company/00502851/charges",
+  "filing_history": "/company/00502851/filing-history",
+  "officers": "/company/00502851/officers",
+  "exemptions": "/company/00502851/exemptions"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "1983-12-30",
+   "effective_from": "1951-12-29",
+   "name": "GREGGS BAKERIES LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Greggs House",
+  "address_line_2": "Quorum Business Park",
+  "country": "United Kingdom",
+  "locality": "Newcastle Upon Tyne",
+  "postal_code": "NE12 8BU"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "10710",
+  "47240"
+ ],
+ "type": "plc",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

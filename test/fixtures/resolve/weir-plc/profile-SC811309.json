@@ -1,0 +1,41 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "05"
+  }
+ },
+ "can_file": false,
+ "company_name": "WEIR ACCESS LTD",
+ "company_number": "SC811309",
+ "company_status": "dissolved",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-05-21"
+ },
+ "date_of_cessation": "2026-06-02",
+ "date_of_creation": "2024-05-22",
+ "etag": "a6e0f909531d0a154cf897ad2fee01a960bb78a0",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "scotland",
+ "links": {
+  "persons_with_significant_control": "/company/SC811309/persons-with-significant-control",
+  "self": "/company/SC811309",
+  "filing_history": "/company/SC811309/filing-history",
+  "officers": "/company/SC811309/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "4 Kennedy Park",
+  "address_line_2": "Dreghorn",
+  "country": "Scotland",
+  "locality": "Irvine",
+  "postal_code": "KA11 4DW"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "42990"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

@@ -1,0 +1,40 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "06"
+  },
+  "last_accounts": {
+   "type": "null"
+  }
+ },
+ "can_file": false,
+ "company_name": "PRET A MANGER LOGISTICS LIMITED",
+ "company_number": "14204578",
+ "company_status": "dissolved",
+ "date_of_cessation": "2023-12-12",
+ "date_of_creation": "2022-06-29",
+ "etag": "fbc4dd4151a4d73d3fadf84994a2fa10ce7c41bd",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/14204578/persons-with-significant-control",
+  "self": "/company/14204578",
+  "filing_history": "/company/14204578/filing-history",
+  "officers": "/company/14204578/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "14204578 - COMPANIES HOUSE DEFAULT ADDRESS",
+  "locality": "Cardiff",
+  "po_box": "4385",
+  "postal_code": "CF14 8LH"
+ },
+ "registered_office_is_in_dispute": true,
+ "sic_codes": [
+  "56103"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

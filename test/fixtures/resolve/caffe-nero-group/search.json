@@ -1,0 +1,282 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2000-12-21",
+   "company_type": "ltd",
+   "company_number": "04129005",
+   "address": {
+    "address_line_1": "Neal Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2H 9QL",
+    "premises": "9-15"
+   },
+   "title": "ITALIAN COFFEE HOLDINGS LTD",
+   "address_snippet": "9-15 Neal Street, London, England, WC2H 9QL",
+   "description": "04129005 - Incorporated on 21 December 2000",
+   "links": {
+    "self": "/company/04129005"
+   },
+   "snippet": "CAFFE NERO GROUP LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2006-09-15",
+   "company_type": "ltd",
+   "company_number": "05936386",
+   "address": {
+    "address_line_1": "Neal Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2H 9QL",
+    "premises": "9-15"
+   },
+   "title": "CAFFE NERO GROUP HOLDINGS LTD",
+   "address_snippet": "9-15 Neal Street, London, England, WC2H 9QL",
+   "description": "05936386 - Incorporated on 15 September 2006",
+   "links": {
+    "self": "/company/05936386"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2013-10-18",
+   "company_type": "ltd",
+   "company_number": "08739070",
+   "address": {
+    "address_line_1": "Neal Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2H 9QL",
+    "premises": "9-15"
+   },
+   "title": "CAFFE NERO AMERICAS LTD",
+   "address_snippet": "9-15 Neal Street, London, England, WC2H 9QL",
+   "description": "08739070 - Incorporated on 18 October 2013",
+   "links": {
+    "self": "/company/08739070"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2007-02-26",
+   "company_type": "ltd",
+   "company_number": "06127290",
+   "address": {
+    "address_line_1": "Neal Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2H 9QL",
+    "premises": "9-15"
+   },
+   "title": "CAFFE NERO INVESTMENTS LIMITED",
+   "address_snippet": "9-15 Neal Street, London, England, WC2H 9QL",
+   "description": "06127290 - Incorporated on 26 February 2007",
+   "links": {
+    "self": "/company/06127290"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2007-02-26",
+   "company_type": "ltd",
+   "company_number": "06127289",
+   "address": {
+    "address_line_1": "Neal Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2H 9QL",
+    "premises": "9-15"
+   },
+   "title": "CAFFE NERO VENTURES LIMITED",
+   "address_snippet": "9-15 Neal Street, London, England, WC2H 9QL",
+   "description": "06127289 - Incorporated on 26 February 2007",
+   "links": {
+    "self": "/company/06127289"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2022-08-15",
+   "company_type": "ltd",
+   "company_number": "14297492",
+   "address": {
+    "address_line_1": "Ship Launch Cottages",
+    "address_line_2": "Cliff Road",
+    "country": "United Kingdom",
+    "locality": "Ipswich",
+    "postal_code": "IP3 0AX",
+    "premises": "1",
+    "region": "Suffolk"
+   },
+   "title": "DI NERO GROUP LTD",
+   "address_snippet": "1 Ship Launch Cottages, Cliff Road, Ipswich, Suffolk, United Kingdom, IP3 0AX",
+   "description": "14297492 - Incorporated on 15 August 2022",
+   "links": {
+    "self": "/company/14297492"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2025-06-16",
+   "company_type": "ltd",
+   "company_number": "16521432",
+   "address": {
+    "address_line_1": "Paul Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC2A 4NA",
+    "premises": "66"
+   },
+   "title": "NERO ENGINE GROUP LTD",
+   "address_snippet": "66 Paul Street, London, England, EC2A 4NA",
+   "description": "16521432 - Incorporated on 16 June 2025",
+   "links": {
+    "self": "/company/16521432"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2006-11-17",
+   "company_type": "ltd",
+   "company_number": "06002065",
+   "address": {
+    "address_line_1": "Neal Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2H 9QL",
+    "premises": "9-15"
+   },
+   "title": "THE NERO GROUP LTD",
+   "address_snippet": "9-15 Neal Street, London, England, WC2H 9QL",
+   "description": "06002065 - Incorporated on 17 November 2006",
+   "links": {
+    "self": "/company/06002065"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2026-01-26",
+   "company_type": "ltd",
+   "company_number": "SC876424",
+   "address": {
+    "address_line_1": "South Medrox Street",
+    "address_line_2": "Glenboig",
+    "country": "Scotland",
+    "locality": "Coatbridge",
+    "postal_code": "ML5 2RU",
+    "premises": "2"
+   },
+   "title": "NERO HOMES GROUP LIMITED",
+   "address_snippet": "2 South Medrox Street, Glenboig, Coatbridge, Scotland, ML5 2RU",
+   "description": "SC876424 - Incorporated on 26 January 2026",
+   "links": {
+    "self": "/company/SC876424"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2019-12-17",
+   "company_type": "ltd",
+   "company_number": "12366776",
+   "address": {
+    "address_line_1": "Constance Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "E16 2DQ",
+    "premises": "12"
+   },
+   "title": "NEROK GROUP LTD",
+   "address_snippet": "12 Constance Street, London, England, E16 2DQ",
+   "description": "12366776 - Incorporated on 17 December 2019",
+   "links": {
+    "self": "/company/12366776"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 10000,
+ "start_index": 0
+}

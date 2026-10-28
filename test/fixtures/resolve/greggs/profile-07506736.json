@@ -1,0 +1,59 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "05",
+   "month": "04"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-04-05",
+   "period_end_on": "2025-04-05",
+   "period_start_on": "2024-04-06",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2027-01-05",
+   "overdue": false,
+   "period_end_on": "2026-04-05",
+   "period_start_on": "2025-04-06"
+  },
+  "next_due": "2027-01-05",
+  "next_made_up_to": "2026-04-05",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "GREGGS 1978 PENSION SCHEME TRUSTEE LIMITED",
+ "company_number": "07506736",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-12-17",
+  "next_due": "2026-12-31",
+  "next_made_up_to": "2026-12-17",
+  "overdue": false
+ },
+ "date_of_creation": "2011-01-26",
+ "etag": "bd4c11d8a7c6c6042ae44944a8f949548148111b",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control_statements": "/company/07506736/persons-with-significant-control-statements",
+  "self": "/company/07506736",
+  "filing_history": "/company/07506736/filing-history",
+  "officers": "/company/07506736/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "Greggs House Quorum Business Park",
+  "address_line_2": "Benton Lane",
+  "country": "United Kingdom",
+  "locality": "Newcastle Upon Tyne",
+  "postal_code": "NE12 8BU"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "99999"
+ ],
+ "type": "private-limited-guarant-nsc",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "invite link opens register",
+    "ok": true,
+    "note": "Origination / WORKING TITLE GET SET UP PIPELINE WATCHLIST WORKSPACE REVIEW QUEUE SHARED LEARNING KNOWLEDGE GRAPH SIGN IN"
+  },
+  {
+    "id": "invited user registers in the browser",
+    "ok": true,
+    "note": "url http://127.0.0.1:3126/onboarding cookies sid,sid_h "
+  },
+  {
+    "id": "login in the browser",
+    "ok": true,
+    "note": "http://127.0.0.1:3126/originate"
+  },
+  {
+    "id": "page /",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /workspace",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /sheet/meridian",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /sheet/qa06-secret",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /originate",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /live",
+    "ok": true,
+    "note": "status 0 | goto: TimeoutError: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"http://127.0.0.1:3126/live\", waiting unt"
+  },
+  {
+    "id": "page /watchlist",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /pipeline",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /review",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /screen",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /kb",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /housesheet",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /onboarding",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /onboarding/assistant",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /shared-learning",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /esef",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /sec",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /api/export/deck/qa06-secret",
+    "ok": true,
+    "note": "status 200"
+  },
+  {
+    "id": "page /api/export/references/qa06-secret?format=html",
+    "ok": true,
+    "note": "status 0 | goto: Error: page.goto: Download is starting\nCall log:\n  - navigating to \"http://127.0.0.1:3126/api/export/references/qa06-sec"
+  },
+  {
+    "id": "page /no-such-page",
+    "ok": true,
+    "note": "status 404 | console: Failed to load resource: the server responded with a status of 404 (Not Found)"
+  }
+]

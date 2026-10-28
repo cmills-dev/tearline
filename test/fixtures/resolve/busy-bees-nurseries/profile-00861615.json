@@ -1,0 +1,83 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-12-31",
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2025-01-01",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2026-01-01"
+  },
+  "next_due": "2027-09-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "BUSY BEES DAY NURSERIES LIMITED",
+ "company_number": "00861615",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-10-01",
+  "next_due": "2026-10-15",
+  "next_made_up_to": "2026-10-01",
+  "overdue": false
+ },
+ "date_of_creation": "1965-10-15",
+ "etag": "08e6f83de3d156dc5d63c65d8aa3197ce907a3d1",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-10-01",
+ "links": {
+  "persons_with_significant_control": "/company/00861615/persons-with-significant-control",
+  "self": "/company/00861615",
+  "charges": "/company/00861615/charges",
+  "filing_history": "/company/00861615/filing-history",
+  "officers": "/company/00861615/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2010-12-06",
+   "effective_from": "2007-10-30",
+   "name": "LEAPFROG DAY NURSERIES LIMITED"
+  },
+  {
+   "ceased_on": "2007-10-30",
+   "effective_from": "1996-02-02",
+   "name": "NORD ANGLIA NURSERIES LIMITED"
+  },
+  {
+   "ceased_on": "1996-02-02",
+   "effective_from": "1986-02-11",
+   "name": "ASH LEA INFANT SCHOOL LIMITED"
+  },
+  {
+   "ceased_on": "1986-02-11",
+   "effective_from": "1965-10-15",
+   "name": "G. ELLOY LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "St Matthews",
+  "address_line_2": "Shaftsbury Drive",
+  "locality": "Burntwood",
+  "postal_code": "WS7 9QP",
+  "region": "Staffordshire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "85100"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

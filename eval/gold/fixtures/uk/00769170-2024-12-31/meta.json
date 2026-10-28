@@ -1,0 +1,26 @@
+{
+  "companyNumber": "00769170",
+  "companyName": "TRAVELODGE HOTELS LIMITED",
+  "transactionId": "MzQ2NTM4NzUzM2FkaXF6a2N4",
+  "filingType": "AAMD",
+  "filedOn": "2025-05-07",
+  "madeUpDate": "2024-12-31",
+  "accountsType": "full",
+  "pageCount": 69,
+  "chPages": 69,
+  "file": "filing.pdf",
+  "format": "pdf",
+  "resourcesOffered": [
+    "application/pdf"
+  ],
+  "bytes": 2182958,
+  "sha256": "91882ba73acdb8745ac957ed64c6b63cdab23b632a2a8ed7e7d57a21035224fe",
+  "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/8Wo4lPRQsq106AL77BQ_i_YyDoMgDmo-TkMq4QlhWTI",
+  "filingHistoryUrl": "https://api.company-information.service.gov.uk/company/00769170/filing-history/MzQ2NTM4NzUzM2FkaXF6a2N4",
+  "publicRecordUrl": "https://find-and-update.company-information.service.gov.uk/company/00769170/filing-history",
+  "textLayerChars": 2,
+  "bytesCommitted": true,
+  "kind": "scan-full",
+  "notes": "Amended accounts (AAMD). The newest accounts-category filing is the amendment, filed 7 May 2025 over the AA of 14 Apr 2025 for the same year end.",
+  "frozenOn": "2026-09-15"
+}

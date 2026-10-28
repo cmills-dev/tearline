@@ -1,0 +1,76 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-12-31",
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2025-01-01",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2026-01-01"
+  },
+  "next_due": "2027-09-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "BUSY BEES NURSERIES (SCOTLAND) LIMITED",
+ "company_number": "SC118818",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-06-19",
+  "next_due": "2027-07-03",
+  "next_made_up_to": "2027-06-19",
+  "overdue": false
+ },
+ "date_of_creation": "1989-06-28",
+ "etag": "94aba190c7d73a8a58663635a6df5e84eb1ac322",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "scotland",
+ "last_full_members_list_date": "2016-06-17",
+ "links": {
+  "persons_with_significant_control": "/company/SC118818/persons-with-significant-control",
+  "self": "/company/SC118818",
+  "charges": "/company/SC118818/charges",
+  "filing_history": "/company/SC118818/filing-history",
+  "officers": "/company/SC118818/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2012-12-20",
+   "effective_from": "1998-09-01",
+   "name": "CARESHARE LIMITED"
+  },
+  {
+   "ceased_on": "1998-09-01",
+   "effective_from": "1989-09-18",
+   "name": "CARESHARE HOLDINGS LIMITED"
+  },
+  {
+   "ceased_on": "1989-09-18",
+   "effective_from": "1989-06-28",
+   "name": "DUNWILCO (173) LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "1 Lochside Place",
+  "address_line_2": "Edinburgh",
+  "postal_code": "EH12 9DF"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "85100"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

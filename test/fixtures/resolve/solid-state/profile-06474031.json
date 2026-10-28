@@ -1,0 +1,72 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "06"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-06-30",
+   "period_end_on": "2025-06-30",
+   "period_start_on": "2024-07-01",
+   "type": "total-exemption-full"
+  },
+  "next_accounts": {
+   "due_on": "2027-03-31",
+   "overdue": false,
+   "period_end_on": "2026-06-30",
+   "period_start_on": "2025-07-01"
+  },
+  "next_due": "2027-03-31",
+  "next_made_up_to": "2026-06-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "SOLID STATE DISKS LTD",
+ "company_number": "06474031",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-06-19",
+  "next_due": "2027-07-03",
+  "next_made_up_to": "2027-06-19",
+  "overdue": false
+ },
+ "date_of_creation": "2008-01-15",
+ "etag": "63b3dcefbe11d94eddb038f6038b3515f858d22f",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-06-19",
+ "links": {
+  "persons_with_significant_control": "/company/06474031/persons-with-significant-control",
+  "self": "/company/06474031",
+  "charges": "/company/06474031/charges",
+  "filing_history": "/company/06474031/filing-history",
+  "officers": "/company/06474031/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2009-06-23",
+   "effective_from": "2009-06-18",
+   "name": "REACTIVE INDUSTRIAL MEMORY LTD"
+  },
+  {
+   "ceased_on": "2009-06-18",
+   "effective_from": "2008-01-15",
+   "name": "SOLID STATE DISKS LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "3 Richfield Place, Richfield",
+  "address_line_2": "Avenue, Reading",
+  "locality": "Berkshire",
+  "postal_code": "RG1 8EQ"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "62090"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

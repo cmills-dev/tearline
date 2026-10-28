@@ -1,0 +1,62 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "11"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-11-30",
+   "period_end_on": "2025-11-30",
+   "period_start_on": "2024-12-01",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2027-08-31",
+   "overdue": false,
+   "period_end_on": "2026-11-30",
+   "period_start_on": "2025-12-01"
+  },
+  "next_due": "2027-08-31",
+  "next_made_up_to": "2026-11-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "SOLID STATE EDUCATIONAL SOLUTIONS LIMITED",
+ "company_number": "08784432",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-08-15",
+  "next_due": "2026-08-29",
+  "next_made_up_to": "2026-08-15",
+  "overdue": true
+ },
+ "date_of_creation": "2013-11-20",
+ "etag": "c9de82a8cd05dd65961dfef763a8260f7cc50e11",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-11-20",
+ "links": {
+  "persons_with_significant_control_statements": "/company/08784432/persons-with-significant-control-statements",
+  "self": "/company/08784432",
+  "filing_history": "/company/08784432/filing-history",
+  "officers": "/company/08784432/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "204 Wakeley Road",
+  "address_line_2": "Rainham",
+  "country": "England",
+  "locality": "Gillingham",
+  "postal_code": "ME8 8NJ"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "72190",
+  "85310",
+  "85421",
+  "85422"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

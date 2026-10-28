@@ -1,0 +1,65 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "01"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-01-31",
+   "period_end_on": "2025-01-31",
+   "period_start_on": "2024-02-01",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2026-10-31",
+   "overdue": false,
+   "period_end_on": "2026-01-31",
+   "period_start_on": "2025-02-01"
+  },
+  "next_due": "2026-10-31",
+  "next_made_up_to": "2026-01-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "KFORD TYRES (GORNAL) LTD",
+ "company_number": "09384423",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-07-24",
+  "next_due": "2027-08-07",
+  "next_made_up_to": "2027-07-24",
+  "overdue": false
+ },
+ "date_of_creation": "2015-01-12",
+ "etag": "ba8c35971eaa4f68086be0b8b22bd23210e46967",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-01-12",
+ "links": {
+  "persons_with_significant_control": "/company/09384423/persons-with-significant-control",
+  "self": "/company/09384423",
+  "filing_history": "/company/09384423/filing-history",
+  "officers": "/company/09384423/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2026-06-03",
+   "effective_from": "2015-01-12",
+   "name": "TESCO TYRES LTD"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "2 Dawley Brook Road",
+  "country": "England",
+  "locality": "Kingswinford",
+  "postal_code": "DY6 7BD"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "45200"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

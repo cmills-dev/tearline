@@ -1,0 +1,49 @@
+{
+  "note": "Recorded Anthropic Messages API response for a first read of a frozen UK gold scan (WP-BE05). No PDF bytes. Replayed offline.",
+  "kind": "first-read",
+  "companyNumber": "00769170",
+  "transactionId": "MzQ2NTM4NzUzM2FkaXF6a2N4",
+  "folder": "00769170-2024-12-31",
+  "pageCount": 69,
+  "pdfBytes": 2182958,
+  "schemaVersion": 3,
+  "promptVersion": "p3",
+  "recordedAt": "2026-09-27T22:48:08.992Z",
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUkwspv3Fjm3QV8Bim8N",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "",
+        "signature": "CAIS9wkKtAIIEhgCKkAMSgXog21fhXMLkLUgPpc/soIMeIgHP6rU+v8mKgXvm9Roq5PBu4BV7oCw8s2mkLqruDsvYk0fvsaSpVSpYT/oMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRlMDhmMzYwMy1hMmViLTQ5ZGItODZlMi01ZDNiYTRmMGM3NWSoAZi65tUGwgFACAYQABoSAV7MAtqKA083CB09BSp0BCatIAIyBBJxzyU6BDbNfBVCBDgzI4pKBDgzI4pQAFoE2QXhVmACaAFwAdoBYAoWcHJlZml4X2JlZm9yZV9ibG9ja192MRIglmlohvYqDkgJHqc6hHoJnFIGA+tj6AQLeoCk0ag2tPkiADIgwsATyGqckuIvlm89hhd2j4t6RMkCrcwJe/oeCYr7Th9IAxIM9nfc0YXpVSfXE2qBGgxiFcUmDcFUp+cmWs0iMC8wtTnRuU0XCFDV30V+kDXkr2HJ2DdUTPPW2LqSVoTtUzBuRiAs9GWdWSRT1SUrlCrvBjkb9o0HyTub+wqqfeHzfLQqqjuQpNSNjKYOURdBW7JrI/+kk8TzSNpH+9+Vo1HRJTId+eWEkFONJX1Qq0iUlPYX0Av1DqDnxdDbhEm/5NcMoeQJDqGbX/WlCZd7DNCMJl+Hluj5Ais5QJkOAkmXu2giQRQt9j9AXANeNwmJGS1d/Rq1InytYv5wIWr5VV5hnjnXmGsPwef187AWmgJyDMnfrUmTpHcWU29pV5Z4sRw4LRFIePCLOOu/TDoYaL2Z/xlA3uiqgizxMS5+1wFwjq5E8V1pupetMxjh0VJ5uN+c4WbtbTV7U6lOSTwMfwPDTP+WDoK+lchJrJP7ma1zFq7fc19425Y+7r2XWRlQYH8AG/304PKm9z5YvEiggIXw+DbuNUsO8dGjc+oSjVjTz91AWFnzhywaDMReESAxjlgoyKCEgJt8R0ZWdse2Wgy4n/xd6FhEMXn8KDXye1VzzI5SE2q851Qd/N8V0xOGp3MTaG9l+OReE/1f3MXtLvj/PycsFV95DBoXfUcEJi6ttCeVT3nQdx1zsT0wdX1qDi8SHM47yV7dxengze/QD8cc1UXClEQbromtyfwPKhesAHn/pOHfNM4B49Tuet+qHF97iUad4NFYmOt/tLBYwd5AyW8odDaRD5rXr3526IeJkrlfu8cJlX6+mPj6cA2irZ3kZeeHdys1peWt4djaRCA0MlUDUh+H2CSLa1auHldqMhnrG4Tfsby+ofvEpoHm/Si4Dq3fkOp81ejgSaeYwRRl7DRozqLStkHff7jSxar5FK6dgMzO1mQFeqHcoQ8WyUrlkxEtrFZHwI9Iq578f8rme3pqCzUhwaBlmdlUha6ne9K6SSarQmvQ3nqmMPgleRtkEcOgbSE6rFnyGXh8ItALq9iLdKwjiCgEkD/oTeqD9Cdwo1FotFLPJEfbbtIY29a56417/MQwob3uDX5y3Hy0qMc35FRQqWJ3IszylA04K0MW3FrU7sKEPSn0ETDZDIrrzAHSNdJLrh0y/oTuCQ2mvwK164VPa6Xqvux6VXDLl6qkKxGb2G8wihwxmXtKNRkdxTidHZKS0AQbfAj80OcgH3gTrhLgMDDRe6rC2NdeyDO6Nc4pmmH4XKUn/7i/suO6C2UW4YzVujMuHWwCI2AD6uvrcsjDcL7pDwetZk9r/xgB"
+      },
+      {
+        "type": "text",
+        "text": "{\"document\":{\"company_name_as_printed\":\"TRAVELODGE HOTELS LIMITED\",\"period_end\":\"2024-12-31\",\"currency\":\"GBP\",\"basis\":\"company\"},\"lines\":[{\"key\":\"turnover\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Revenue\",\"figure_text\":\"1,008.0\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"pdf_page_index\":1,\"printed_page_number\":\"27\",\"statement\":\"INCOME STATEMENT\",\"period_end\":\"2024-12-31\",\"note_reference\":\"4\"},{\"key\":\"operating_profit\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Operating Profit\",\"figure_text\":\"257.7\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"pdf_page_index\":1,\"printed_page_number\":\"27\",\"statement\":\"INCOME STATEMENT\",\"period_end\":\"2024-12-31\",\"note_reference\":\"\"},{\"key\":\"depreciation_amortisation\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Depreciation & amortisation\",\"figure_text\":\"(174.4)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"pdf_page_index\":1,\"printed_page_number\":\"27\",\"statement\":\"INCOME STATEMENT\",\"period_end\":\"2024-12-31\",\"note_reference\":\"\"},{\"key\":\"interest_payable\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Finance costs\",\"figure_text\":\"(221.1)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"pdf_page_index\":1,\"printed_page_number\":\"27\",\"statement\":\"INCOME STATEMENT\",\"period_end\":\"2024-12-31\",\"note_reference\":\"9\"},{\"key\":\"profit_before_tax\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Profit before Tax\",\"figure_text\":\"96.9\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"pdf_page_index\":1,\"printed_page_number\":\"27\",\"statement\":\"INCOME STATEMENT\",\"period_end\":\"2024-12-31\",\"note_reference\":\"\"},{\"key\":\"cash_at_bank\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Cash and cash equivalents\",\"figure_text\":\"221.5\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"pdf_page_index\":2,\"printed_page_number\":\"30\",\"statement\":\"BALANCE SHEET\",\"period_end\":\"2024-12-31\",\"note_reference\":\"18\"},{\"key\":\"borrowings_within_one_year\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"borrowings_after_one_year\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"lease_liabilities_total\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total\",\"figure_text\":\"(2,668.3)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"pdf_page_index\":3,\"printed_page_number\":\"54\",\"statement\":\"21 LEASE LIABILITIES\",\"period_end\":\"2024-12-31\",\"note_reference\":\"21\"},{\"key\":\"lease_liabilities_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Amounts falling due within one year\",\"figure_text\":\"(89.7)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"pdf_page_index\":3,\"printed_page_number\":\"54\",\"statement\":\"21 LEASE LIABILITIES\",\"period_end\":\"2024-12-31\",\"note_reference\":\"21\"},{\"key\":\"lease_liabilities_non_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Amounts falling after one year\",\"figure_text\":\"(2,578.6)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"pdf_page_index\":3,\"printed_page_number\":\"54\",\"statement\":\"21 LEASE LIABILITIES\",\"period_end\":\"2024-12-31\",\"note_reference\":\"21\"},{\"key\":\"preference_shares\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"shareholder_loans\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"net_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"NET ASSETS\",\"figure_text\":\"372.1\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"pdf_page_index\":2,\"printed_page_number\":\"30\",\"statement\":\"BALANCE SHEET\",\"period_end\":\"2024-12-31\",\"note_reference\":\"\"},{\"key\":\"total_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"TOTAL ASSETS\",\"figure_text\":\"3,269.1\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"pdf_page_index\":2,\"printed_page_number\":\"30\",\"statement\":\"BALANCE SHEET\",\"period_end\":\"2024-12-31\",\"note_reference\":\"\"},{\"key\":\"current_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"CURRENT LIABILITIES\",\"figure_text\":\"(316.5)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"pdf_page_index\":2,\"printed_page_number\":\"30\",\"statement\":\"BALANCE SHEET\",\"period_end\":\"2024-12-31\",\"note_reference\":\"\"},{\"key\":\"net_current_liabilities\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"}],\"debt_note\":{\"status\":\"abstain\",\"abstain_reason\":\"no-borrowings-note-in-excerpt; only lease liabilities are presented\",\"scale_caption\":\"\",\"pdf_page_indexes\":[],\"facilities\":[],\"maturity_buckets\":[]}}"
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8837,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 2536,
+      "output_tokens_details": {
+        "thinking_tokens": 360
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "diagnostics": null
+  }
+}

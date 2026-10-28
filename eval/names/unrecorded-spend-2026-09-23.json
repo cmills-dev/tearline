@@ -1,0 +1,3 @@
+[
+  { "n": 4, "gbp": 0.3066, "note": "EG Group, first attempt, killed mid-run when agentctl paused the session at 13:10. The model calls were made and billed; no result line was written. Summed from the llm.usage lines in the run log." }
+]

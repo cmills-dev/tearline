@@ -1,0 +1,74 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2026-01-01",
+   "period_end_on": "2026-01-01",
+   "period_start_on": "2025-01-03",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2026-01-02"
+  },
+  "next_due": "2027-09-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "PRET A MANGER (EUROPE) LIMITED",
+ "company_number": "01854213",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-01-05",
+  "next_due": "2027-01-19",
+  "next_made_up_to": "2027-01-05",
+  "overdue": false
+ },
+ "date_of_creation": "1984-10-10",
+ "etag": "bbcaef23efe00f23589b8241bdae68dd1e6fc372",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-01-21",
+ "links": {
+  "persons_with_significant_control": "/company/01854213/persons-with-significant-control",
+  "self": "/company/01854213",
+  "charges": "/company/01854213/charges",
+  "filing_history": "/company/01854213/filing-history",
+  "officers": "/company/01854213/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "1993-08-02",
+   "effective_from": "1985-08-12",
+   "name": "M.B.S. (EUROPE) LIMITED"
+  },
+  {
+   "ceased_on": "1985-08-12",
+   "effective_from": "1984-10-10",
+   "name": "METYMART LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "75b Verde",
+  "address_line_2": "10 Bressenden Place",
+  "country": "England",
+  "locality": "London",
+  "postal_code": "SW1E 5DH"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "47110",
+  "47290"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

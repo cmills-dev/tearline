@@ -1,0 +1,66 @@
+{
+ "note": "Recorded Anthropic Messages API response for the debt-note facility read (WP-BE16) of a frozen UK gold scan. The first read it rests on is test/fixtures/vision/verify/03558065-first.json. No PDF bytes. Replayed offline by test/capitalStructure.test.ts.",
+ "companyNumber": "03558065",
+ "readerModel": "claude-opus-5",
+ "recordedAt": "2026-09-27T22:29:31.676Z",
+ "seconds": {
+  "facilityRead": 6.161
+ },
+ "gbp": 0.3653,
+ "pagesSent": [
+  57,
+  59,
+  61,
+  90,
+  91,
+  92,
+  96,
+  97,
+  98
+ ],
+ "calls": [
+  {
+   "stage": "facility-read",
+   "model": "claude-opus-5",
+   "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUjU5ZhdkuHpjtyxfsuL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "CAISswgKtAIIEhgCKkDAqKsRAdiwloCanVCXRlBgMn2bgwLtYo3ZBCFq3BIJCrHdQVypMq50ewjmGXoTsm2V9Fw6DlWLtgMrv/zbODSmMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRlMDhmMzYwMy1hMmViLTQ5ZGItODZlMi01ZDNiYTRmMGM3NWSoAYux5tUGwgFACAYQABoSATgoAtqKA083CI3rBT/RBCatIAIyBBJxzyU6BAI5je1CBDgzI4pKBDgzI4pQAFoE2QXhVmACaAFwAdoBYAoWcHJlZml4X2JlZm9yZV9ibG9ja192MRIg64D7Qq7I5sa4kyzxSp5OTmwgfeItGBKSBrioeMkOX4YiADIgwsATyGqckuIvlm89hhd2j4t6RMkCrcwJe/oeCYr7Th9IAxIM0Llj6qFvnRpComVQGgzOanUvqe+jYTdXkj0iMAPws42zy5LzUhISI9XFjPcIcVyS13T1QOi9DkruabqxjJF+4dYlxL483brbmgTIwyqrBepOCZ2PE4f7vA8XgrDOECcMvB/uXtm3kYMo9pHIgtMMzlqthP5zdMJS7zOwPlypq2c94JpNnT4MQIzh6lAlUnlCDuSx3TuGJ8ZOuZNz6lpuNbfPmvPLR5k/uX+4owqWQD7sOLTf3nfpDLlp0hsKwFQfrI1sr5+8CwqsdoSdp7mwRVJsgEZbAWxMKBSqeqsuBBwzvVSxz8lsPYix9DF0/f+F3ogSz1i9nXsfQ6s7AHgHww0/YwsPOuO17c3PIgDyygWqZWFMfxtQxtbHlb04Vuo0iNHsa/E9/Hd3b98raDHfWzDrZ8DWW5IYEcyZBbzn3hk9FkUK1rTr0o20Uv+3rmnpxy1rJhxOPyEWf6FfEh/d3SKx9kGabsuxxvOpGBJGimDDIVIup9g5+2k8kaZ/oyQ4I6ERuNs0ygo03yFFk+ZiLrwg49y+uq7waUR0R/PLNfs5l9J1JEb0Pit9JvQdLxKftSVyhTXgxzKut9MwY7gTRNDrmPmEY6U3Ah/LqKPqLrInPEzoT7oSeliqGQ4B0f7jOEXR33LLUZ2NLWX5vGG+Rvl+BGkkP78xa1iV4s97QymSI6lbh8d7q1CuGPswpgEzX/mNq2Sm3eP5C71AR4Hd2v+HEYIQSA1qRAWoZ3ohbBpDdRFMzto8YN+fX6LVvYbNM9noUvrv/My15t5lBAP9K7+oaZtu2QnRXK8mEzHLzgfwa1KPXctzMm5S39/jC2twM/i5+Ee9Mrv5wRc5LMwzPLkSSKT8Eu6r/n5ttSlKrHF2Asr7RViRlddr0xDrvJwwZI07FcnST8YyYRfKcKShV1V6wTvgUjtcnp6Pu8TP5xbyHCVbYXuUZ0JYcRNXa3x5bwvEn9Asi7Q/LAjGliNuEWM+rf+nImuPe0nOM1fWwnBhnVK6sfwrzUbVGAE="
+     },
+     {
+      "type": "text",
+      "text": "{\"note\":{\"status\":\"found\",\"abstain_reason\":\"\",\"heading\":\"21.    BORROWINGS\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"basis\":\"consolidated\",\"basis_text\":\"GROUP\"},\"facilities\":[{\"name_as_printed\":\"Bond notes\",\"type\":\"notes_or_bonds\",\"lender\":\"\",\"amount_drawn_text\":\"390.0\",\"drawn_column_heading\":\"26 July 2025 £m\",\"drawn_period_end\":\"2025-07-26\",\"facility_size_text\":\"£390.0m\",\"maturity\":\"due November 2029\",\"rate_or_margin\":\"9.375% per annum\",\"security\":\"senior secured bond\",\"ranking_text\":\"\",\"excerpt_page\":2},{\"name_as_printed\":\"Revolving Credit Facility (RCF)\",\"type\":\"revolving_credit_facility\",\"lender\":\"\",\"amount_drawn_text\":\"undrawn\",\"drawn_column_heading\":\"\",\"drawn_period_end\":\"2025-07-26\",\"facility_size_text\":\"£80.0m\",\"maturity\":\"maturing in November 2029\",\"rate_or_margin\":\"\",\"security\":\"super senior secured\",\"ranking_text\":\"\",\"excerpt_page\":2}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 5276,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 655,
+     "output_tokens_details": {
+      "thinking_tokens": 267
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   },
+   "status": 200
+  }
+ ],
+ "pagesNote": "pagesSent and gbp are from the gold recording (WP-BE14-LIVE-2). seconds and usage are from the WP-BE18 recording: the gold recording does not time its calls."
+}

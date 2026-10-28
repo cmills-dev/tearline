@@ -1,0 +1,68 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "01"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-01-31",
+   "period_end_on": "2025-01-31",
+   "period_start_on": "2024-02-01",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2026-10-31",
+   "overdue": false,
+   "period_end_on": "2026-01-31",
+   "period_start_on": "2025-02-01"
+  },
+  "next_due": "2026-10-31",
+  "next_made_up_to": "2026-01-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "IRWIN MITCHELL NOMINEES NUMBER TWO LIMITED",
+ "company_number": "06468073",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-01-09",
+  "next_due": "2027-01-23",
+  "next_made_up_to": "2027-01-09",
+  "overdue": false
+ },
+ "date_of_creation": "2008-01-09",
+ "etag": "cd675f89fdb7149449b61c445575d371e805be72",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-01-09",
+ "links": {
+  "persons_with_significant_control": "/company/06468073/persons-with-significant-control",
+  "self": "/company/06468073",
+  "filing_history": "/company/06468073/filing-history",
+  "officers": "/company/06468073/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2008-01-28",
+   "effective_from": "2008-01-09",
+   "name": "IMCO (242007) LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Riverside East",
+  "address_line_2": "2 Millsands",
+  "care_of": "C/O IRWIN MITCHELL LLP",
+  "country": "England",
+  "locality": "Sheffield",
+  "postal_code": "S3 8DT"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "99999"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

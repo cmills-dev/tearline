@@ -1,0 +1,70 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-12-31",
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2025-01-01",
+   "type": "group"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2026-01-01"
+  },
+  "next_due": "2027-09-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "THE MISCO GROUP LIMITED",
+ "company_number": "11962051",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-04-22",
+  "next_due": "2027-05-06",
+  "next_made_up_to": "2027-04-22",
+  "overdue": false
+ },
+ "date_of_creation": "2019-04-25",
+ "etag": "65b9edb477fd4b4973520148ebdeb9d06c2f5a43",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/11962051/persons-with-significant-control",
+  "self": "/company/11962051",
+  "filing_history": "/company/11962051/filing-history",
+  "officers": "/company/11962051/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2025-06-10",
+   "effective_from": "2020-10-13",
+   "name": "COMET GROUP LIMITED"
+  },
+  {
+   "ceased_on": "2020-10-13",
+   "effective_from": "2019-04-25",
+   "name": "MISCO TECHNOLOGIES UK LTD"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Suite 3, Sapphire House",
+  "address_line_2": "Crown Way",
+  "country": "England",
+  "locality": "Rushden",
+  "postal_code": "NN10 6FB"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "62020"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

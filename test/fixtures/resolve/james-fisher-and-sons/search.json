@@ -1,0 +1,286 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1926-02-02",
+   "company_type": "plc",
+   "company_number": "00211475",
+   "address": {
+    "address_line_1": "Michaelson Road",
+    "country": "United Kingdom",
+    "locality": "Barrow-In-Furness",
+    "postal_code": "LA14 1HR",
+    "premises": "Fisher House",
+    "region": "Cumbria"
+   },
+   "title": "JAMES FISHER AND SONS PUBLIC LIMITED COMPANY",
+   "address_snippet": "Fisher House, Michaelson Road, Barrow-In-Furness, Cumbria, United Kingdom, LA14 1HR",
+   "description": "00211475 - Incorporated on 2 February 1926",
+   "links": {
+    "self": "/company/00211475"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "1967-05-08",
+   "date_of_cessation": "2019-02-05",
+   "company_type": "ltd",
+   "company_number": "00905563",
+   "address": {
+    "address_line_1": "PO BOX 4 Barrow In Furness",
+    "locality": "Cumbria",
+    "postal_code": "LA14 1HR",
+    "premises": "Fisher House"
+   },
+   "title": "JAMES FISHER AND SONS (SEAFLOOR DYNAMEX) LIMITED",
+   "address_snippet": "Fisher House, PO BOX 4 Barrow In Furness, Cumbria, LA14 1HR",
+   "description": "00905563 - Dissolved on 5 February 2019",
+   "links": {
+    "self": "/company/00905563"
+   },
+   "snippet": "FISHER AND DUFOREST (SHIPPING)",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1941-03-26",
+   "company_type": "ltd",
+   "company_number": "00366100",
+   "address": {
+    "address_line_1": "Michaelson Road",
+    "country": "United Kingdom",
+    "locality": "Barrow-In-Furness",
+    "postal_code": "LA14 1HR",
+    "premises": "Fisher House",
+    "region": "Cumbria"
+   },
+   "title": "JAMES FISHER (SHIPPING SERVICES) LIMITED",
+   "address_snippet": "Fisher House, Michaelson Road, Barrow-In-Furness, Cumbria, United Kingdom, LA14 1HR",
+   "description": "00366100 - Incorporated on 26 March 1941",
+   "links": {
+    "self": "/company/00366100"
+   },
+   "snippet": "JAMES FISHER AND SONS (LIVERPOOL) LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2025-04-02",
+   "company_type": "ltd",
+   "company_number": "16359712",
+   "address": {
+    "address_line_1": "Minster On Sea",
+    "country": "England",
+    "locality": "Sheerness",
+    "postal_code": "ME12 4JF",
+    "premises": "Plough Leisure Plough Road",
+    "region": "Kent"
+   },
+   "title": "ANDREW JAMES & SONS LTD",
+   "address_snippet": "Plough Leisure Plough Road, Minster On Sea, Sheerness, Kent, England, ME12 4JF",
+   "description": "16359712 - Incorporated on 2 April 2025",
+   "links": {
+    "self": "/company/16359712"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2025-06-26",
+   "company_type": "ltd",
+   "company_number": "16543270",
+   "address": {
+    "address_line_1": "Maidstone Road",
+    "country": "England",
+    "locality": "Sidcup",
+    "postal_code": "DA14 5AP",
+    "premises": "Wayside"
+   },
+   "title": "ANDY JAMES & SONS LTD",
+   "address_snippet": "Wayside, Maidstone Road, Sidcup, England, DA14 5AP",
+   "description": "16543270 - Incorporated on 26 June 2025",
+   "links": {
+    "self": "/company/16543270"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1989-07-19",
+   "company_type": "ltd",
+   "company_number": "02405879",
+   "address": {
+    "address_line_1": "Upper Berkeley Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1H 5PW",
+    "premises": "42"
+   },
+   "title": "DAVID JAMES AND SONS LIMITED",
+   "address_snippet": "42 Upper Berkeley Street, London, England, W1H 5PW",
+   "description": "02405879 - Incorporated on 19 July 1989",
+   "links": {
+    "self": "/company/02405879"
+   },
+   "snippet": "DAVID JAMES & SONS LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2023-03-25",
+   "date_of_cessation": "2025-12-23",
+   "company_type": "ltd",
+   "company_number": "14758617",
+   "address": {
+    "address_line_1": "Twisleton Court",
+    "address_line_2": "Priory Hill",
+    "country": "United Kingdom",
+    "locality": "Dartford",
+    "postal_code": "DA1 2EN",
+    "premises": "8",
+    "region": "Kent"
+   },
+   "title": "JAMES AND SONS BUILDERS AND DECORATORS LTD",
+   "address_snippet": "8 Twisleton Court, Priory Hill, Dartford, Kent, United Kingdom, DA1 2EN",
+   "description": "14758617 - Dissolved on 23 December 2025",
+   "links": {
+    "self": "/company/14758617"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2009-12-03",
+   "company_type": "ltd",
+   "company_number": "07094722",
+   "address": {
+    "address_line_1": "Hatherley Road",
+    "locality": "Sidcup",
+    "postal_code": "DA14 4DT",
+    "premises": "12",
+    "region": "Kent"
+   },
+   "title": "JAMES & SONS PLUMBING AND HEATING LIMITED",
+   "address_snippet": "12 Hatherley Road, Sidcup, Kent, DA14 4DT",
+   "description": "07094722 - Incorporated on 3 December 2009",
+   "links": {
+    "self": "/company/07094722"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2026-08-25",
+   "company_type": "ltd",
+   "company_number": "17418798",
+   "address": {
+    "address_line_1": "61 - 65 Paulet Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SE5 9HW",
+    "premises": "Office A, Arch 1, Block F, Chartwell Business Park"
+   },
+   "title": "JAMES AND SONS PROPERTIES LIMITED",
+   "address_snippet": "Office A, Arch 1, Block F, Chartwell Business Park, 61 - 65 Paulet Road, London, England, SE5 9HW",
+   "description": "17418798 - Incorporated on 25 August 2026",
+   "links": {
+    "self": "/company/17418798"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2024-02-29",
+   "company_type": "ltd",
+   "company_number": "15531491",
+   "address": {
+    "address_line_1": "Bonnygate",
+    "country": "United Kingdom",
+    "locality": "Basildon",
+    "postal_code": "SS14 2QN",
+    "premises": "43",
+    "region": "Essex"
+   },
+   "title": "JAMES AND SONS PROPERTY LTD",
+   "address_snippet": "43 Bonnygate, Basildon, Essex, United Kingdom, SS14 2QN",
+   "description": "15531491 - Incorporated on 29 February 2024",
+   "links": {
+    "self": "/company/15531491"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 10000,
+ "start_index": 0
+}

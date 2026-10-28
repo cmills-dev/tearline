@@ -1,0 +1,182 @@
+{
+ "meta": {
+  "goldenCopy": {
+   "publishDate": "2026-09-15T08:00:00Z"
+  },
+  "pagination": {
+   "currentPage": 1,
+   "perPage": 15,
+   "from": 1,
+   "to": 1,
+   "total": 1,
+   "lastPage": 1
+  }
+ },
+ "links": {
+  "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.registeredAs%5D=SC002934&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=15",
+  "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.registeredAs%5D=SC002934&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=15"
+ },
+ "data": [
+  {
+   "type": "lei-records",
+   "id": "549300KDR56WHY9I3D10",
+   "attributes": {
+    "lei": "549300KDR56WHY9I3D10",
+    "entity": {
+     "legalName": {
+      "name": "WEIR PLC",
+      "language": "en"
+     },
+     "otherNames": [
+      {
+       "name": "WEIR GROUP PLC(THE)",
+       "language": "en",
+       "type": "PREVIOUS_LEGAL_NAME"
+      }
+     ],
+     "transliteratedOtherNames": [],
+     "legalAddress": {
+      "language": "en",
+      "addressLines": [
+       "1 WEST REGENT STREET"
+      ],
+      "addressNumber": null,
+      "addressNumberWithinBuilding": null,
+      "mailRouting": null,
+      "city": "GLASGOW",
+      "region": "GB-GLG",
+      "country": "GB",
+      "postalCode": "G2 1RW"
+     },
+     "headquartersAddress": {
+      "language": "en",
+      "addressLines": [
+       "1 WEST REGENT STREET"
+      ],
+      "addressNumber": null,
+      "addressNumberWithinBuilding": null,
+      "mailRouting": null,
+      "city": "GLASGOW",
+      "region": "GB-GLG",
+      "country": "GB",
+      "postalCode": "G2 1RW"
+     },
+     "registeredAt": {
+      "id": "RA000587",
+      "other": null
+     },
+     "registeredAs": "SC002934",
+     "jurisdiction": "GB",
+     "category": "GENERAL",
+     "legalForm": {
+      "id": "B6ES",
+      "other": null
+     },
+     "associatedEntity": {
+      "lei": null,
+      "name": null
+     },
+     "status": "ACTIVE",
+     "expiration": {
+      "date": null,
+      "reason": null
+     },
+     "successorEntity": {
+      "lei": null,
+      "name": null
+     },
+     "successorEntities": [],
+     "creationDate": "1895-06-14T00:00:00Z",
+     "subCategory": null,
+     "otherAddresses": [],
+     "eventGroups": [
+      {
+       "groupType": "STANDALONE",
+       "events": [
+        {
+         "validationDocuments": "ACCOUNTS_FILING",
+         "effectiveDate": "2026-08-12T00:00:00Z",
+         "recordedDate": "2026-08-13T12:39:48Z",
+         "type": "CHANGE_LEGAL_NAME",
+         "status": "COMPLETED"
+        }
+       ]
+      }
+     ]
+    },
+    "registration": {
+     "initialRegistrationDate": "2013-08-23T14:54:00Z",
+     "lastUpdateDate": "2026-08-13T12:40:15Z",
+     "status": "ISSUED",
+     "nextRenewalDate": "2027-01-10T00:00:00Z",
+     "managingLou": "213800WAVVOPS85N2205",
+     "corroborationLevel": "FULLY_CORROBORATED",
+     "validatedAt": {
+      "id": "RA000587",
+      "other": null
+     },
+     "validatedAs": "SC002934",
+     "otherValidationAuthorities": []
+    },
+    "bic": [
+     "WEIRGB3LXXX"
+    ],
+    "mic": null,
+    "ocid": "gb/SC002934",
+    "qcc": "QGBPMAC7K1",
+    "gem": null,
+    "spglobal": [
+     "874522"
+    ],
+    "conformityFlag": "CONFORMING"
+   },
+   "relationships": {
+    "managing-lou": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300KDR56WHY9I3D10/managing-lou"
+     }
+    },
+    "lei-issuer": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300KDR56WHY9I3D10/lei-issuer"
+     }
+    },
+    "field-modifications": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300KDR56WHY9I3D10/field-modifications"
+     }
+    },
+    "direct-parent": {
+     "links": {
+      "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300KDR56WHY9I3D10/direct-parent-reporting-exception"
+     }
+    },
+    "ultimate-parent": {
+     "links": {
+      "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300KDR56WHY9I3D10/ultimate-parent-reporting-exception"
+     }
+    },
+    "direct-children": {
+     "links": {
+      "relationship-records": "https://api.gleif.org/api/v1/lei-records/549300KDR56WHY9I3D10/direct-child-relationships",
+      "related": "https://api.gleif.org/api/v1/lei-records/549300KDR56WHY9I3D10/direct-children"
+     }
+    },
+    "ultimate-children": {
+     "links": {
+      "relationship-records": "https://api.gleif.org/api/v1/lei-records/549300KDR56WHY9I3D10/ultimate-child-relationships",
+      "related": "https://api.gleif.org/api/v1/lei-records/549300KDR56WHY9I3D10/ultimate-children"
+     }
+    },
+    "isins": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300KDR56WHY9I3D10/isins"
+     }
+    }
+   },
+   "links": {
+    "self": "https://api.gleif.org/api/v1/lei-records/549300KDR56WHY9I3D10"
+   }
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+  "intro": "The 27 Sep run read no scan, so these are the engine's figures from the 23 Sep run with the model on (results-2026-09-23.jsonl). None of the five company numbers is in eval/gold/uk.ts. Open the filing, go to the PDF page (printed page in brackets), find the caption, and tick if the printed figure and its unit match what the engine says.",
+  "items": [
+    {
+      "company": "River Island Holdings 09337472",
+      "filing": "AA to 27 Dec 2025",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/09337472/filing-history/MzUyNjIzODA3NGFkaXF6a2N4/document?format=pdf&download=0",
+      "pdfPage": 29,
+      "printedPage": 26,
+      "caption": "Turnover, consolidated P&L",
+      "engine": "GBP 662,300,000",
+      "printed": "662.3 £million",
+      "source": "23 Sep run, model on"
+    },
+    {
+      "company": "River Island Holdings 09337472",
+      "filing": "AA to 27 Dec 2025",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/09337472/filing-history/MzUyNjIzODA3NGFkaXF6a2N4/document?format=pdf&download=0",
+      "pdfPage": 31,
+      "printedPage": 28,
+      "caption": "Net assets, consolidated balance sheet",
+      "engine": "GBP 70,500,000",
+      "printed": "70.5 £million",
+      "source": "23 Sep run, model on"
+    },
+    {
+      "company": "Southern Water Services 02366670",
+      "filing": "AA to 31 Mar 2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/02366670/filing-history/MzU0MzA3NTkwMmFkaXF6a2N4/document?format=pdf&download=0",
+      "pdfPage": 192,
+      "printedPage": 191,
+      "caption": "Revenue, income statement",
+      "engine": "GBP 1,443,200,000",
+      "printed": "1,443.2 £m",
+      "source": "23 Sep run, model on"
+    },
+    {
+      "company": "Southern Water Services 02366670",
+      "filing": "AA to 31 Mar 2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/02366670/filing-history/MzU0MzA3NTkwMmFkaXF6a2N4/document?format=pdf&download=0",
+      "pdfPage": 193,
+      "printedPage": 192,
+      "caption": "Borrowings due after one year, statement of financial position",
+      "engine": "GBP 6,678,800,000",
+      "printed": "(6,678.8) £m",
+      "source": "23 Sep run, model on"
+    },
+    {
+      "company": "Hotel Chocolat Group 08612206",
+      "filing": "AA to 27 Dec 2025",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/08612206/filing-history/MzU0MDU4ODgzN2FkaXF6a2N4/document?format=pdf&download=0",
+      "pdfPage": 17,
+      "printedPage": 14,
+      "caption": "Revenue, consolidated statement of comprehensive income",
+      "engine": "GBP 225,245,000",
+      "printed": "225,245 £000",
+      "source": "23 Sep run, model on"
+    },
+    {
+      "company": "Hotel Chocolat Group 08612206",
+      "filing": "AA to 27 Dec 2025",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/08612206/filing-history/MzU0MDU4ODgzN2FkaXF6a2N4/document?format=pdf&download=0",
+      "pdfPage": 18,
+      "printedPage": 15,
+      "caption": "Cash and cash equivalents, consolidated statement of financial position",
+      "engine": "GBP 21,759,000",
+      "printed": "21,759 £000",
+      "source": "23 Sep run, model on"
+    },
+    {
+      "company": "Grain Topco 13572366 (group figures for Bread Holdings)",
+      "filing": "AA to 28 Feb 2025",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/13572366/filing-history/MzQ5MTMzNjUyOWFkaXF6a2N4/document?format=pdf&download=0",
+      "pdfPage": 18,
+      "printedPage": 16,
+      "caption": "Revenue, consolidated income statement",
+      "engine": "GBP 278,045,000",
+      "printed": "278,045 £000",
+      "source": "23 Sep run, model on"
+    },
+    {
+      "company": "Grain Topco 13572366 (group figures for Bread Holdings)",
+      "filing": "AA to 28 Feb 2025",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/13572366/filing-history/MzQ5MTMzNjUyOWFkaXF6a2N4/document?format=pdf&download=0",
+      "pdfPage": 20,
+      "printedPage": 18,
+      "caption": "Net liabilities, consolidated balance sheet",
+      "engine": "GBP -32,875,000",
+      "printed": "(32,875) £000",
+      "source": "23 Sep run, model on"
+    },
+    {
+      "company": "Selfridges Retail 00097117",
+      "filing": "AA to 4 Jan 2025",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/00097117/filing-history/MzQ4MjkxMjkwNmFkaXF6a2N4/document?format=pdf&download=0",
+      "pdfPage": 28,
+      "printedPage": 28,
+      "caption": "Revenue, statement of comprehensive income",
+      "engine": "GBP 774,600,000",
+      "printed": "774.6 £m",
+      "source": "23 Sep run, model on"
+    },
+    {
+      "company": "Selfridges Retail 00097117",
+      "filing": "AA to 4 Jan 2025",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/00097117/filing-history/MzQ4MjkxMjkwNmFkaXF6a2N4/document?format=pdf&download=0",
+      "pdfPage": 29,
+      "printedPage": 29,
+      "caption": "Cash and cash equivalents, balance sheet",
+      "engine": "GBP 143,400,000",
+      "printed": "143.4 £m",
+      "source": "23 Sep run, model on"
+    }
+  ],
+  "traps": [
+    "Southern Water: check the figure sits in the 2026 column, not 2025.",
+    "Grain Topco: check the figure is the group's, not the parent company's own balance sheet."
+  ]
+}

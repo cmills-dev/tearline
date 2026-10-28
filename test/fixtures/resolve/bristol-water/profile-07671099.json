@@ -1,0 +1,58 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "03"
+  },
+  "last_accounts": {
+   "made_up_to": "2021-03-31",
+   "period_end_on": "2021-03-31",
+   "type": "group"
+  }
+ },
+ "can_file": false,
+ "company_name": "BRISTOL WATER GROUP LIMITED",
+ "company_number": "07671099",
+ "company_status": "dissolved",
+ "status": "active",
+ "date_of_cessation": "2023-03-17",
+ "date_of_creation": "2011-06-15",
+ "etag": "310903002542fa0e55217d33d9c65d96934600e7",
+ "has_been_liquidated": false,
+ "has_charges": true,
+ "has_insolvency_history": true,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-06-15",
+ "links": {
+  "persons_with_significant_control": "/company/07671099/persons-with-significant-control",
+  "self": "/company/07671099",
+  "charges": "/company/07671099/charges",
+  "filing_history": "/company/07671099/filing-history",
+  "insolvency": "/company/07671099/insolvency",
+  "officers": "/company/07671099/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2018-07-05",
+   "effective_from": "2011-09-29",
+   "name": "CSE WATER UK LIMITED"
+  },
+  {
+   "ceased_on": "2011-09-29",
+   "effective_from": "2011-06-15",
+   "name": "ALNERY NO. 2979 LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "1 More London Place",
+  "locality": "London",
+  "postal_code": "SE1 2AF"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "64209"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

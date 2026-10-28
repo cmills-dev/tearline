@@ -1,0 +1,66 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "29",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-12-28",
+   "period_end_on": "2025-12-28",
+   "period_start_on": "2024-12-30",
+   "type": "audit-exemption-subsidiary"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-29",
+   "overdue": false,
+   "period_end_on": "2026-12-29",
+   "period_start_on": "2025-12-29"
+  },
+  "next_due": "2027-09-29",
+  "next_made_up_to": "2026-12-29",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "WAGAMAMA INTERNATIONAL (FRANCHISING) LIMITED",
+ "company_number": "03881186",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-11-14",
+  "next_due": "2026-11-28",
+  "next_made_up_to": "2026-11-14",
+  "overdue": false
+ },
+ "date_of_creation": "1999-11-22",
+ "etag": "101e21f47a55b7c07ee8dfb78a9b9ea2b33230af",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-11-14",
+ "links": {
+  "persons_with_significant_control": "/company/03881186/persons-with-significant-control",
+  "self": "/company/03881186",
+  "filing_history": "/company/03881186/filing-history",
+  "officers": "/company/03881186/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2000-01-20",
+   "effective_from": "1999-11-22",
+   "name": "DE FACTO 810 LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "5-7 Marshalsea Road",
+  "country": "England",
+  "locality": "London",
+  "postal_code": "SE1 1EP"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "77400"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

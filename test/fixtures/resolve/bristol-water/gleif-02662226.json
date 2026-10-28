@@ -1,0 +1,278 @@
+{
+ "meta": {
+  "goldenCopy": {
+   "publishDate": "2026-09-15T08:00:00Z"
+  },
+  "pagination": {
+   "currentPage": 1,
+   "perPage": 15,
+   "from": 1,
+   "to": 2,
+   "total": 2,
+   "lastPage": 1
+  }
+ },
+ "links": {
+  "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.registeredAs%5D=02662226&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=15",
+  "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.registeredAs%5D=02662226&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=15"
+ },
+ "data": [
+  {
+   "type": "lei-records",
+   "id": "549300V0DVQGSADLDB82",
+   "attributes": {
+    "lei": "549300V0DVQGSADLDB82",
+    "entity": {
+     "legalName": {
+      "name": "BRISTOL WATER PLC",
+      "language": "en"
+     },
+     "otherNames": [],
+     "transliteratedOtherNames": [],
+     "legalAddress": {
+      "language": "en",
+      "addressLines": [
+       "BRIDGWATER ROAD"
+      ],
+      "addressNumber": null,
+      "addressNumberWithinBuilding": null,
+      "mailRouting": null,
+      "city": "BRISTOL",
+      "region": "GB-ENG",
+      "country": "GB",
+      "postalCode": "BS13 7AT"
+     },
+     "headquartersAddress": {
+      "language": "en",
+      "addressLines": [
+       "BRIDGWATER ROAD"
+      ],
+      "addressNumber": null,
+      "addressNumberWithinBuilding": null,
+      "mailRouting": null,
+      "city": "BRISTOL",
+      "region": "GB-ENG",
+      "country": "GB",
+      "postalCode": "BS13 7AT"
+     },
+     "registeredAt": {
+      "id": "RA000585",
+      "other": null
+     },
+     "registeredAs": "02662226",
+     "jurisdiction": "GB",
+     "category": "GENERAL",
+     "legalForm": {
+      "id": "B6ES",
+      "other": null
+     },
+     "associatedEntity": {
+      "lei": null,
+      "name": null
+     },
+     "status": "NULL",
+     "expiration": {
+      "date": null,
+      "reason": null
+     },
+     "successorEntity": {
+      "lei": "549300G5FDS8FKPXPZ37",
+      "name": null
+     },
+     "successorEntities": [
+      {
+       "lei": "549300G5FDS8FKPXPZ37"
+      }
+     ],
+     "creationDate": null,
+     "subCategory": null,
+     "otherAddresses": [],
+     "eventGroups": []
+    },
+    "registration": {
+     "initialRegistrationDate": "2017-01-26T20:26:00Z",
+     "lastUpdateDate": "2023-08-10T08:36:29Z",
+     "status": "DUPLICATE",
+     "nextRenewalDate": "2018-01-25T11:30:00Z",
+     "managingLou": "213800WAVVOPS85N2205",
+     "corroborationLevel": "FULLY_CORROBORATED",
+     "validatedAt": {
+      "id": "RA000585",
+      "other": null
+     },
+     "validatedAs": "02662226",
+     "otherValidationAuthorities": []
+    },
+    "bic": null,
+    "mic": null,
+    "ocid": null,
+    "qcc": null,
+    "gem": null,
+    "spglobal": null,
+    "conformityFlag": "NOT_APPLICABLE"
+   },
+   "relationships": {
+    "managing-lou": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300V0DVQGSADLDB82/managing-lou"
+     }
+    },
+    "lei-issuer": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300V0DVQGSADLDB82/lei-issuer"
+     }
+    },
+    "field-modifications": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300V0DVQGSADLDB82/field-modifications"
+     }
+    },
+    "successor-entity": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300V0DVQGSADLDB82/successor-entity"
+     }
+    },
+    "successor-entities": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300V0DVQGSADLDB82/successor-entities"
+     }
+    }
+   },
+   "links": {
+    "self": "https://api.gleif.org/api/v1/lei-records/549300V0DVQGSADLDB82"
+   }
+  },
+  {
+   "type": "lei-records",
+   "id": "549300G5FDS8FKPXPZ37",
+   "attributes": {
+    "lei": "549300G5FDS8FKPXPZ37",
+    "entity": {
+     "legalName": {
+      "name": "BRISTOL WATER PLC",
+      "language": "en"
+     },
+     "otherNames": [],
+     "transliteratedOtherNames": [],
+     "legalAddress": {
+      "language": "en",
+      "addressLines": [
+       "C/O BRISTOL WATER PLC",
+       "BRIDGWATER ROAD"
+      ],
+      "addressNumber": null,
+      "addressNumberWithinBuilding": null,
+      "mailRouting": null,
+      "city": "BRISTOL",
+      "region": "GB-BST",
+      "country": "GB",
+      "postalCode": "BS13 7AT"
+     },
+     "headquartersAddress": {
+      "language": "en",
+      "addressLines": [
+       "C/O BRISTOL WATER PLC",
+       "BRIDGWATER ROAD"
+      ],
+      "addressNumber": null,
+      "addressNumberWithinBuilding": null,
+      "mailRouting": null,
+      "city": "BRISTOL",
+      "region": "GB-BST",
+      "country": "GB",
+      "postalCode": "BS13 7AT"
+     },
+     "registeredAt": {
+      "id": "RA000585",
+      "other": null
+     },
+     "registeredAs": "02662226",
+     "jurisdiction": "GB",
+     "category": "GENERAL",
+     "legalForm": {
+      "id": "B6ES",
+      "other": null
+     },
+     "associatedEntity": {
+      "lei": null,
+      "name": null
+     },
+     "status": "ACTIVE",
+     "expiration": {
+      "date": null,
+      "reason": null
+     },
+     "successorEntity": {
+      "lei": null,
+      "name": null
+     },
+     "successorEntities": [],
+     "creationDate": "1991-11-12T00:00:00Z",
+     "subCategory": null,
+     "otherAddresses": [],
+     "eventGroups": []
+    },
+    "registration": {
+     "initialRegistrationDate": "2014-02-05T04:26:00Z",
+     "lastUpdateDate": "2025-11-17T16:48:27Z",
+     "status": "ISSUED",
+     "nextRenewalDate": "2026-11-17T00:00:00Z",
+     "managingLou": "213800WAVVOPS85N2205",
+     "corroborationLevel": "FULLY_CORROBORATED",
+     "validatedAt": {
+      "id": "RA000585",
+      "other": null
+     },
+     "validatedAs": "02662226",
+     "otherValidationAuthorities": []
+    },
+    "bic": null,
+    "mic": null,
+    "ocid": "gb/02662226",
+    "qcc": null,
+    "gem": null,
+    "spglobal": [
+     "9169330"
+    ],
+    "conformityFlag": "CONFORMING"
+   },
+   "relationships": {
+    "managing-lou": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300G5FDS8FKPXPZ37/managing-lou"
+     }
+    },
+    "lei-issuer": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300G5FDS8FKPXPZ37/lei-issuer"
+     }
+    },
+    "field-modifications": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300G5FDS8FKPXPZ37/field-modifications"
+     }
+    },
+    "direct-parent": {
+     "links": {
+      "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300G5FDS8FKPXPZ37/direct-parent-relationship",
+      "lei-record": "https://api.gleif.org/api/v1/lei-records/549300G5FDS8FKPXPZ37/direct-parent"
+     }
+    },
+    "ultimate-parent": {
+     "links": {
+      "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300G5FDS8FKPXPZ37/ultimate-parent-relationship",
+      "lei-record": "https://api.gleif.org/api/v1/lei-records/549300G5FDS8FKPXPZ37/ultimate-parent"
+     }
+    },
+    "isins": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/549300G5FDS8FKPXPZ37/isins"
+     }
+    }
+   },
+   "links": {
+    "self": "https://api.gleif.org/api/v1/lei-records/549300G5FDS8FKPXPZ37"
+   }
+  }
+ ]
+}

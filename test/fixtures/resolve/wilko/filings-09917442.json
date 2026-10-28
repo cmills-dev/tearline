@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "transaction_id": "MzI1MzY3MjkxNmFkaXF6a2N4",
+   "barcode": "X8VUPWAG",
+   "type": "AA",
+   "date": "2020-01-03",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-unaudited-abridged",
+   "description_values": {
+    "made_up_date": "2018-12-31"
+   },
+   "pages": 8,
+   "links": {
+    "self": "/company/09917442/filing-history/MzI1MzY3MjkxNmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/an8lJY69a10IAph6h9qo99OuK68wEuKDBZ76UZbZSFQ"
+   }
+  },
+  {
+   "transaction_id": "MzIxNTcyOTIxN2FkaXF6a2N4",
+   "barcode": "X7FGCUGP",
+   "type": "AA",
+   "date": "2018-09-28",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-unaudited-abridged",
+   "description_values": {
+    "made_up_date": "2017-12-31"
+   },
+   "pages": 8,
+   "links": {
+    "self": "/company/09917442/filing-history/MzIxNTcyOTIxN2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/_Ggr4aHncH0wy_hGlNgF4ZFEJdEoDC725qdIBWKxorE"
+   }
+  },
+  {
+   "transaction_id": "MzE4NTUwNDc4M2FkaXF6a2N4",
+   "barcode": "X6F2AT2G",
+   "type": "AA",
+   "date": "2017-09-16",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-small",
+   "description_values": {
+    "made_up_date": "2016-12-31"
+   },
+   "pages": 6,
+   "action_date": "2016-12-31",
+   "links": {
+    "self": "/company/09917442/filing-history/MzE4NTUwNDc4M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/b_oKw0XveTp8IIYQbzDezqjvYA3fhPD2c5ZVjKRKtd0"
+   }
+  }
+ ]
+}

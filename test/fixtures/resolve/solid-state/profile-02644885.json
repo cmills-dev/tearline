@@ -1,0 +1,59 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "09"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-09-30",
+   "period_end_on": "2025-09-30",
+   "period_start_on": "2024-10-01",
+   "type": "micro-entity"
+  },
+  "next_accounts": {
+   "due_on": "2027-06-30",
+   "overdue": false,
+   "period_end_on": "2026-09-30",
+   "period_start_on": "2025-10-01"
+  },
+  "next_due": "2027-06-30",
+  "next_made_up_to": "2026-09-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "SOLID STATE DESIGN LIMITED",
+ "company_number": "02644885",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-08-31",
+  "next_due": "2026-09-14",
+  "next_made_up_to": "2026-08-31",
+  "overdue": true
+ },
+ "date_of_creation": "1991-09-11",
+ "etag": "5556f26f1fa0fae296f877c8a781f3f83df762cb",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-08-31",
+ "links": {
+  "persons_with_significant_control": "/company/02644885/persons-with-significant-control",
+  "self": "/company/02644885",
+  "filing_history": "/company/02644885/filing-history",
+  "officers": "/company/02644885/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "9 Daglands Road",
+  "country": "England",
+  "locality": "Fowey",
+  "postal_code": "PL23 1JL"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "71111"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

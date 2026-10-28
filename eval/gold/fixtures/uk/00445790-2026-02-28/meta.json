@@ -1,0 +1,26 @@
+{
+  "companyNumber": "00445790",
+  "companyName": "TESCO PLC",
+  "transactionId": "MzUzNDMwNDQ5M2FkaXF6a2N4",
+  "filingType": "AA",
+  "filedOn": "2026-07-25",
+  "madeUpDate": "2026-02-28",
+  "accountsType": "group",
+  "pageCount": 236,
+  "chPages": 236,
+  "file": "filing.pdf",
+  "format": "pdf",
+  "resourcesOffered": [
+    "application/pdf"
+  ],
+  "bytes": 14316485,
+  "sha256": "2fab3ff6025329d65f11dccc2386dc726f265cd536a06066d00b8e1b4d4b4b60",
+  "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/-uIFIZvVQM2_WxuNYmjA10Fv96C0Yuxb-wNWhAqNezY",
+  "filingHistoryUrl": "https://api.company-information.service.gov.uk/company/00445790/filing-history/MzUzNDMwNDQ5M2FkaXF6a2N4",
+  "publicRecordUrl": "https://find-and-update.company-information.service.gov.uk/company/00445790/filing-history",
+  "textLayerChars": 2,
+  "bytesCommitted": true,
+  "kind": "large-group",
+  "notes": "236-page group accounts scan, kept for page-finding (WP-BE15). No figures keyed from it in part 1.",
+  "frozenOn": "2026-09-15"
+}

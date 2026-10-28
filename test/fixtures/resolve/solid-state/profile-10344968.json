@@ -1,0 +1,59 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "08"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-08-31",
+   "period_end_on": "2025-08-31",
+   "period_start_on": "2024-09-01",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2027-05-31",
+   "overdue": false,
+   "period_end_on": "2026-08-31",
+   "period_start_on": "2025-09-01"
+  },
+  "next_due": "2027-05-31",
+  "next_made_up_to": "2026-08-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "SOLID STATE DYNAMICS LIMITED",
+ "company_number": "10344968",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-04-07",
+  "next_due": "2027-04-21",
+  "next_made_up_to": "2027-04-07",
+  "overdue": false
+ },
+ "date_of_creation": "2016-08-24",
+ "etag": "da09216ff217c75faa9ddc3f5fc14a6bafa1cf23",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/10344968/persons-with-significant-control",
+  "self": "/company/10344968",
+  "filing_history": "/company/10344968/filing-history",
+  "officers": "/company/10344968/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "14 Marlston Avenue",
+  "address_line_2": "Irby",
+  "country": "United Kingdom",
+  "locality": "Wirral",
+  "postal_code": "CH61 3XU",
+  "region": "Cheshire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "51220"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

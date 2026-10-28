@@ -1,0 +1,59 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2024-12-29",
+   "period_end_on": "2024-12-29",
+   "period_start_on": "2024-01-01",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2026-12-30",
+   "overdue": false,
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2024-12-30"
+  },
+  "next_due": "2026-12-30",
+  "next_made_up_to": "2025-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "PIZZAEXPRESS NEWCO LIMITED",
+ "company_number": "14662456",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-02-13",
+  "next_due": "2027-02-27",
+  "next_made_up_to": "2027-02-13",
+  "overdue": false
+ },
+ "date_of_creation": "2023-02-14",
+ "etag": "682e2153069087155bbdffb4996ac18334a25c69",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/14662456/persons-with-significant-control",
+  "self": "/company/14662456",
+  "filing_history": "/company/14662456/filing-history",
+  "officers": "/company/14662456/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "Building 01 Arc Uxbridge",
+  "address_line_2": "Sanderson Road",
+  "country": "United Kingdom",
+  "locality": "Uxbridge",
+  "postal_code": "UB8 1DH",
+  "region": "Middlesex"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "74990"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

@@ -1,0 +1,60 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2026-01-01",
+   "period_end_on": "2026-01-01",
+   "period_start_on": "2025-01-03",
+   "type": "audit-exemption-subsidiary"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2026-01-02"
+  },
+  "next_due": "2027-09-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "PRET A MANGER (INTERNATIONAL) LIMITED",
+ "company_number": "14722221",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-03-09",
+  "next_due": "2027-03-23",
+  "next_made_up_to": "2027-03-09",
+  "overdue": false
+ },
+ "date_of_creation": "2023-03-10",
+ "etag": "65e3721b05fb4a60c1e31165468a1854baf2cb47",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/14722221/persons-with-significant-control",
+  "self": "/company/14722221",
+  "charges": "/company/14722221/charges",
+  "filing_history": "/company/14722221/filing-history",
+  "officers": "/company/14722221/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "75b Verde",
+  "address_line_2": "10 Bressenden Place",
+  "country": "United Kingdom",
+  "locality": "London",
+  "postal_code": "SW1E 5DH"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "47110",
+  "47290"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

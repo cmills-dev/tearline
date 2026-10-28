@@ -1,0 +1,69 @@
+{
+  "note": "Recorded Anthropic Messages API response for the second read of a frozen UK gold scan (WP-BE05): only the pages the first read cited were sent. No PDF bytes. Replayed offline.",
+  "kind": "second-read",
+  "companyNumber": "02103564",
+  "transactionId": "MzUzNzUwNjA4OGFkaXF6a2N4",
+  "folder": "02103564-2026-02-28",
+  "firstRead": "test/fixtures/vision/matalan-retail-02103564.json",
+  "pagesSent": [
+    40,
+    42,
+    83
+  ],
+  "keysAsked": [
+    "turnover",
+    "operating_profit",
+    "depreciation_amortisation",
+    "interest_payable",
+    "profit_before_tax",
+    "cash_at_bank",
+    "lease_liabilities",
+    "shareholder_loans",
+    "net_assets",
+    "total_assets",
+    "current_liabilities"
+  ],
+  "subsetBytes": 74576,
+  "schemaVersion": 4,
+  "promptVersion": "v4",
+  "recordedAt": "2026-09-27T22:52:25.971Z",
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUmDSh1VEHdxpqdnMUnq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "",
+        "signature": "CAISkwsKtAIIEhgCKkAiQ0tVx3Y4FSxDVpJJepN3pNvjm/7jd3SY/Ko63yNFibNavYqIDP2G4p4Ah/Dhza/dGv3vJfmMCHO9tmSlQRM3Mg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRlMDhmMzYwMy1hMmViLTQ5ZGItODZlMi01ZDNiYTRmMGM3NWSoAeq75tUGwgFACAYQABoSAb0nAtqKA083CO0JBc9BBCatIAIyBBJxzyU6BB2rYspCBDgzI4pKBDgzI4pQAFoE2QXhVmACaAFwAdoBYAoWcHJlZml4X2JlZm9yZV9ibG9ja192MRIgdiCMWVCplAz+8qPNfYnSDBjdXRjN2ssfZNVdO+RFsFciADIgwsATyGqckuIvlm89hhd2j4t6RMkCrcwJe/oeCYr7Th9IAxIMXHNFBan/ylspVKxCGgwk2uN6n/luIol7SbwiMGzd70oBqY3j5mpNgYYT9tqB8rkaqdah8n4UPGkhUqPS7KMI9k8guHESz+hk3kELmiqLCOG41kGLmXaJlnjpyuaSOcaotsNpFbgyrsi36IREAhzZZAUNTniuUqbQ25hBAuLRRMkpPGNCf4Ah7LwhWMpVMuqfWwqJftFE91sIDw9cIL31iV2QC0O4oi5UhnhlVaP4nQLAofx6gxBKgdAuMZBUvzm/+hJsJuXmz/K/+q+tsVr4Qt7s4EDJ9ZRm6WHqOQlgEMtKsMmhCKVJmMluMeaEzJjI98AD4OK0kJ/qqKxs3wSVdxpVIpaOx/rL4uxtOS7NaUFgR5QtHl0loxLGXb1NO8H8P2ZdW0mWI5NtvcoR8ctOTPgTICsU8VT2Zb4/P9ulKD/R4z6hFFGFyB8SYtQ4JU9APu3mY5s/jFUPullYQsG3jRseWimlGPUQDFcobz0KOPpwfZ1Eg8TH1gEf6a78gq6hSdck/dPUomZjFlySwWW7TOWH5JtwRGyDlvUZfzsuROpB2fQ1Z2kDToTYjw3rzl/+mm32kle/nLJH0SnUyZdQQL6CxGUm4REbE2WlrOImYkecMzCZs+FjS3XwMn/plL3K6wGxb98DxvZBrdMDiUIEtwiHBc7j3EOjWiaarmfqAGfQuWGJGFTfN9gLKwU7sA/IPxFPxoQvXimL2dM1Sqr8isskHU6fT+hna5iPErtaW6Sep5DRKfrIeVRgMUX1O1fbWK+Yd/iI9emED6V02rJ3ot+t7A1UtErdNEsv82s83yRcqHKUQI+B3xpqsoYq5mf9Mr9MeitwT5HWo6Muof0abU1oYf2Ft3FQ/yNRhhXxkN5zX5sX+Q3kuR6IRKrJJklH3fJ06mL130doIiAq2UzeBEjFs7EnoAtKG0EMZSWNWMxf1hp67aut75qrj3G/NwgLPR3HqH2TBBEy8DayQVYtUX1V/ON66XEp1rY8erTeJLI8mnfpoy6ajgEjVnavqn2y3FI8h3Tpyxntd9EJ3C/F1WTZO6Yp2IGGfugbbhAXLxILB5SOv0mBBrHxG5D5vgzOnV7JEs4Af1t2DnoDNfvVuPxBWXoVQLUzcUNnmQ9yOlWJLcnKtCQntazHF2TsuazRLoNUHgnlwKoxX9/6Kfhm2EmRGuSFpMxtkvxJ84I8djEt8l43KO6oMB8L7BoGyBwl/3aukxabj0hprCYcQYo19PZsgVrzFrii8qMPF/BcVRhuW5uDHipVzrok0z2DfX9Ag5RyfLbSUjSmZIvLkEBJXF8Habd0/Yow0Kgh2wkdUjJzhDi9vSNJMo78t5PsEyM7OveryKMfVtMVaUrn/yY6ivY8pKfmxWJ/rP+ON3Ifqqjo0jwFH/LnvTQY2cpoNaWo7LnswOpOF9iR51JR6L8T5M+GH04E1DhUk4X244u9lmkeYj372v2b9QDj0l9dhNykP7c5l1sHWzZiZhgB"
+      },
+      {
+        "type": "text",
+        "text": "{\"lines\":[{\"key\":\"turnover\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Revenue\",\"figure_text\":\"986.5\",\"sign\":\"positive\",\"scale_caption\":\"£'m\",\"header_scale_caption\":\"£'m\",\"header_currency\":\"£\",\"column_heading\":\"53 weeks ended 28 February 2026\",\"header_rows_above\":[],\"period_end\":\"2026-02-28\",\"excerpt_page\":1,\"statement\":\"INCOME STATEMENT\",\"basis\":\"company\",\"basis_text\":\"MATALAN RETAIL LIMITED\"},{\"key\":\"operating_profit\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Operating profit\",\"figure_text\":\"47.4\",\"sign\":\"positive\",\"scale_caption\":\"£'m\",\"header_scale_caption\":\"£'m\",\"header_currency\":\"£\",\"column_heading\":\"53 weeks ended 28 February 2026\",\"header_rows_above\":[],\"period_end\":\"2026-02-28\",\"excerpt_page\":1,\"statement\":\"INCOME STATEMENT\",\"basis\":\"company\",\"basis_text\":\"MATALAN RETAIL LIMITED\"},{\"key\":\"interest_payable\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Finance costs\",\"figure_text\":\"(83.7)\",\"sign\":\"negative\",\"scale_caption\":\"£'m\",\"header_scale_caption\":\"£'m\",\"header_currency\":\"£\",\"column_heading\":\"53 weeks ended 28 February 2026\",\"header_rows_above\":[],\"period_end\":\"2026-02-28\",\"excerpt_page\":1,\"statement\":\"INCOME STATEMENT\",\"basis\":\"company\",\"basis_text\":\"MATALAN RETAIL LIMITED\"},{\"key\":\"profit_before_tax\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Loss before tax\",\"figure_text\":\"(36.3)\",\"sign\":\"negative\",\"scale_caption\":\"£'m\",\"header_scale_caption\":\"£'m\",\"header_currency\":\"£\",\"column_heading\":\"53 weeks ended 28 February 2026\",\"header_rows_above\":[],\"period_end\":\"2026-02-28\",\"excerpt_page\":1,\"statement\":\"INCOME STATEMENT\",\"basis\":\"company\",\"basis_text\":\"MATALAN RETAIL LIMITED\"},{\"key\":\"cash_at_bank\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Cash and cash equivalents\",\"figure_text\":\"76.4\",\"sign\":\"positive\",\"scale_caption\":\"£'m\",\"header_scale_caption\":\"£'m\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-02-28\",\"excerpt_page\":2,\"statement\":\"STATEMENT OF FINANCIAL POSITION AS AT 28 FEBRUARY 2026\",\"basis\":\"company\",\"basis_text\":\"MATALAN RETAIL LIMITED\"},{\"key\":\"lease_liabilities_total\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Set out below are the carrying amounts of lease liabilities: (total)\",\"figure_text\":\"(341.8)\",\"sign\":\"negative\",\"scale_caption\":\"£'m\",\"header_scale_caption\":\"£'m\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-02-28\",\"excerpt_page\":3,\"statement\":\"25. Leases (continued) b. Lease liabilities (continued)\",\"basis\":\"company\",\"basis_text\":\"MATALAN RETAIL LIMITED NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)\"},{\"key\":\"lease_liabilities_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Current\",\"figure_text\":\"(84.0)\",\"sign\":\"negative\",\"scale_caption\":\"£'m\",\"header_scale_caption\":\"£'m\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-02-28\",\"excerpt_page\":3,\"statement\":\"25. Leases (continued) b. Lease liabilities (continued)\",\"basis\":\"company\",\"basis_text\":\"MATALAN RETAIL LIMITED NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)\"},{\"key\":\"lease_liabilities_non_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Non-current\",\"figure_text\":\"(257.8)\",\"sign\":\"negative\",\"scale_caption\":\"£'m\",\"header_scale_caption\":\"£'m\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-02-28\",\"excerpt_page\":3,\"statement\":\"25. Leases (continued) b. Lease liabilities (continued)\",\"basis\":\"company\",\"basis_text\":\"MATALAN RETAIL LIMITED NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)\"},{\"key\":\"shareholder_loans\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Loans from group undertakings\",\"figure_text\":\"(286.0)\",\"sign\":\"negative\",\"scale_caption\":\"£'m\",\"header_scale_caption\":\"£'m\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-02-28\",\"excerpt_page\":2,\"statement\":\"STATEMENT OF FINANCIAL POSITION AS AT 28 FEBRUARY 2026\",\"basis\":\"company\",\"basis_text\":\"MATALAN RETAIL LIMITED\"},{\"key\":\"net_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Net liabilities\",\"figure_text\":\"(66.6)\",\"sign\":\"negative\",\"scale_caption\":\"£'m\",\"header_scale_caption\":\"£'m\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-02-28\",\"excerpt_page\":2,\"statement\":\"STATEMENT OF FINANCIAL POSITION AS AT 28 FEBRUARY 2026\",\"basis\":\"company\",\"basis_text\":\"MATALAN RETAIL LIMITED\"},{\"key\":\"total_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total assets\",\"figure_text\":\"743.9\",\"sign\":\"positive\",\"scale_caption\":\"£'m\",\"header_scale_caption\":\"£'m\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-02-28\",\"excerpt_page\":2,\"statement\":\"STATEMENT OF FINANCIAL POSITION AS AT 28 FEBRUARY 2026\",\"basis\":\"company\",\"basis_text\":\"MATALAN RETAIL LIMITED\"},{\"key\":\"current_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total current liabilities\",\"figure_text\":\"(546.6)\",\"sign\":\"negative\",\"scale_caption\":\"£'m\",\"header_scale_caption\":\"£'m\",\"header_currency\":\"£\",\"column_heading\":\"2026\",\"header_rows_above\":[],\"period_end\":\"2026-02-28\",\"excerpt_page\":2,\"statement\":\"STATEMENT OF FINANCIAL POSITION AS AT 28 FEBRUARY 2026\",\"basis\":\"company\",\"basis_text\":\"MATALAN RETAIL LIMITED\"}],\"tie_lines\":[{\"role\":\"total_equity\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total shareholders' equity\",\"figure_text\":\"(66.6)\",\"sign\":\"negative\",\"scale_caption\":\"£'m\",\"column_heading\":\"2026\",\"period_end\":\"2026-02-28\",\"excerpt_page\":2},{\"role\":\"total_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total liabilities\",\"figure_text\":\"(810.5)\",\"sign\":\"negative\",\"scale_caption\":\"£'m\",\"column_heading\":\"2026\",\"period_end\":\"2026-02-28\",\"excerpt_page\":2},{\"role\":\"current_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total current assets\",\"figure_text\":\"313.5\",\"sign\":\"positive\",\"scale_caption\":\"£'m\",\"column_heading\":\"2026\",\"period_end\":\"2026-02-28\",\"excerpt_page\":2},{\"role\":\"borrowings_total\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"column_heading\":\"\",\"period_end\":\"\",\"excerpt_page\":0},{\"role\":\"net_debt\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"column_heading\":\"\",\"period_end\":\"\",\"excerpt_page\":0}]}"
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8745,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 3309,
+      "output_tokens_details": {
+        "thinking_tokens": 421
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "diagnostics": null
+  },
+  "gbp": 0.1012,
+  "pagesNote": "pagesSent, subsetBytes and gbp are the gold recording's second-read request (WP-BE14-LIVE-2): the pages the replayed first read cites, whose request fingerprint matches the recorded one. keysAsked is from the WP-BE05 recording and was not refreshed."
+}

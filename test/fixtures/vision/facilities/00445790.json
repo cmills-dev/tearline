@@ -1,0 +1,16 @@
+{
+ "note": "Recorded Anthropic Messages API response for the debt-note facility read (WP-BE16) of a frozen UK gold scan, made on the first read recorded in test/fixtures/vision/pages. No PDF bytes. Replayed offline by test/capitalStructure.test.ts.",
+ "companyNumber": "00445790",
+ "readerModel": "claude-opus-5",
+ "recordedAt": "2026-09-22T21:16:05.870Z",
+ "seconds": {
+  "facilityRead": 0,
+  "recordedPageFindAndFirstRead": 36.346,
+  "recordedSecondRead": 24.256,
+  "recordedTotal": 60.602,
+  "composedTotal": 60.6
+ },
+ "gbp": 0,
+ "pagesSent": [],
+ "calls": []
+}

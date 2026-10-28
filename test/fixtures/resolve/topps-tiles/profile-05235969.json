@@ -1,0 +1,68 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "09"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-09-27",
+   "period_end_on": "2025-09-27",
+   "period_start_on": "2024-09-29",
+   "type": "audit-exemption-subsidiary"
+  },
+  "next_accounts": {
+   "due_on": "2027-06-30",
+   "overdue": false,
+   "period_end_on": "2026-09-30",
+   "period_start_on": "2025-09-28"
+  },
+  "next_due": "2027-06-30",
+  "next_made_up_to": "2026-09-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "TOPPS TILES IP COMPANY LIMITED",
+ "company_number": "05235969",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-09-20",
+  "next_due": "2026-10-04",
+  "next_made_up_to": "2026-09-20",
+  "overdue": false
+ },
+ "date_of_creation": "2004-09-20",
+ "etag": "c4b22b640080f67e9a259e894a9fdfcffbdf914c",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-09-20",
+ "links": {
+  "persons_with_significant_control": "/company/05235969/persons-with-significant-control",
+  "self": "/company/05235969",
+  "charges": "/company/05235969/charges",
+  "filing_history": "/company/05235969/filing-history",
+  "officers": "/company/05235969/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2004-09-22",
+   "effective_from": "2004-09-20",
+   "name": "BEALAW(MAN)1 LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Topps Tiles Thorpe Way",
+  "address_line_2": "Grove Park",
+  "locality": "Enderby",
+  "postal_code": "LE19 1SU",
+  "region": "Leicestershire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "47520"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

@@ -1,0 +1,289 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2019-04-25",
+   "company_type": "ltd",
+   "company_number": "11962051",
+   "address": {
+    "address_line_1": "Sapphire House",
+    "address_line_2": "Crown Way",
+    "country": "England",
+    "locality": "Rushden",
+    "postal_code": "NN10 6FB",
+    "premises": "Suite 3,"
+   },
+   "title": "THE MISCO GROUP LIMITED",
+   "address_snippet": "Suite 3, Sapphire House, Crown Way, Rushden, England, NN10 6FB",
+   "description": "11962051 - Incorporated on 25 April 2019",
+   "links": {
+    "self": "/company/11962051"
+   },
+   "snippet": "COMET GROUP LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "1933-08-08",
+   "date_of_cessation": "2026-05-05",
+   "company_type": "ltd",
+   "company_number": "00278576",
+   "address": {
+    "address_line_1": "20 Colmore Circus Queensway",
+    "locality": "Birmingham",
+    "postal_code": "B4 6AT",
+    "premises": "C/O Teneo Financial Advisory Limited The Colmore Building"
+   },
+   "title": "CGL REALISATIONS LIMITED",
+   "address_snippet": "C/O Teneo Financial Advisory Limited The Colmore Building, 20 Colmore Circus Queensway, Birmingham, B4 6AT",
+   "description": "00278576 - Dissolved on 5 May 2026",
+   "links": {
+    "self": "/company/00278576"
+   },
+   "snippet": "COMET GROUP LIMITED · COMET GROUP P L C LIMITED · COMET RADIOVISION SERVICES LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2026-01-21",
+   "company_type": "ltd",
+   "company_number": "16977583",
+   "address": {
+    "address_line_1": "Normandy House Alencon Link",
+    "country": "England",
+    "locality": "Basingstoke",
+    "postal_code": "RG21 7BZ",
+    "premises": "214"
+   },
+   "title": "COMETA GROUP LTD",
+   "address_snippet": "214 Normandy House Alencon Link, Basingstoke, England, RG21 7BZ",
+   "description": "16977583 - Incorporated on 21 January 2026",
+   "links": {
+    "self": "/company/16977583"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2024-03-04",
+   "date_of_cessation": "2025-08-05",
+   "company_type": "ltd",
+   "company_number": "15538742",
+   "address": {
+    "address_line_1": "Shelton Street",
+    "address_line_2": "Covent Garden",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "WC2H 9JQ",
+    "premises": "71-75"
+   },
+   "title": "COMETS INTERNATIONAL GROUP LIMITED",
+   "address_snippet": "71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ",
+   "description": "15538742 - Dissolved on 5 August 2025",
+   "links": {
+    "self": "/company/15538742"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2019-05-02",
+   "date_of_cessation": "2021-01-26",
+   "company_type": "ltd",
+   "company_number": "11975467",
+   "address": {
+    "address_line_1": "152-160 City Rd",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "EC1V 2NX",
+    "premises": "Craig Ho Yin Au Yeung Kemp House"
+   },
+   "title": "COMET INTERNATIONAL GROUP LTD",
+   "address_snippet": "Craig Ho Yin Au Yeung Kemp House, 152-160 City Rd, London, England, EC1V 2NX",
+   "description": "11975467 - Dissolved on 26 January 2021",
+   "links": {
+    "self": "/company/11975467"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    null,
+    "registered"
+   ],
+   "company_status": "registered",
+   "date_of_creation": "2023-07-06",
+   "external_registration_number": "125562",
+   "company_type": "registered-overseas-entity",
+   "company_number": "OE030371",
+   "address": {
+    "address_line_1": "Esplanade",
+    "country": "Jersey",
+    "locality": "St. Helier",
+    "postal_code": "JE1 1RB",
+    "premises": "15"
+   },
+   "title": "AL-MUFTAH COMET LIMITED",
+   "address_snippet": "15 Esplanade, St. Helier, Jersey, JE1 1RB",
+   "description": "OE030371 - Registered on 6 July 2023",
+   "links": {
+    "self": "/company/OE030371"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2022-03-19",
+   "company_type": "ltd",
+   "company_number": "13989168",
+   "address": {
+    "address_line_1": "Brick Kiln Lane",
+    "address_line_2": "Parkhouse Industrial Estate West",
+    "country": "England",
+    "locality": "Newcastle",
+    "postal_code": "ST5 7AS",
+    "premises": "Unit 59",
+    "region": "Staffordshire"
+   },
+   "title": "ARENA COMET UK LTD",
+   "address_snippet": "Unit 59 Brick Kiln Lane, Parkhouse Industrial Estate West, Newcastle, Staffordshire, England, ST5 7AS",
+   "description": "13989168 - Incorporated on 19 March 2022",
+   "links": {
+    "self": "/company/13989168"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2004-06-30",
+   "company_type": "ltd",
+   "company_number": "05166911",
+   "address": {
+    "address_line_1": "- COMPANIES HOUSE DEFAULT ADDRESS",
+    "locality": "Cardiff",
+    "po_box": "4385",
+    "postal_code": "CF14 8LH",
+    "premises": "05166911"
+   },
+   "title": "BG COMET LIMITED",
+   "address_snippet": "4385, 05166911 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",
+   "description": "05166911 - Incorporated on 30 June 2004",
+   "links": {
+    "self": "/company/05166911"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2021-12-13",
+   "company_type": "private-limited-guarant-nsc",
+   "company_number": "13796638",
+   "address": {
+    "address_line_1": "Byrne Avenue",
+    "country": "England",
+    "locality": "Birkenhead",
+    "postal_code": "CH42 4PQ",
+    "premises": "Byrne Ave Baths"
+   },
+   "title": "BIRKENHEAD COMETS CIC",
+   "address_snippet": "Byrne Ave Baths, Byrne Avenue, Birkenhead, England, CH42 4PQ",
+   "description": "13796638 - Incorporated on 13 December 2021",
+   "links": {
+    "self": "/company/13796638"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2020-07-19",
+   "date_of_cessation": "2026-06-16",
+   "company_type": "ltd",
+   "company_number": "12752431",
+   "address": {
+    "address_line_1": "Peel House 30 The Downs",
+    "country": "England",
+    "locality": "Altrincham",
+    "postal_code": "WA14 2PX",
+    "premises": "Suite 130",
+    "region": "Cheshire"
+   },
+   "title": "BLACK COMET ESTATES LTD",
+   "address_snippet": "Suite 130 Peel House 30 The Downs, Altrincham, Cheshire, England, WA14 2PX",
+   "description": "12752431 - Dissolved on 16 June 2026",
+   "links": {
+    "self": "/company/12752431"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 10000,
+ "start_index": 0
+}

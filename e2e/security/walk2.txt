@@ -1,0 +1,10 @@
+ok   anon 200  /workspace -> /workspace
+ok   anon 200  /sheet/qa06-secret -> /sheet/qa06-secret
+ok   B    200  /workspace -> /workspace
+ok   B    404  /sheet/qa06-secret -> /sheet/qa06-secret
+ok   B    200  /live -> /live
+ok   B    200  /pipeline -> /pipeline
+ok   B    200  /watchlist -> /watchlist
+ok   site 200  / -> /
+ok   site 404  /nope-404 -> /nope-404
+WALK2: 9 pages, 0 to look at

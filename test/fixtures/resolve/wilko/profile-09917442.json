@@ -1,0 +1,51 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2018-12-31",
+   "period_end_on": "2018-12-31",
+   "type": "unaudited-abridged"
+  }
+ },
+ "can_file": false,
+ "company_name": "THE LAST 10% LTD",
+ "company_number": "09917442",
+ "company_status": "dissolved",
+ "date_of_cessation": "2021-11-16",
+ "date_of_creation": "2015-12-15",
+ "etag": "d7eb0e8e30b0d235b0e4f36ffe66dec125ede041",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/09917442/persons-with-significant-control",
+  "self": "/company/09917442",
+  "filing_history": "/company/09917442/filing-history",
+  "officers": "/company/09917442/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2018-06-18",
+   "effective_from": "2015-12-15",
+   "name": "WILKO LTD"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "6 Fowlers Hill",
+  "address_line_2": "Quenington",
+  "country": "England",
+  "locality": "Cirencester",
+  "postal_code": "GL7 5DA",
+  "region": "Gloucestershire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "70229"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

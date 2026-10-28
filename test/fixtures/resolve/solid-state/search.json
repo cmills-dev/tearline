@@ -1,0 +1,287 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1963-08-20",
+   "company_type": "plc",
+   "company_number": "00771335",
+   "address": {
+    "address_line_1": "Ravensbank Business Park",
+    "address_line_2": "Hedera Road",
+    "locality": "Redditch",
+    "postal_code": "B98 9EY",
+    "premises": "2"
+   },
+   "title": "SOLID STATE PLC",
+   "address_snippet": "2 Ravensbank Business Park, Hedera Road, Redditch, B98 9EY",
+   "description": "00771335 - Incorporated on 20 August 1963",
+   "links": {
+    "self": "/company/00771335"
+   },
+   "snippet": "SOLID STATE SUPPLIES PLC",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1988-02-05",
+   "company_type": "ltd",
+   "company_number": "02218358",
+   "address": {
+    "address_line_1": "Attercliffe Road",
+    "locality": "Sheffield",
+    "postal_code": "S9 3RS",
+    "premises": "822",
+    "region": "South Yorkshire"
+   },
+   "title": "SOLID STATE COMPUTING LIMITED",
+   "address_snippet": "822 Attercliffe Road, Sheffield, South Yorkshire, S9 3RS",
+   "description": "02218358 - Incorporated on 5 February 1988",
+   "links": {
+    "self": "/company/02218358"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on",
+    "liquidation"
+   ],
+   "company_status": "liquidation",
+   "date_of_creation": "2020-07-21",
+   "company_type": "ltd",
+   "company_number": "12757757",
+   "address": {
+    "address_line_1": "St. Edwards Road",
+    "country": "England",
+    "locality": "Cheltenham",
+    "postal_code": "GL54 1AP",
+    "premises": "14",
+    "region": "Gloucestershire"
+   },
+   "title": "SOLID STATE DECORATORS LTD",
+   "address_snippet": "14 St. Edwards Road, Cheltenham, Gloucestershire, England, GL54 1AP",
+   "description": "12757757 - Incorporated on 21 July 2020 - Liquidation",
+   "links": {
+    "self": "/company/12757757"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1991-09-11",
+   "company_type": "ltd",
+   "company_number": "02644885",
+   "address": {
+    "address_line_1": "Daglands Road",
+    "country": "England",
+    "locality": "Fowey",
+    "postal_code": "PL23 1JL",
+    "premises": "9"
+   },
+   "title": "SOLID STATE DESIGN LIMITED",
+   "address_snippet": "9 Daglands Road, Fowey, England, PL23 1JL",
+   "description": "02644885 - Incorporated on 11 September 1991",
+   "links": {
+    "self": "/company/02644885"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2008-01-15",
+   "company_type": "ltd",
+   "company_number": "06474031",
+   "address": {
+    "address_line_1": "Richfield Place, Richfield",
+    "address_line_2": "Avenue, Reading",
+    "locality": "Berkshire",
+    "postal_code": "RG1 8EQ",
+    "premises": "3"
+   },
+   "title": "SOLID STATE DISKS LTD",
+   "address_snippet": "3 Richfield Place, Richfield, Avenue, Reading, Berkshire, RG1 8EQ",
+   "description": "06474031 - Incorporated on 15 January 2008",
+   "links": {
+    "self": "/company/06474031"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2019-05-30",
+   "company_type": "ltd",
+   "company_number": "12023656",
+   "address": {
+    "address_line_1": "Richfield Place",
+    "address_line_2": "Richfield Avenue",
+    "country": "England",
+    "locality": "Reading",
+    "postal_code": "RG1 8EQ",
+    "premises": "3",
+    "region": "Berkshire"
+   },
+   "title": "SOLID STATE DISKS HOLDINGS LIMITED",
+   "address_snippet": "3 Richfield Place, Richfield Avenue, Reading, Berkshire, England, RG1 8EQ",
+   "description": "12023656 - Incorporated on 30 May 2019",
+   "links": {
+    "self": "/company/12023656"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2016-08-24",
+   "company_type": "ltd",
+   "company_number": "10344968",
+   "address": {
+    "address_line_1": "Marlston Avenue",
+    "address_line_2": "Irby",
+    "country": "United Kingdom",
+    "locality": "Wirral",
+    "postal_code": "CH61 3XU",
+    "premises": "14",
+    "region": "Cheshire"
+   },
+   "title": "SOLID STATE DYNAMICS LIMITED",
+   "address_snippet": "14 Marlston Avenue, Irby, Wirral, Cheshire, United Kingdom, CH61 3XU",
+   "description": "10344968 - Incorporated on 24 August 2016",
+   "links": {
+    "self": "/company/10344968"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2017-06-23",
+   "company_type": "ltd",
+   "company_number": "10833817",
+   "address": {
+    "address_line_1": "Avebury Trusloe",
+    "country": "United Kingdom",
+    "locality": "Marlborough",
+    "postal_code": "SN8 1QS",
+    "premises": "Trusloe Farmhouse Frog Lane"
+   },
+   "title": "SOLID STATE (EASTON) LTD",
+   "address_snippet": "Trusloe Farmhouse Frog Lane, Avebury Trusloe, Marlborough, United Kingdom, SN8 1QS",
+   "description": "10833817 - Incorporated on 23 June 2017",
+   "links": {
+    "self": "/company/10833817"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2013-11-20",
+   "company_type": "ltd",
+   "company_number": "08784432",
+   "address": {
+    "address_line_1": "Wakeley Road",
+    "address_line_2": "Rainham",
+    "country": "England",
+    "locality": "Gillingham",
+    "postal_code": "ME8 8NJ",
+    "premises": "204"
+   },
+   "title": "SOLID STATE EDUCATIONAL SOLUTIONS LIMITED",
+   "address_snippet": "204 Wakeley Road, Rainham, Gillingham, England, ME8 8NJ",
+   "description": "08784432 - Incorporated on 20 November 2013",
+   "links": {
+    "self": "/company/08784432"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2026-01-30",
+   "company_type": "ltd",
+   "company_number": "17002923",
+   "address": {
+    "address_line_1": "Discovery Works Trafford Park Road",
+    "address_line_2": "Trafford Park",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M17 1AN",
+    "premises": "Unit 4"
+   },
+   "title": "SOLID STATE ELECTRICAL LTD",
+   "address_snippet": "Unit 4 Discovery Works Trafford Park Road, Trafford Park, Manchester, England, M17 1AN",
+   "description": "17002923 - Incorporated on 30 January 2026",
+   "links": {
+    "self": "/company/17002923"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 5637,
+ "start_index": 0
+}

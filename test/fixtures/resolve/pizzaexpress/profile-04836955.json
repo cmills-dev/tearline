@@ -1,0 +1,90 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2024-12-29",
+   "period_end_on": "2024-12-29",
+   "period_start_on": "2024-01-01",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2026-12-30",
+   "overdue": false,
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2024-12-30"
+  },
+  "next_due": "2026-12-30",
+  "next_made_up_to": "2025-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "PIZZAEXPRESS OPERATIONS LIMITED",
+ "company_number": "04836955",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-04-03",
+  "next_due": "2027-04-17",
+  "next_made_up_to": "2027-04-03",
+  "overdue": false
+ },
+ "date_of_creation": "2003-07-18",
+ "etag": "2dcb0426624cb92349df69081037fe75e8343fcd",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-07-18",
+ "links": {
+  "persons_with_significant_control": "/company/04836955/persons-with-significant-control",
+  "persons_with_significant_control_statements": "/company/04836955/persons-with-significant-control-statements",
+  "self": "/company/04836955",
+  "charges": "/company/04836955/charges",
+  "filing_history": "/company/04836955/filing-history",
+  "officers": "/company/04836955/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2014-10-07",
+   "effective_from": "2007-01-15",
+   "name": "GONDOLA INVESTMENTS LIMITED"
+  },
+  {
+   "ceased_on": "2007-01-15",
+   "effective_from": "2005-09-23",
+   "name": "GONDOLA GROUP LIMITED"
+  },
+  {
+   "ceased_on": "2005-09-23",
+   "effective_from": "2005-06-09",
+   "name": "ALTIA HOLDINGS LTD"
+  },
+  {
+   "ceased_on": "2005-06-09",
+   "effective_from": "2004-02-12",
+   "name": "RIPOSTE HOLDINGS LIMITED"
+  },
+  {
+   "ceased_on": "2004-02-12",
+   "effective_from": "2003-07-18",
+   "name": "PRECIS (2385) LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Building 01 Arc Uxbridge",
+  "address_line_2": "Sanderson Road",
+  "country": "United Kingdom",
+  "locality": "Uxbridge",
+  "postal_code": "UB8 1DH",
+  "region": "Middlesex"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "70221"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

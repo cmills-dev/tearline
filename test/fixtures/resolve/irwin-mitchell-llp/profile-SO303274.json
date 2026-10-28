@@ -1,0 +1,63 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "04"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-04-30",
+   "period_end_on": "2025-04-30",
+   "period_start_on": "2024-05-01",
+   "type": "total-exemption-full"
+  },
+  "next_accounts": {
+   "due_on": "2027-01-31",
+   "overdue": false,
+   "period_end_on": "2026-04-30",
+   "period_start_on": "2025-05-01"
+  },
+  "next_due": "2027-01-31",
+  "next_made_up_to": "2026-04-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "IRWIN MITCHELL SCOTLAND LLP",
+ "company_number": "SO303274",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-03-30",
+  "next_due": "2027-04-13",
+  "next_made_up_to": "2027-03-30",
+  "overdue": false
+ },
+ "date_of_creation": "2011-03-30",
+ "etag": "44f73bcab724d176b7f529e57d4e121fae52a5df",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "scotland",
+ "links": {
+  "persons_with_significant_control_statements": "/company/SO303274/persons-with-significant-control-statements",
+  "self": "/company/SO303274",
+  "filing_history": "/company/SO303274/filing-history",
+  "officers": "/company/SO303274/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2011-04-05",
+   "effective_from": "2011-03-30",
+   "name": "MARSHALL AND HIGGINS LLP"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "St Vincent Plaza",
+  "address_line_2": "319 St. Vincent Street",
+  "country": "Scotland",
+  "locality": "Glasgow",
+  "postal_code": "G2 5RZ"
+ },
+ "registered_office_is_in_dispute": false,
+ "type": "llp",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

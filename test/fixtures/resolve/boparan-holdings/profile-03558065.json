@@ -1,0 +1,68 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "07"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-07-26",
+   "period_end_on": "2025-07-26",
+   "period_start_on": "2024-07-28",
+   "type": "group"
+  },
+  "next_accounts": {
+   "due_on": "2027-04-30",
+   "overdue": false,
+   "period_end_on": "2026-07-31",
+   "period_start_on": "2025-07-27"
+  },
+  "next_due": "2027-04-30",
+  "next_made_up_to": "2026-07-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "BOPARAN HOLDINGS LIMITED",
+ "company_number": "03558065",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-05-17",
+  "next_due": "2027-05-31",
+  "next_made_up_to": "2027-05-17",
+  "overdue": false
+ },
+ "date_of_creation": "1998-05-05",
+ "etag": "43c4fa0b603ccc2299eedb337229a3cbd2905224",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-05-05",
+ "links": {
+  "persons_with_significant_control": "/company/03558065/persons-with-significant-control",
+  "self": "/company/03558065",
+  "charges": "/company/03558065/charges",
+  "filing_history": "/company/03558065/filing-history",
+  "officers": "/company/03558065/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "1999-07-30",
+   "effective_from": "1998-05-05",
+   "name": "2 SISTERS HOLDINGS LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Trinity Park House Trinity Business Park",
+  "address_line_2": "Fox Way",
+  "locality": "Wakefield",
+  "postal_code": "WF2 8EE",
+  "region": "West Yorkshire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "70100"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

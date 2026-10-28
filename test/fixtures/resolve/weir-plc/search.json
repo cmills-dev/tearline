@@ -1,0 +1,282 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "closed"
+   ],
+   "company_status": "closed",
+   "date_of_creation": "2009-10-01",
+   "company_type": "uk-establishment",
+   "company_number": "BR012880",
+   "address": {
+    "locality": "Nightingale House",
+    "postal_code": "W1J 8PE",
+    "premises": "Tim Sanderson",
+    "region": "Moorfield Group"
+   },
+   "title": "WEIR LIMITED",
+   "address_snippet": "Tim Sanderson, Nightingale House, Moorfield Group, W1J 8PE",
+   "description": "BR012880 - Closed",
+   "links": {
+    "self": "/company/BR012880"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1895-06-14",
+   "company_type": "plc",
+   "company_number": "SC002934",
+   "address": {
+    "address_line_1": "West Regent Street",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G2 1RW",
+    "premises": "1"
+   },
+   "title": "WEIR PLC",
+   "address_snippet": "1 West Regent Street, Glasgow, Scotland, G2 1RW",
+   "description": "SC002934 - Incorporated on 14 June 1895",
+   "links": {
+    "self": "/company/SC002934"
+   },
+   "snippet": "WEIR GROUP PLC(THE)",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2011-09-16",
+   "company_type": "ltd",
+   "company_number": "SC407565",
+   "address": {
+    "address_line_1": "Floor 1 West Regent Street",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G2 1RW",
+    "premises": "10th"
+   },
+   "title": "WEIR GROUP LIMITED",
+   "address_snippet": "10th Floor 1 West Regent Street, Glasgow, Scotland, G2 1RW",
+   "description": "SC407565 - Incorporated on 16 September 2011",
+   "links": {
+    "self": "/company/SC407565"
+   },
+   "snippet": "WEIR LIMITED · WEIR INVESTMENTS TWO LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "closed-on"
+   ],
+   "company_status": "closed-on",
+   "date_of_creation": "1999-04-28",
+   "date_of_cessation": "2011-08-23",
+   "company_type": "oversea-company",
+   "company_number": "FC021846",
+   "address": {
+    "address_line_1": "Moorfield Group",
+    "country": "Channel Islands",
+    "locality": "Nightingale House",
+    "postal_code": "W1J 8PE",
+    "premises": "Tim Sanderson",
+    "region": "65 Curzon Street London"
+   },
+   "title": "WEIR LIMITED",
+   "address_snippet": "Tim Sanderson, Moorfield Group, Nightingale House, 65 Curzon Street London, Channel Islands, W1J 8PE",
+   "description": "FC021846 - Closed on 23 August 2011",
+   "links": {
+    "self": "/company/FC021846"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2012-03-01",
+   "company_type": "ltd",
+   "company_number": "07971844",
+   "address": {
+    "address_line_1": "Trafford Park",
+    "locality": "Manchester",
+    "postal_code": "M17 1WD",
+    "premises": "Incom House Waterside"
+   },
+   "title": "MCDERMOTT KC TRAINING LIMITED",
+   "address_snippet": "Incom House Waterside, Trafford Park, Manchester, M17 1WD",
+   "description": "07971844 - Incorporated on 1 March 2012",
+   "links": {
+    "self": "/company/07971844"
+   },
+   "snippet": "WEIR HOUSE CHAMBERS LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "registered-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2015-12-18",
+   "company_type": "limited-partnership",
+   "company_number": "SL024396",
+   "address": {
+    "address_line_1": "West Regent Street",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G2 1RW",
+    "premises": "1"
+   },
+   "title": "WEIR ABF LP",
+   "address_snippet": "1 West Regent Street, Glasgow, Scotland, G2 1RW",
+   "description": "SL024396 - Registered on 18 December 2015",
+   "links": {
+    "self": "/company/SL024396"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2024-05-22",
+   "date_of_cessation": "2026-06-02",
+   "company_type": "ltd",
+   "company_number": "SC811309",
+   "address": {
+    "address_line_1": "Kennedy Park",
+    "address_line_2": "Dreghorn",
+    "country": "Scotland",
+    "locality": "Irvine",
+    "postal_code": "KA11 4DW",
+    "premises": "4"
+   },
+   "title": "WEIR ACCESS LTD",
+   "address_snippet": "4 Kennedy Park, Dreghorn, Irvine, Scotland, KA11 4DW",
+   "description": "SC811309 - Dissolved on 2 June 2026",
+   "links": {
+    "self": "/company/SC811309"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1979-09-28",
+   "company_type": "ltd",
+   "company_number": "NI013856",
+   "address": {
+    "address_line_1": "Helens Bay",
+    "country": "Northern Ireland",
+    "locality": "Bangor",
+    "postal_code": "BT19 1XX",
+    "premises": "Wits End 38 Chimera Wood"
+   },
+   "title": "WEIR AGENCIES LIMITED",
+   "address_snippet": "Wits End 38 Chimera Wood Helens Bay, Bangor, Northern Ireland, BT19 1XX",
+   "description": "NI013856 - Incorporated on 28 September 1979",
+   "links": {
+    "self": "/company/NI013856"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2023-06-15",
+   "company_type": "ltd",
+   "company_number": "SC772765",
+   "address": {
+    "address_line_1": "Finlayson Way Coylton",
+    "country": "United Kingdom",
+    "locality": "Ayr",
+    "postal_code": "KA6 6GW",
+    "premises": "20",
+    "region": "Ayrshire"
+   },
+   "title": "WEIR AGRISHIRE SERVICES LTD",
+   "address_snippet": "20 Finlayson Way Coylton, Ayr, Ayrshire, United Kingdom, KA6 6GW",
+   "description": "SC772765 - Incorporated on 15 June 2023",
+   "links": {
+    "self": "/company/SC772765"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2023-12-04",
+   "date_of_cessation": "2026-01-20",
+   "company_type": "ltd",
+   "company_number": "15325546",
+   "address": {
+    "country": "England",
+    "locality": "Nottingham",
+    "postal_code": "NG1 7HR",
+    "premises": "Cawley House 149-155 Canal Street"
+   },
+   "title": "WEIR ALEXANDER GLOBAL LIMITED",
+   "address_snippet": "Cawley House 149-155 Canal Street, Nottingham, England, NG1 7HR",
+   "description": "15325546 - Dissolved on 20 January 2026",
+   "links": {
+    "self": "/company/15325546"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 985,
+ "start_index": 0
+}

@@ -1,0 +1,67 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "29",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-12-28",
+   "period_end_on": "2025-12-28",
+   "period_start_on": "2024-12-30",
+   "type": "group"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-29",
+   "overdue": false,
+   "period_end_on": "2026-12-29",
+   "period_start_on": "2025-12-29"
+  },
+  "next_due": "2027-09-29",
+  "next_made_up_to": "2026-12-29",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "WAGAMAMA (HOLDINGS) LIMITED",
+ "company_number": "07556525",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-03-16",
+  "next_due": "2027-03-30",
+  "next_made_up_to": "2027-03-16",
+  "overdue": false
+ },
+ "date_of_creation": "2011-03-08",
+ "etag": "a845161e153a6241a855d63dc5cce84e59fc4202",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-03-08",
+ "links": {
+  "persons_with_significant_control": "/company/07556525/persons-with-significant-control",
+  "self": "/company/07556525",
+  "charges": "/company/07556525/charges",
+  "filing_history": "/company/07556525/filing-history",
+  "officers": "/company/07556525/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2023-01-20",
+   "effective_from": "2011-03-08",
+   "name": "MABEL BIDCO LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "5-7 Marshalsea Road",
+  "country": "England",
+  "locality": "London",
+  "postal_code": "SE1 1EP"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "64209"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

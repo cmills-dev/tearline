@@ -1,0 +1,73 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "03"
+  },
+  "last_accounts": {
+   "made_up_to": "2026-03-31",
+   "period_end_on": "2026-03-31",
+   "period_start_on": "2025-04-01",
+   "type": "group"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-30",
+   "overdue": false,
+   "period_end_on": "2027-03-31",
+   "period_start_on": "2026-04-01"
+  },
+  "next_due": "2027-09-30",
+  "next_made_up_to": "2027-03-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "SOLID STATE PLC",
+ "company_number": "00771335",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-09-01",
+  "next_due": "2027-09-15",
+  "next_made_up_to": "2027-09-01",
+  "overdue": false
+ },
+ "date_of_creation": "1963-08-20",
+ "etag": "3a7d8027451911f76467f43658ce39d76c761dd9",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2011-09-01",
+ "links": {
+  "persons_with_significant_control_statements": "/company/00771335/persons-with-significant-control-statements",
+  "self": "/company/00771335",
+  "charges": "/company/00771335/charges",
+  "filing_history": "/company/00771335/filing-history",
+  "officers": "/company/00771335/officers",
+  "exemptions": "/company/00771335/exemptions"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2006-05-03",
+   "effective_from": "1990-04-04",
+   "name": "SOLID STATE SUPPLIES PLC"
+  },
+  {
+   "ceased_on": "1990-04-04",
+   "effective_from": "1963-08-20",
+   "name": "CARTER LANE DEALERS LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "2 Ravensbank Business Park",
+  "address_line_2": "Hedera Road",
+  "locality": "Redditch",
+  "postal_code": "B98 9EY"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "64209"
+ ],
+ "type": "plc",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

@@ -1,0 +1,62 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2024-12-29",
+   "period_end_on": "2024-12-29",
+   "period_start_on": "2024-01-01",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2026-12-30",
+   "overdue": false,
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2024-12-30"
+  },
+  "next_due": "2026-12-30",
+  "next_made_up_to": "2025-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "PIZZAEXPRESS INTERNATIONAL HOLDINGS LIMITED",
+ "company_number": "09508199",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-03-24",
+  "next_due": "2027-04-07",
+  "next_made_up_to": "2027-03-24",
+  "overdue": false
+ },
+ "date_of_creation": "2015-03-25",
+ "etag": "972c372d4186b26a056cf21ac04fe90c238c527b",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-03-25",
+ "links": {
+  "persons_with_significant_control": "/company/09508199/persons-with-significant-control",
+  "persons_with_significant_control_statements": "/company/09508199/persons-with-significant-control-statements",
+  "self": "/company/09508199",
+  "charges": "/company/09508199/charges",
+  "filing_history": "/company/09508199/filing-history",
+  "officers": "/company/09508199/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "Building 01 Arc Uxbridge",
+  "address_line_2": "Sanderson Road",
+  "country": "United Kingdom",
+  "locality": "Uxbridge",
+  "postal_code": "UB8 1DH",
+  "region": "Middlesex"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "64209"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

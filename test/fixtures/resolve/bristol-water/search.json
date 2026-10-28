@@ -1,0 +1,270 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1991-11-12",
+   "company_type": "plc",
+   "company_number": "02662226",
+   "address": {
+    "address_line_1": "Bridgwater Road",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS13 7AT",
+    "premises": "Bristol Water Plc"
+   },
+   "title": "BRISTOL WATER PLC",
+   "address_snippet": "Bristol Water Plc, Bridgwater Road, Bristol, England, BS13 7AT",
+   "description": "02662226 - Incorporated on 12 November 1991",
+   "links": {
+    "self": "/company/02662226"
+   },
+   "snippet": "THE BRISTOL WATERWORKS PLC",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1991-07-19",
+   "company_type": "ltd",
+   "company_number": "02630760",
+   "address": {
+    "address_line_2": "Bridgwater Road",
+    "locality": "Bristol",
+    "postal_code": "BS13 7AT"
+   },
+   "title": "BRISTOL WATER HOLDINGS LIMITED",
+   "address_snippet": "Bridgwater Road, Bristol, BS13 7AT",
+   "description": "02630760 - Incorporated on 19 July 1991",
+   "links": {
+    "self": "/company/02630760"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2003-06-05",
+   "company_type": "ltd",
+   "company_number": "04789566",
+   "address": {
+    "address_line_1": "Bridgwater Road",
+    "locality": "Bristol",
+    "postal_code": "BS13 7AT",
+    "premises": "Bristol Water Holdings Uk Ltd"
+   },
+   "title": "BRISTOL WATER HOLDINGS UK LIMITED",
+   "address_snippet": "Bristol Water Holdings Uk Ltd, Bridgwater Road, Bristol, BS13 7AT",
+   "description": "04789566 - Incorporated on 5 June 2003",
+   "links": {
+    "self": "/company/04789566"
+   },
+   "snippet": "BRISTOL WATER GROUP LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2016-12-17",
+   "company_type": "ltd",
+   "company_number": "10530684",
+   "address": {
+    "address_line_1": "Dixon Road Brislington",
+    "country": "United Kingdom",
+    "locality": "Bristol",
+    "postal_code": "BS4 5QW",
+    "premises": "18"
+   },
+   "title": "BRISTOL WATER TANKS LTD",
+   "address_snippet": "18 Dixon Road Brislington, Bristol, United Kingdom, BS4 5QW",
+   "description": "10530684 - Incorporated on 17 December 2016",
+   "links": {
+    "self": "/company/10530684"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2003-01-15",
+   "date_of_cessation": "2025-05-06",
+   "company_type": "ltd",
+   "company_number": "04637554",
+   "address": {
+    "address_line_1": "Bridgwater Road",
+    "locality": "Bristol",
+    "postal_code": "BS13 7AT",
+    "premises": "Bristol Water Core Holdings Ltd"
+   },
+   "title": "BRISTOL WATER CORE HOLDINGS LIMITED",
+   "address_snippet": "Bristol Water Core Holdings Ltd, Bridgwater Road, Bristol, BS13 7AT",
+   "description": "04637554 - Dissolved on 6 May 2025",
+   "links": {
+    "self": "/company/04637554"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2011-06-15",
+   "date_of_cessation": "2023-03-17",
+   "company_type": "ltd",
+   "company_number": "07671099",
+   "address": {
+    "address_line_1": "More London Place",
+    "locality": "London",
+    "postal_code": "SE1 2AF",
+    "premises": "1"
+   },
+   "title": "BRISTOL WATER GROUP LIMITED",
+   "address_snippet": "1 More London Place, London, SE1 2AF",
+   "description": "07671099 - Dissolved on 17 March 2023",
+   "links": {
+    "self": "/company/07671099"
+   },
+   "snippet": "CSE WATER UK",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2019-01-24",
+   "date_of_cessation": "2021-07-13",
+   "company_type": "ltd",
+   "company_number": "11785277",
+   "address": {
+    "address_line_1": "Purlieus Barn",
+    "address_line_2": "Ewen",
+    "country": "United Kingdom",
+    "locality": "Cirencester",
+    "postal_code": "GL7 6BY",
+    "premises": "Unit 3"
+   },
+   "title": "BRISTOL WATER SOFTENERS LIMITED",
+   "address_snippet": "Unit 3 Purlieus Barn, Ewen, Cirencester, United Kingdom, GL7 6BY",
+   "description": "11785277 - Dissolved on 13 July 2021",
+   "links": {
+    "self": "/company/11785277"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "1993-01-18",
+   "date_of_cessation": "2012-05-15",
+   "company_type": "ltd",
+   "company_number": "02780366",
+   "address": {
+    "address_line_1": "Bridgwater Road",
+    "locality": "Bristol",
+    "postal_code": "BS99 7AU",
+    "premises": "Bristol Water"
+   },
+   "title": "VERDAN SERVICES LIMITED",
+   "address_snippet": "Bristol Water, Bridgwater Road, Bristol, BS99 7AU",
+   "description": "02780366 - Dissolved on 15 May 2012",
+   "links": {
+    "self": "/company/02780366"
+   },
+   "snippet": "BRISTOL WATER SERVICES · BRISTOL WATER CONSULTANCY SERVICES · BRISTOL CONTRACTING SERVICES",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2006-01-25",
+   "company_type": "ltd",
+   "company_number": "05687775",
+   "address": {
+    "address_line_1": "Grenfell Road",
+    "country": "United Kingdom",
+    "locality": "Maidenhead",
+    "postal_code": "SL6 1ES",
+    "premises": "Suez House"
+   },
+   "title": "SUEZ ADVANCED SOLUTIONS UK LIMITED",
+   "address_snippet": "Suez House, Grenfell Road, Maidenhead, United Kingdom, SL6 1ES",
+   "description": "05687775 - Incorporated on 25 January 2006",
+   "links": {
+    "self": "/company/05687775"
+   },
+   "snippet": "BRISTOL WATER SALES LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "registered-externally"
+   ],
+   "external_registration_number": "1151374",
+   "company_type": "charitable-incorporated-organisation",
+   "company_number": "CE000313",
+   "address": {},
+   "title": "ALL-ABOARD! WATER SPORT AND WATER RECREATIONAL ACTIVITY (BRISTOL)",
+   "description": "CE000313 - Registered externally as 1151374",
+   "links": {
+    "self": "/company/CE000313"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 10000,
+ "start_index": 0
+}

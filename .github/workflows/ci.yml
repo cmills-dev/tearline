@@ -1,0 +1,53 @@
+# CI gates for the origination product.
+#
+# Every push and pull request runs the same gates a maintainer runs locally: a clean
+# production build, the full offline test suite, and both extraction eval gates. Each is a
+# SEPARATE step so a red tick names the gate that broke rather than a single opaque failure.
+#
+# No secrets are required. The eval gold sets are frozen offline snapshots (no network), and
+# the test suite's Companies House / live-data suites run against mocked fetches, so the whole
+# matrix is deterministic and self-contained. The store layers fall back to in-memory when
+# DATABASE_URL is unset, so nothing here touches a database.
+#
+# For a maintainer who later wants to un-mock the LIVE suites in CI (real Companies House /
+# SEC / GLEIF calls, or a durable Postgres store), add these as repository secrets and wire
+# them into the "test" step's env: CH_API_KEY (Companies House REST key) and DATABASE_URL
+# (a Postgres connection string). Until then those paths stay mocked and CI stays green on
+# the offline gates only.
+
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  gates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      # A lockfile is committed, so a clean, reproducible install with npm ci.
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Test
+        run: npm test
+
+      # Extraction precision gate: exits non-zero on any fabricated / drifted figure.
+      - name: Eval (extraction)
+        run: npm run eval
+
+      # US SEC gold gate, run explicitly as its own step for a clear signal.
+      - name: Eval (US gold)
+        run: npm run eval:us

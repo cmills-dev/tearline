@@ -1,0 +1,259 @@
+{
+ "note": "Recorded model reads of TOPPS TILES PLC (03213782-2025-09-27/filing.pdf), made by npm run eval:uk:live through the real path and replayed offline by eval/gold/uk-run.ts.",
+ "companyNumber": "03213782",
+ "transactionId": "MzUwNzM2NzQwNGFkaXF6a2N4",
+ "recordedWith": {
+  "accountsType": "group",
+  "pageFindingAbovePages": 60,
+  "by": "eval:uk:live 2026-09-27, reader claude-opus-5, finder claude-haiku-4-5, on wp/be14-live-2 at 9c584db"
+ },
+ "calls": [
+  {
+   "stage": "contents",
+   "model": "claude-haiku-4-5",
+   "requestSha256": "32282eb1b175e20572440e7f6f479b4a9e552d240b16bf10866080a175eea468",
+   "version": "pf2",
+   "recordedAt": "2026-09-27T22:29:55.557Z",
+   "gbp": 0.0181,
+   "source": "eval:uk:live",
+   "response": {
+    "model": "claude-haiku-4-5-20251001",
+    "id": "msg_011CfUjaHWE6Wtqe4ZyF4qmd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "text",
+      "text": "{\"contents_found\": \"yes\", \"contents_pdf_page_index\": 2, \"page_numbers\": [{\"pdf_page_index\": 1, \"printed_page_number\": \"\"}, {\"pdf_page_index\": 2, \"printed_page_number\": \"\"}, {\"pdf_page_index\": 3, \"printed_page_number\": \"\"}, {\"pdf_page_index\": 4, \"printed_page_number\": \"02\"}, {\"pdf_page_index\": 5, \"printed_page_number\": \"03\"}, {\"pdf_page_index\": 6, \"printed_page_number\": \"\"}, {\"pdf_page_index\": 7, \"printed_page_number\": \"05\"}, {\"pdf_page_index\": 8, \"printed_page_number\": \"06\"}, {\"pdf_page_index\": 9, \"printed_page_number\": \"07\"}, {\"pdf_page_index\": 10, \"printed_page_number\": \"08\"}, {\"pdf_page_index\": 11, \"printed_page_number\": \"09\"}, {\"pdf_page_index\": 12, \"printed_page_number\": \"10\"}], \"entries\": [{\"section\": \"group_income_statement\", \"title_as_printed\": \"Consolidated Statement of Profit or Loss\", \"printed_page\": \"143\"}, {\"section\": \"group_balance_sheet\", \"title_as_printed\": \"Consolidated Statement of Financial Position\", \"printed_page\": \"145\"}, {\"section\": \"group_cash_flow_statement\", \"title_as_printed\": \"Consolidated Cash Flow Statement\", \"printed_page\": \"150\"}, {\"section\": \"group_notes\", \"title_as_printed\": \"Notes to the Consolidated Financial Statements\", \"printed_page\": \"153\"}, {\"section\": \"company_financial_statements\", \"title_as_printed\": \"Company Statement of Changes in Equity\", \"printed_page\": \"194\"}, {\"section\": \"borrowings_note\", \"title_as_printed\": \"Borrowings Note\", \"printed_page\": \"175\"}, {\"section\": \"leases_note\", \"title_as_printed\": \"Leases Note\", \"printed_page\": \"189\"}, {\"section\": \"net_debt_note\", \"title_as_printed\": \"Net Debt\", \"printed_page\": \"193\"}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 19893,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 544,
+     "service_tier": "standard",
+     "inference_geo": "not_available"
+    },
+    "diagnostics": null
+   }
+  },
+  {
+   "stage": "classify:172-198",
+   "model": "claude-haiku-4-5",
+   "requestSha256": "c552408fc0510a30eb9016470fdbb69e8da64581ee33f4f62e186cf68d3063e9",
+   "version": "pf2",
+   "recordedAt": "2026-09-27T22:30:39.787Z",
+   "gbp": 0.0378,
+   "source": "eval:uk:live",
+   "response": {
+    "model": "claude-haiku-4-5-20251001",
+    "id": "msg_011CfUjbgrSR1UBX4SuRR7uz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "text",
+      "text": "{\"pages\":[{\"pdf_page_index\":1,\"printed_page_number\":\"170\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":2,\"printed_page_number\":\"171\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":3,\"printed_page_number\":\"172\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":4,\"printed_page_number\":\"173\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":5,\"printed_page_number\":\"174\",\"basis\":\"group\",\"roles\":[\"leases_note\"]},{\"pdf_page_index\":6,\"printed_page_number\":\"175\",\"basis\":\"group\",\"roles\":[\"leases_note\"]},{\"pdf_page_index\":7,\"printed_page_number\":\"176\",\"basis\":\"group\",\"roles\":[\"leases_note\"]},{\"pdf_page_index\":8,\"printed_page_number\":\"177\",\"basis\":\"group\",\"roles\":[\"leases_note\"]},{\"pdf_page_index\":9,\"printed_page_number\":\"178\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":10,\"printed_page_number\":\"179\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":11,\"printed_page_number\":\"180\",\"basis\":\"group\",\"roles\":[\"borrowings_note\"]},{\"pdf_page_index\":12,\"printed_page_number\":\"181\",\"basis\":\"group\",\"roles\":[\"borrowings_note\"]},{\"pdf_page_index\":13,\"printed_page_number\":\"182\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":14,\"printed_page_number\":\"183\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":15,\"printed_page_number\":\"184\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":16,\"printed_page_number\":\"185\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":17,\"printed_page_number\":\"186\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":18,\"printed_page_number\":\"187\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":19,\"printed_page_number\":\"188\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":20,\"printed_page_number\":\"189\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":21,\"printed_page_number\":\"190\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":22,\"printed_page_number\":\"191\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":23,\"printed_page_number\":\"192\",\"basis\":\"group\",\"roles\":[\"other\"]},{\"pdf_page_index\":24,\"printed_page_number\":\"193\",\"basis\":\"company\",\"roles\":[\"balance_sheet\"]},{\"pdf_page_index\":25,\"printed_page_number\":\"194\",\"basis\":\"company\",\"roles\":[\"other\"]},{\"pdf_page_index\":26,\"printed_page_number\":\"195\",\"basis\":\"company\",\"roles\":[\"other\"]},{\"pdf_page_index\":27,\"printed_page_number\":\"196\",\"basis\":\"company\",\"roles\":[\"other\"]}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 43420,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 757,
+     "service_tier": "standard",
+     "inference_geo": "not_available"
+    },
+    "diagnostics": null
+   }
+  },
+  {
+   "stage": "classify:142-171",
+   "model": "claude-haiku-4-5",
+   "requestSha256": "32c870a957a459b6e44d444ebcf8e49e4d187c268a4967765d53e5e1591fc6eb",
+   "version": "pf2",
+   "recordedAt": "2026-09-27T22:30:40.027Z",
+   "gbp": 0.0426,
+   "source": "eval:uk:live",
+   "response": {
+    "model": "claude-haiku-4-5-20251001",
+    "id": "msg_011CfUjbkTEgicULCW9s75dF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "text",
+      "text": "{\"pages\": [{\"pdf_page_index\": 1, \"printed_page_number\": \"140\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 2, \"printed_page_number\": \"141\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 3, \"printed_page_number\": \"142\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 4, \"printed_page_number\": \"143\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 5, \"printed_page_number\": \"144\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 6, \"printed_page_number\": \"145\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 7, \"printed_page_number\": \"146\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 8, \"printed_page_number\": \"147\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 9, \"printed_page_number\": \"148\", \"basis\": \"group\", \"roles\": [\"income_statement\"]}, {\"pdf_page_index\": 10, \"printed_page_number\": \"149\", \"basis\": \"group\", \"roles\": [\"balance_sheet\"]}, {\"pdf_page_index\": 11, \"printed_page_number\": \"150\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 12, \"printed_page_number\": \"151\", \"basis\": \"group\", \"roles\": [\"cash_flow_statement\"]}, {\"pdf_page_index\": 13, \"printed_page_number\": \"152\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 14, \"printed_page_number\": \"153\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 15, \"printed_page_number\": \"154\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 16, \"printed_page_number\": \"155\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 17, \"printed_page_number\": \"156\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 18, \"printed_page_number\": \"157\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 19, \"printed_page_number\": \"158\", \"basis\": \"group\", \"roles\": [\"leases_note\"]}, {\"pdf_page_index\": 20, \"printed_page_number\": \"159\", \"basis\": \"group\", \"roles\": [\"leases_note\"]}, {\"pdf_page_index\": 21, \"printed_page_number\": \"160\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 22, \"printed_page_number\": \"161\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 23, \"printed_page_number\": \"162\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 24, \"printed_page_number\": \"163\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 25, \"printed_page_number\": \"164\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 26, \"printed_page_number\": \"165\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 27, \"printed_page_number\": \"166\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 28, \"printed_page_number\": \"167\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 29, \"printed_page_number\": \"168\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 30, \"printed_page_number\": \"169\", \"basis\": \"group\", \"roles\": [\"other\"]}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 48139,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 1013,
+     "service_tier": "standard",
+     "inference_geo": "not_available"
+    },
+    "diagnostics": null
+   }
+  },
+  {
+   "stage": "first-read",
+   "model": "claude-opus-5",
+   "requestSha256": "86b4cbc9419156bdce395c501ae05e97e825fc492231fe6a5946d84720fc9dad",
+   "version": "p3/schema 3",
+   "recordedAt": "2026-09-27T22:31:13.389Z",
+   "gbp": 0.1327,
+   "source": "eval:uk:live",
+   "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUjejM6fzcz28ntYxs9e",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "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"
+     },
+     {
+      "type": "text",
+      "text": "{\"document\":{\"company_name_as_printed\":\"Topps Tiles Plc\",\"period_end\":\"2025-09-27\",\"currency\":\"GBP\",\"basis\":\"consolidated\"},\"lines\":[{\"key\":\"turnover\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Group revenue\",\"figure_text\":\"295,754\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":1,\"printed_page_number\":\"148\",\"statement\":\"Consolidated Statement of Profit or Loss\",\"period_end\":\"2025-09-27\",\"note_reference\":\"3\"},{\"key\":\"operating_profit\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Group operating profit/(loss)\",\"figure_text\":\"15,299\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":1,\"printed_page_number\":\"148\",\"statement\":\"Consolidated Statement of Profit or Loss\",\"period_end\":\"2025-09-27\",\"note_reference\":\"\"},{\"key\":\"depreciation_amortisation\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed-as-single-figure\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"interest_payable\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Finance costs\",\"figure_text\":\"(7,295)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"pdf_page_index\":1,\"printed_page_number\":\"148\",\"statement\":\"Consolidated Statement of Profit or Loss\",\"period_end\":\"2025-09-27\",\"note_reference\":\"6\"},{\"key\":\"profit_before_tax\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Profit/(loss) before taxation\",\"figure_text\":\"8,262\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":1,\"printed_page_number\":\"148\",\"statement\":\"Consolidated Statement of Profit or Loss\",\"period_end\":\"2025-09-27\",\"note_reference\":\"4\"},{\"key\":\"cash_at_bank\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Cash and cash equivalents\",\"figure_text\":\"18,434\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"149\",\"statement\":\"Consolidated Statement of Financial Position\",\"period_end\":\"2025-09-27\",\"note_reference\":\"18\"},{\"key\":\"borrowings_within_one_year\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"borrowings_after_one_year\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Bank loans\",\"figure_text\":\"(11,000)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"149\",\"statement\":\"Consolidated Statement of Financial Position\",\"period_end\":\"2025-09-27\",\"note_reference\":\"19\"},{\"key\":\"lease_liabilities_total\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"At 27 September 2025 (Total)\",\"figure_text\":\"(99,792)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"pdf_page_index\":6,\"printed_page_number\":\"174\",\"statement\":\"14 Leases\",\"period_end\":\"2025-09-27\",\"note_reference\":\"14\"},{\"key\":\"lease_liabilities_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Lease liabilities\",\"figure_text\":\"(16,782)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"149\",\"statement\":\"Consolidated Statement of Financial Position\",\"period_end\":\"2025-09-27\",\"note_reference\":\"14\"},{\"key\":\"lease_liabilities_non_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Lease liabilities\",\"figure_text\":\"(83,010)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"149\",\"statement\":\"Consolidated Statement of Financial Position\",\"period_end\":\"2025-09-27\",\"note_reference\":\"14\"},{\"key\":\"preference_shares\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"shareholder_loans\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"net_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Net assets\",\"figure_text\":\"7,727\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"149\",\"statement\":\"Consolidated Statement of Financial Position\",\"period_end\":\"2025-09-27\",\"note_reference\":\"\"},{\"key\":\"total_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total assets\",\"figure_text\":\"187,893\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"149\",\"statement\":\"Consolidated Statement of Financial Position\",\"period_end\":\"2025-09-27\",\"note_reference\":\"\"},{\"key\":\"current_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Current liabilities (total)\",\"figure_text\":\"(81,380)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"149\",\"statement\":\"Consolidated Statement of Financial Position\",\"period_end\":\"2025-09-27\",\"note_reference\":\"\"},{\"key\":\"net_current_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Net current (liabilities)/assets\",\"figure_text\":\"(2,091)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"pdf_page_index\":2,\"printed_page_number\":\"149\",\"statement\":\"Consolidated Statement of Financial Position\",\"period_end\":\"2025-09-27\",\"note_reference\":\"\"}],\"debt_note\":{\"status\":\"found\",\"abstain_reason\":\"\",\"scale_caption\":\"£'000\",\"pdf_page_indexes\":[7,8],\"facilities\":[{\"name_as_printed\":\"Revolving credit facility (all sterling)\",\"type\":\"revolving_credit_facility\",\"lender\":\"\",\"amount_drawn_text\":\"11,000\",\"facility_size_text\":\"£30.0 million\",\"currency\":\"sterling\",\"maturity\":\"expiring in October 2027\",\"rate_or_margin\":\"floating rate debt\",\"security\":\"\",\"ranking\":\"\",\"pdf_page_index\":7}],\"maturity_buckets\":[{\"bucket_as_printed\":\"Greater than one year\",\"amount_text\":\"11,000\",\"pdf_page_index\":7},{\"bucket_as_printed\":\"Less: total unamortised issue costs\",\"amount_text\":\"–\",\"pdf_page_index\":7},{\"bucket_as_printed\":\"Total\",\"amount_text\":\"11,000\",\"pdf_page_index\":7}]}}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 18281,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 2980,
+     "output_tokens_details": {
+      "thinking_tokens": 491
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   }
+  },
+  {
+   "stage": "facility-read",
+   "model": "claude-opus-5",
+   "requestSha256": "3f4754bf879f9a03e7d90c48e0398f8fe9e1f1e9c4ea30e9d2b20fcf6cd611e9",
+   "version": "v4/schema 2",
+   "recordedAt": "2026-09-27T22:32:20.803Z",
+   "gbp": 0.0256,
+   "source": "eval:uk:live",
+   "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUjmQiNMnimUopxD6YmA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "text",
+      "text": "{\"note\":{\"status\":\"found\",\"abstain_reason\":\"\",\"heading\":\"19 Bank Loans\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"basis\":\"none\",\"basis_text\":\"\"},\"facilities\":[{\"name_as_printed\":\"Revolving credit facility (all sterling)\",\"type\":\"revolving_credit_facility\",\"lender\":\"\",\"amount_drawn_text\":\"11,000\",\"drawn_column_heading\":\"2025 £'000\",\"drawn_period_end\":\"2025-09-27\",\"facility_size_text\":\"£30.0 million\",\"maturity\":\"expiring in October 2027\",\"rate_or_margin\":\"\",\"security\":\"\",\"ranking_text\":\"\",\"excerpt_page\":1}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 5276,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 227,
+     "output_tokens_details": {
+      "thinking_tokens": 0
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   }
+  },
+  {
+   "stage": "second-read",
+   "model": "claude-opus-5",
+   "requestSha256": "fad4ac2e862f0c37fe90115bfbd81ad96c0fc6919426e47cdd50849edbd40c3b",
+   "version": "v4/schema 4",
+   "recordedAt": "2026-09-27T22:33:37.850Z",
+   "gbp": 0.1068,
+   "source": "eval:uk:live",
+   "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUjmSDu77ATbcicB38dD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "CAISjQkKtAIIEhgCKkC/lZ5cHpmtjOrYJ7bWZMmiB+rs/kCKAgO6aPPQ2IX0CMf1sr4dgxe+5UkvuKI3AmfCnjBLicRJz3jQMUl+dfXCMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRlMDhmMzYwMy1hMmViLTQ5ZGItODZlMi01ZDNiYTRmMGM3NWSoAfey5tUGwgFACAYQABoSAb0nAtqKA083CFAdBSC2BCatIAIyBBJxzyU6BB2rYspCBDgzI4pKBDgzI4pQAFoE2QXhVmACaAFwAdoBYAoWcHJlZml4X2JlZm9yZV9ibG9ja192MRIgQQdzPp1P5kGqmHzhyzl9o1kL992vzHgUmQj85bMEavYiADIgwsATyGqckuIvlm89hhd2j4t6RMkCrcwJe/oeCYr7Th9IAxIMg9m5WxnnREBOTuRRGgyAiqQcoeZE8TWWRVAiMAjERN8Vb66c4uMDFFioUrc7Y6I0nPQT+MF5kW2Q2wWlvY0nj3a75t06l3QDlM9viCqFBne4zIhCv5OizFJuuh4UnLTJ20jyrGCCHA8bDd/GvZPn6/MzlefrKva/aB6TZiUeSFvrSsoM63TtWoM09AzYeYXgpTobBaszJ9aJZJI411NyYcNIbZUTSZF7YxbpC56Zd9TRmHgqX1UvlPzqwkz/UQHE4SGIyzmotYHI4Hohd1h1DmZq6RQB23cC5qGL5Y9Frnq4uwXRb/75Gdc5R72koNgnPpJ8g9loxrLHh0p62WCTwocYyVO7Ig6QQMZ+plTp8J6zTZ+mq6H1mMZv+YUNAK0HqPintWKBD+3ch7Fuj6wAD/k5XRNZhofHoCyoucyjjsCgPt9Npa9+EYM5FQx1JwFkmowwd7pUmkkFqOCJK2lpIKsDtpCdQWU2Yf9fs3Csd185uwpWde9YR6c6hs8aKunnLRLkVEtteKqPKboG98aYfPDyzpQ0v59LR26WUKTRQac/ctZL/kejnKderDLW1n5I/35ftq9c81FilXyKHT59nJmfQy6Kl14SP/ClieiI53XxJ7YGnCrScO1GvhgtAAZNJBoK/VDIhKK+7ozkOxTfabjlx8/7yAlIN56FMlEBKcJz0zqNPiAYn0pqKs9iOS3QSFSeFePIllMauQJ5T8/FmUpsGF2s47ilECzCI6pi+KkIOkFX2I3KtsE9ZIYZ4f3MgxQzs8kaeNMBLArDrybevW6DBAio8DjmXX1WisdMfeUg/v9H4vBMeJmuVprlrJe5RnNloewlTSoK2M3DXl83FExfduino+RrRyAhs5za8ETfllN5w4L0TXgMFHl9vO32y3J4JWRUiEboW5sw7bvsLRGHBA0N6Znh2G8tMpKaijGJ73TiPoSVQcDTF41OD75t3LG+yMhKumZgOTYEMuvXw1foa8HDO6TlBEA9LPe7V0sCgVYcM+b1TWU/qzqaz8N1WGF7+IuXOM17xWidmpOrFCI2MCXqy3OGcw+aM0ATytRZA9IewGcExtAedqLguf9SncNJPYvKKMFmwjfS/ntzK+I6Tgq1+zLbrnYZGbQ7bvGtBCilGAE="
+     },
+     {
+      "type": "text",
+      "text": "{\"lines\":[{\"key\":\"turnover\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Group revenue\",\"figure_text\":\"295,754\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"52 weeks ended 27 September 2025\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":1,\"statement\":\"Consolidated Statement of Profit or Loss\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated Statement of Profit or Loss\"},{\"key\":\"operating_profit\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Group operating profit/(loss)\",\"figure_text\":\"15,299\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"52 weeks ended 27 September 2025\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":1,\"statement\":\"Consolidated Statement of Profit or Loss\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated Statement of Profit or Loss\"},{\"key\":\"interest_payable\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Finance costs\",\"figure_text\":\"(7,295)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"52 weeks ended 27 September 2025\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":1,\"statement\":\"Consolidated Statement of Profit or Loss\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated Statement of Profit or Loss\"},{\"key\":\"profit_before_tax\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Profit/(loss) before taxation\",\"figure_text\":\"8,262\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"52 weeks ended 27 September 2025\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":1,\"statement\":\"Consolidated Statement of Profit or Loss\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated Statement of Profit or Loss\"},{\"key\":\"depreciation_amortisation\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed-as-single-figure\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"header_scale_caption\":\"\",\"header_currency\":\"\",\"column_heading\":\"\",\"header_rows_above\":[],\"period_end\":\"\",\"excerpt_page\":0,\"statement\":\"\",\"basis\":\"none\",\"basis_text\":\"\"},{\"key\":\"cash_at_bank\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Cash and cash equivalents\",\"figure_text\":\"18,434\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2025\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":2,\"statement\":\"Consolidated Statement of Financial Position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated Statement of Financial Position\"},{\"key\":\"borrowings_after_one_year\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Bank loans\",\"figure_text\":\"(11,000)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2025\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":2,\"statement\":\"Consolidated Statement of Financial Position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated Statement of Financial Position\"},{\"key\":\"lease_liabilities_total\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"At 27 September 2025\",\"figure_text\":\"(99,792)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"Total\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":3,\"statement\":\"14 Leases\",\"basis\":\"consolidated\",\"basis_text\":\"Lease liabilities included in the Consolidated Statement of Financial Position were as follows:\"},{\"key\":\"lease_liabilities_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Lease liabilities\",\"figure_text\":\"(16,782)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2025\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":2,\"statement\":\"Consolidated Statement of Financial Position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated Statement of Financial Position\"},{\"key\":\"lease_liabilities_non_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Lease liabilities\",\"figure_text\":\"(83,010)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2025\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":2,\"statement\":\"Consolidated Statement of Financial Position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated Statement of Financial Position\"},{\"key\":\"preference_shares\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"header_scale_caption\":\"\",\"header_currency\":\"\",\"column_heading\":\"\",\"header_rows_above\":[],\"period_end\":\"\",\"excerpt_page\":0,\"statement\":\"\",\"basis\":\"none\",\"basis_text\":\"\"},{\"key\":\"shareholder_loans\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"header_scale_caption\":\"\",\"header_currency\":\"\",\"column_heading\":\"\",\"header_rows_above\":[],\"period_end\":\"\",\"excerpt_page\":0,\"statement\":\"\",\"basis\":\"none\",\"basis_text\":\"\"},{\"key\":\"net_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Net assets\",\"figure_text\":\"7,727\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2025\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":2,\"statement\":\"Consolidated Statement of Financial Position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated Statement of Financial Position\"},{\"key\":\"total_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total assets\",\"figure_text\":\"187,893\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2025\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":2,\"statement\":\"Consolidated Statement of Financial Position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated Statement of Financial Position\"},{\"key\":\"current_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Current liabilities\",\"figure_text\":\"(81,380)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2025\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":2,\"statement\":\"Consolidated Statement of Financial Position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated Statement of Financial Position\"},{\"key\":\"net_current_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Net current (liabilities)/assets\",\"figure_text\":\"(2,091)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"header_scale_caption\":\"£'000\",\"header_currency\":\"£\",\"column_heading\":\"2025\",\"header_rows_above\":[],\"period_end\":\"2025-09-27\",\"excerpt_page\":2,\"statement\":\"Consolidated Statement of Financial Position\",\"basis\":\"consolidated\",\"basis_text\":\"Consolidated Statement of Financial Position\"}],\"tie_lines\":[{\"role\":\"total_equity\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total equity\",\"figure_text\":\"7,727\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"column_heading\":\"2025\",\"period_end\":\"2025-09-27\",\"excerpt_page\":2},{\"role\":\"total_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total liabilities\",\"figure_text\":\"(180,166)\",\"sign\":\"negative\",\"scale_caption\":\"£'000\",\"column_heading\":\"2025\",\"period_end\":\"2025-09-27\",\"excerpt_page\":2},{\"role\":\"current_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Current assets\",\"figure_text\":\"79,289\",\"sign\":\"positive\",\"scale_caption\":\"£'000\",\"column_heading\":\"2025\",\"period_end\":\"2025-09-27\",\"excerpt_page\":2},{\"role\":\"borrowings_total\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"column_heading\":\"\",\"period_end\":\"\",\"excerpt_page\":0},{\"role\":\"net_debt\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"column_heading\":\"\",\"period_end\":\"\",\"excerpt_page\":0}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 8757,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 3588,
+     "output_tokens_details": {
+      "thinking_tokens": 289
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   }
+  }
+ ]
+}

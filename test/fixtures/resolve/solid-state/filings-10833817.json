@@ -1,0 +1,158 @@
+{
+ "items": [
+  {
+   "transaction_id": "MzUwOTMwNDA1M2FkaXF6a2N4",
+   "barcode": "XEXKCEZF",
+   "type": "AA",
+   "date": "2026-03-10",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-full",
+   "description_values": {
+    "made_up_date": "2025-11-30"
+   },
+   "pages": 11,
+   "action_date": "2025-11-30",
+   "links": {
+    "self": "/company/10833817/filing-history/MzUwOTMwNDA1M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/-6XvMNfRcVQIVB_DgwhwctdBUfMoZFGkm-8W3hBjf-I"
+   }
+  },
+  {
+   "transaction_id": "MzQ3NTY0MzcyNGFkaXF6a2N4",
+   "barcode": "XE7VX7EQ",
+   "type": "AA",
+   "date": "2025-07-30",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-full",
+   "description_values": {
+    "made_up_date": "2024-11-30"
+   },
+   "pages": 11,
+   "action_date": "2024-11-30",
+   "links": {
+    "self": "/company/10833817/filing-history/MzQ3NTY0MzcyNGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/uRmUIGKojI62_uZyIpK6dEiCDq3DmaNw1EzN5ZY7ccU"
+   }
+  },
+  {
+   "transaction_id": "MzQyMjk3OTQ4MWFkaXF6a2N4",
+   "barcode": "XD3PNIAY",
+   "type": "AA",
+   "date": "2024-05-23",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-full",
+   "description_values": {
+    "made_up_date": "2023-11-30"
+   },
+   "pages": 11,
+   "action_date": "2023-11-30",
+   "links": {
+    "self": "/company/10833817/filing-history/MzQyMjk3OTQ4MWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ne0S0U7jwoJ9dsiwT2NHAaW7nrN6W-HluuDillO5lqE"
+   }
+  },
+  {
+   "transaction_id": "MzM3NDA3Njc4MGFkaXF6a2N4",
+   "barcode": "XC061NI3",
+   "type": "AA",
+   "date": "2023-03-27",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-full",
+   "description_values": {
+    "made_up_date": "2022-11-30"
+   },
+   "pages": 12,
+   "action_date": "2022-11-30",
+   "links": {
+    "self": "/company/10833817/filing-history/MzM3NDA3Njc4MGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/4R6ozXV94J9sxmF1dAK8cjmd-0E98u4GJddytW-LZRU"
+   }
+  },
+  {
+   "transaction_id": "MzM0NTI0NDI1NWFkaXF6a2N4",
+   "barcode": "XB7ZZT0R",
+   "type": "AA",
+   "date": "2022-07-11",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-full",
+   "description_values": {
+    "made_up_date": "2021-11-30"
+   },
+   "pages": 10,
+   "action_date": "2021-11-30",
+   "links": {
+    "self": "/company/10833817/filing-history/MzM0NTI0NDI1NWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/wz65drQ5GkMUZuteSlfBZv-MZnLb-9cOsfmxLykEnkw"
+   }
+  },
+  {
+   "transaction_id": "MzMwMzc2OTIzMGFkaXF6a2N4",
+   "barcode": "XA68N4JN",
+   "type": "AA",
+   "date": "2021-06-08",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-full",
+   "description_values": {
+    "made_up_date": "2020-11-30"
+   },
+   "pages": 11,
+   "action_date": "2020-11-30",
+   "links": {
+    "self": "/company/10833817/filing-history/MzMwMzc2OTIzMGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/VAB1ETguu3f7XDc4qASlKt-mvwJvY5ct-R4gfdO9PGg"
+   }
+  },
+  {
+   "transaction_id": "MzI3ODc0MjcxMWFkaXF6a2N4",
+   "barcode": "X9EBLWFF",
+   "type": "AA",
+   "date": "2020-09-25",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-full",
+   "description_values": {
+    "made_up_date": "2019-11-30"
+   },
+   "pages": 10,
+   "action_date": "2019-11-30",
+   "links": {
+    "self": "/company/10833817/filing-history/MzI3ODc0MjcxMWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/1L8N81Z9SEJ3FN6sH9vJk_0kRvvlXUdW5mhYuPIII1I"
+   }
+  },
+  {
+   "transaction_id": "MzIyOTY2MzE2OWFkaXF6a2N4",
+   "barcode": "X81JWP8O",
+   "type": "AA",
+   "date": "2019-03-19",
+   "category": "accounts",
+   "description": "accounts-with-accounts-type-total-exemption-full",
+   "description_values": {
+    "made_up_date": "2018-11-30"
+   },
+   "pages": 6,
+   "action_date": "2018-11-30",
+   "links": {
+    "self": "/company/10833817/filing-history/MzIyOTY2MzE2OWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/trlhPvZOXHclLbjfen7h8hViANnxVqn_u3KD8u9hq4Y"
+   }
+  },
+  {
+   "transaction_id": "MzIyNjI2MTA0NWFkaXF6a2N4",
+   "barcode": "X7YOHQ0I",
+   "type": "AA01",
+   "date": "2019-02-05",
+   "category": "accounts",
+   "description": "change-account-reference-date-company-previous-extended",
+   "description_values": {
+    "made_up_date": "2018-06-30",
+    "new_date": "2018-11-30"
+   },
+   "pages": 1,
+   "action_date": "2018-11-30",
+   "links": {
+    "self": "/company/10833817/filing-history/MzIyNjI2MTA0NWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/tlaNyAVBjYO6NDyF4aM5h9avBYmcUBAAXOUtU6V0aS0"
+   }
+  }
+ ]
+}

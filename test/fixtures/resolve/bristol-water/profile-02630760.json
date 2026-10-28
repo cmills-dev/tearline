@@ -1,0 +1,65 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "03"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-03-31",
+   "period_end_on": "2025-03-31",
+   "period_start_on": "2024-04-01",
+   "type": "audit-exemption-subsidiary"
+  },
+  "next_accounts": {
+   "due_on": "2026-12-31",
+   "overdue": false,
+   "period_end_on": "2026-03-31",
+   "period_start_on": "2025-04-01"
+  },
+  "next_due": "2026-12-31",
+  "next_made_up_to": "2026-03-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "BRISTOL WATER HOLDINGS LIMITED",
+ "company_number": "02630760",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-07-21",
+  "next_due": "2027-08-04",
+  "next_made_up_to": "2027-07-21",
+  "overdue": false
+ },
+ "date_of_creation": "1991-07-19",
+ "etag": "09769e92a02f831fee40baf238837eb355c8313f",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-07-19",
+ "links": {
+  "persons_with_significant_control": "/company/02630760/persons-with-significant-control",
+  "self": "/company/02630760",
+  "filing_history": "/company/02630760/filing-history",
+  "officers": "/company/02630760/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2006-02-09",
+   "effective_from": "1991-07-19",
+   "name": "BRISTOL WATER HOLDINGS PLC"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_2": "Bridgwater Road",
+  "locality": "Bristol",
+  "postal_code": "BS13 7AT"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "64209"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

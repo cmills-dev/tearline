@@ -1,0 +1,59 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "05"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-05-31",
+   "period_end_on": "2025-05-31",
+   "period_start_on": "2024-06-01",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2027-02-28",
+   "overdue": false,
+   "period_end_on": "2026-05-31",
+   "period_start_on": "2025-06-01"
+  },
+  "next_due": "2027-02-28",
+  "next_made_up_to": "2026-05-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "SOLID STATE DISKS HOLDINGS LIMITED",
+ "company_number": "12023656",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-05-29",
+  "next_due": "2027-06-12",
+  "next_made_up_to": "2027-05-29",
+  "overdue": false
+ },
+ "date_of_creation": "2019-05-30",
+ "etag": "e96e260a49c73de4117108adeab2c898221ce81e",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/12023656/persons-with-significant-control",
+  "self": "/company/12023656",
+  "filing_history": "/company/12023656/filing-history",
+  "officers": "/company/12023656/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "3 Richfield Place",
+  "address_line_2": "Richfield Avenue",
+  "country": "England",
+  "locality": "Reading",
+  "postal_code": "RG1 8EQ",
+  "region": "Berkshire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "99999"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

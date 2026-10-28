@@ -1,0 +1,282 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1996-06-19",
+   "company_type": "plc",
+   "company_number": "03213782",
+   "address": {
+    "address_line_1": "Grove Park",
+    "locality": "Enderby",
+    "postal_code": "LE19 1SU",
+    "premises": "Topps Tiles Thorpe Way",
+    "region": "Leicestershire"
+   },
+   "title": "TOPPS TILES PLC",
+   "address_snippet": "Topps Tiles Thorpe Way, Grove Park, Enderby, Leicestershire, LE19 1SU",
+   "description": "03213782 - Incorporated on 19 June 1996",
+   "links": {
+    "self": "/company/03213782"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2004-09-20",
+   "company_type": "ltd",
+   "company_number": "05236219",
+   "address": {
+    "address_line_1": "Grove Park",
+    "locality": "Enderby",
+    "postal_code": "LE19 1SU",
+    "premises": "Topps Tiles Thorpe Way",
+    "region": "Leicestershire"
+   },
+   "title": "TOPPS TILES DISTRIBUTION LIMITED",
+   "address_snippet": "Topps Tiles Thorpe Way, Grove Park, Enderby, Leicestershire, LE19 1SU",
+   "description": "05236219 - Incorporated on 20 September 2004",
+   "links": {
+    "self": "/company/05236219"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2006-06-08",
+   "company_type": "ltd",
+   "company_number": "05840669",
+   "address": {
+    "address_line_1": "Grove Park",
+    "locality": "Enderby",
+    "postal_code": "LE19 1SU",
+    "premises": "Topps Tiles Thorpe Way",
+    "region": "Leicestershire"
+   },
+   "title": "TOPPS TILES HOLDINGS LIMITED",
+   "address_snippet": "Topps Tiles Thorpe Way, Grove Park, Enderby, Leicestershire, LE19 1SU",
+   "description": "05840669 - Incorporated on 8 June 2006",
+   "links": {
+    "self": "/company/05840669"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2004-09-20",
+   "company_type": "ltd",
+   "company_number": "05235969",
+   "address": {
+    "address_line_1": "Grove Park",
+    "locality": "Enderby",
+    "postal_code": "LE19 1SU",
+    "premises": "Topps Tiles Thorpe Way",
+    "region": "Leicestershire"
+   },
+   "title": "TOPPS TILES IP COMPANY LIMITED",
+   "address_snippet": "Topps Tiles Thorpe Way, Grove Park, Enderby, Leicestershire, LE19 1SU",
+   "description": "05235969 - Incorporated on 20 September 2004",
+   "links": {
+    "self": "/company/05235969"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2003-05-29",
+   "company_type": "ltd",
+   "company_number": "04781209",
+   "address": {
+    "address_line_1": "Grove Park",
+    "locality": "Enderby",
+    "postal_code": "LE19 1SU",
+    "premises": "Topps Tiles Thorpe Way",
+    "region": "Leicestershire"
+   },
+   "title": "TOPPS TILES (UK) LIMITED",
+   "address_snippet": "Topps Tiles Thorpe Way, Grove Park, Enderby, Leicestershire, LE19 1SU",
+   "description": "04781209 - Incorporated on 29 May 2003",
+   "links": {
+    "self": "/company/04781209"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "1998-06-23",
+   "date_of_cessation": "2016-06-07",
+   "company_type": "ltd",
+   "company_number": "03589294",
+   "address": {
+    "address_line_1": "Grove Park",
+    "locality": "Enderby",
+    "postal_code": "LE19 1SU",
+    "premises": "Topps Tiles Thorpe Way",
+    "region": "Leicestershire"
+   },
+   "title": "TOPPS TILES QUEST TRUSTEE LIMITED",
+   "address_snippet": "Topps Tiles Thorpe Way, Grove Park, Enderby, Leicestershire, LE19 1SU",
+   "description": "03589294 - Dissolved on 7 June 2016",
+   "links": {
+    "self": "/company/03589294"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2012-03-12",
+   "company_type": "ltd",
+   "company_number": "07986925",
+   "address": {
+    "address_line_1": "Blatchford Close",
+    "country": "England",
+    "locality": "Horsham",
+    "postal_code": "RH13 5RG",
+    "premises": "12",
+    "region": "West Sussex"
+   },
+   "title": "SIMPLY TOPPS LTD",
+   "address_snippet": "12 Blatchford Close, Horsham, West Sussex, England, RH13 5RG",
+   "description": "07986925 - Incorporated on 12 March 2012",
+   "links": {
+    "self": "/company/07986925"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2025-04-14",
+   "company_type": "ltd",
+   "company_number": "16385531",
+   "address": {
+    "address_line_1": "Wards Road",
+    "country": "United Kingdom",
+    "locality": "Ilford",
+    "postal_code": "IG2 7DY",
+    "premises": "220"
+   },
+   "title": "TOPPS BUILDING CONTRACTORS LIMITED",
+   "address_snippet": "220 Wards Road, Ilford, United Kingdom, IG2 7DY",
+   "description": "16385531 - Incorporated on 14 April 2025",
+   "links": {
+    "self": "/company/16385531"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2023-05-24",
+   "company_type": "ltd",
+   "company_number": "14892563",
+   "address": {
+    "address_line_1": "Wallis Avenue",
+    "address_line_2": "Shortstown",
+    "country": "England",
+    "locality": "Bedford",
+    "postal_code": "MK42 0ZS",
+    "premises": "34"
+   },
+   "title": "TOPPS BUSINESS DEVELOPMENT LTD",
+   "address_snippet": "34 Wallis Avenue, Shortstown, Bedford, England, MK42 0ZS",
+   "description": "14892563 - Incorporated on 24 May 2023",
+   "links": {
+    "self": "/company/14892563"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2025-02-02",
+   "company_type": "ltd",
+   "company_number": "16223523",
+   "address": {
+    "address_line_1": "Oakbank Avenue",
+    "country": "England",
+    "locality": "Walton-On-Thames",
+    "postal_code": "KT12 3QZ",
+    "premises": "37"
+   },
+   "title": "TOPPS COLLECTIBLES LTD",
+   "address_snippet": "37 Oakbank Avenue, Walton-On-Thames, England, KT12 3QZ",
+   "description": "16223523 - Incorporated on 2 February 2025",
+   "links": {
+    "self": "/company/16223523"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 2222,
+ "start_index": 0
+}

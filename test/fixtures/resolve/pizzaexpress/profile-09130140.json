@@ -1,0 +1,70 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2024-12-29",
+   "period_end_on": "2024-12-29",
+   "period_start_on": "2024-01-01",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2026-12-30",
+   "overdue": false,
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2024-12-30"
+  },
+  "next_due": "2026-12-30",
+  "next_made_up_to": "2025-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "PIZZAEXPRESS GROUP LIMITED",
+ "company_number": "09130140",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-12-14",
+  "next_due": "2026-12-28",
+  "next_made_up_to": "2026-12-14",
+  "overdue": false
+ },
+ "date_of_creation": "2014-07-14",
+ "etag": "2d685e8e2b831d37e27ae24f1759a81020e3675f",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-07-14",
+ "links": {
+  "persons_with_significant_control": "/company/09130140/persons-with-significant-control",
+  "persons_with_significant_control_statements": "/company/09130140/persons-with-significant-control-statements",
+  "self": "/company/09130140",
+  "charges": "/company/09130140/charges",
+  "filing_history": "/company/09130140/filing-history",
+  "officers": "/company/09130140/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2014-10-06",
+   "effective_from": "2014-07-14",
+   "name": "TWINKLE PIZZA HOLDING CO LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Building 01 Arc Uxbridge",
+  "address_line_2": "Sanderson Road",
+  "country": "United Kingdom",
+  "locality": "Uxbridge",
+  "postal_code": "UB8 1DH",
+  "region": "Middlesex"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "70100"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

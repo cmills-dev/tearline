@@ -1,0 +1,292 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2015-04-27",
+   "company_type": "ltd",
+   "company_number": "09563205",
+   "address": {
+    "address_line_1": "William Prance Road",
+    "country": "England",
+    "locality": "Plymouth",
+    "postal_code": "PL6 5ZD",
+    "premises": "15"
+   },
+   "title": "WILKO LIMITED",
+   "address_snippet": "15 William Prance Road, Plymouth, England, PL6 5ZD",
+   "description": "09563205 - Incorporated on 27 April 2015",
+   "links": {
+    "self": "/company/09563205"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on",
+    "liquidation"
+   ],
+   "company_status": "liquidation",
+   "date_of_creation": "1941-02-13",
+   "company_type": "ltd",
+   "company_number": "00365335",
+   "address": {
+    "address_line_1": "Floor, Central Square",
+    "address_line_2": "29 Wellington Street",
+    "locality": "Leeds",
+    "postal_code": "LS1 4DL",
+    "premises": "8th",
+    "region": "West Yorkshire"
+   },
+   "title": "WL REALISATIONS (2023) LIMITED",
+   "address_snippet": "8th Floor, Central Square, 29 Wellington Street, Leeds, West Yorkshire, LS1 4DL",
+   "description": "00365335 - Incorporated on 13 February 1941 - Liquidation",
+   "links": {
+    "self": "/company/00365335"
+   },
+   "snippet": "WILKO LIMITED · WILKO RETAIL LIMITED",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2017-12-21",
+   "date_of_cessation": "2024-11-05",
+   "company_type": "ltd",
+   "company_number": "11121294",
+   "address": {
+    "address_line_1": "Manton Wood",
+    "country": "United Kingdom",
+    "locality": "Worksop",
+    "postal_code": "S80 3EG",
+    "premises": "Jk House Roebuck Way",
+    "region": "Nottinghamshire"
+   },
+   "title": "WILKO RETAIL LIMITED",
+   "address_snippet": "Jk House Roebuck Way, Manton Wood, Worksop, Nottinghamshire, United Kingdom, S80 3EG",
+   "description": "11121294 - Dissolved on 5 November 2024",
+   "links": {
+    "self": "/company/11121294"
+   },
+   "snippet": "WILKO",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2015-12-15",
+   "date_of_cessation": "2021-11-16",
+   "company_type": "ltd",
+   "company_number": "09917442",
+   "address": {
+    "address_line_1": "Fowlers Hill",
+    "address_line_2": "Quenington",
+    "country": "England",
+    "locality": "Cirencester",
+    "postal_code": "GL7 5DA",
+    "premises": "6",
+    "region": "Gloucestershire"
+   },
+   "title": "THE LAST 10% LTD",
+   "address_snippet": "6 Fowlers Hill, Quenington, Cirencester, Gloucestershire, England, GL7 5DA",
+   "description": "09917442 - Dissolved on 16 November 2021",
+   "links": {
+    "self": "/company/09917442"
+   },
+   "snippet": "WILKO",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2007-12-18",
+   "date_of_cessation": "2015-08-04",
+   "company_type": "ltd",
+   "company_number": "06456335",
+   "address": {
+    "address_line_1": "Poulton Close",
+    "address_line_2": "1st Floor",
+    "locality": "Dover",
+    "postal_code": "CT17 0HL",
+    "premises": "1",
+    "region": "Kent"
+   },
+   "title": "WILKO LTD",
+   "address_snippet": "1 Poulton Close, 1st Floor, Dover, Kent, CT17 0HL",
+   "description": "06456335 - Dissolved on 4 August 2015",
+   "links": {
+    "self": "/company/06456335"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2023-04-16",
+   "date_of_cessation": "2025-09-16",
+   "company_type": "ltd",
+   "company_number": "14806459",
+   "address": {
+    "address_line_1": "Canterbury Mews",
+    "address_line_2": "Donington",
+    "country": "England",
+    "locality": "Spalding",
+    "postal_code": "PE11 4UL",
+    "premises": "22"
+   },
+   "title": "WILKO AUTOMOTIVE LIMITED",
+   "address_snippet": "22 Canterbury Mews, Donington, Spalding, England, PE11 4UL",
+   "description": "14806459 - Dissolved on 16 September 2025",
+   "links": {
+    "self": "/company/14806459"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "2024-10-31",
+   "date_of_cessation": "2026-04-07",
+   "company_type": "ltd",
+   "company_number": "16052142",
+   "address": {
+    "address_line_1": "Rossefield Drive",
+    "country": "England",
+    "locality": "Leeds",
+    "postal_code": "LS13 3RP",
+    "premises": "58"
+   },
+   "title": "WILKO CLEANS LIMITED",
+   "address_snippet": "58 Rossefield Drive, Leeds, England, LS13 3RP",
+   "description": "16052142 - Dissolved on 7 April 2026",
+   "links": {
+    "self": "/company/16052142"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2026-08-04",
+   "company_type": "ltd",
+   "company_number": "17380993",
+   "address": {
+    "address_line_1": "Lambton Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW20 0LW",
+    "premises": "57"
+   },
+   "title": "WILKO CONSULTING LTD",
+   "address_snippet": "57 Lambton Road, London, England, SW20 0LW",
+   "description": "17380993 - Incorporated on 4 August 2026",
+   "links": {
+    "self": "/company/17380993"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2025-06-27",
+   "company_type": "ltd",
+   "company_number": "16546564",
+   "address": {
+    "address_line_1": "Chorley Hall Lane",
+    "country": "England",
+    "locality": "Alderley Edge",
+    "postal_code": "SK9 7UL",
+    "premises": "The Oaks"
+   },
+   "title": "WILKO CORP LTD",
+   "address_snippet": "The Oaks, Chorley Hall Lane, Alderley Edge, England, SK9 7UL",
+   "description": "16546564 - Incorporated on 27 June 2025",
+   "links": {
+    "self": "/company/16546564"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on",
+    "liquidation"
+   ],
+   "company_status": "liquidation",
+   "date_of_creation": "1985-03-18",
+   "company_type": "ltd",
+   "company_number": "01896324",
+   "address": {
+    "address_line_1": "Goodall Street",
+    "address_line_2": "Walsall",
+    "locality": "West Midlands",
+    "postal_code": "WS1 1QL",
+    "premises": "26/28"
+   },
+   "title": "WILKO ENGINEERING CO. (BIRMINGHAM) LIMITED",
+   "address_snippet": "26/28 Goodall Street, Walsall, West Midlands, WS1 1QL",
+   "description": "01896324 - Incorporated on 18 March 1985 - Liquidation",
+   "links": {
+    "self": "/company/01896324"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 112,
+ "start_index": 0
+}

@@ -1,0 +1,59 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "04"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-04-30",
+   "period_end_on": "2025-04-30",
+   "period_start_on": "2024-05-01",
+   "type": "total-exemption-full"
+  },
+  "next_accounts": {
+   "due_on": "2027-01-31",
+   "overdue": false,
+   "period_end_on": "2026-04-30",
+   "period_start_on": "2025-05-01"
+  },
+  "next_due": "2027-01-31",
+  "next_made_up_to": "2026-04-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "IRWIN MITCHELL CHARITIES FOUNDATION",
+ "company_number": "08031469",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-04-16",
+  "next_due": "2027-04-30",
+  "next_made_up_to": "2027-04-16",
+  "overdue": false
+ },
+ "date_of_creation": "2012-04-16",
+ "etag": "d1d78b632644889c9e63776f71874f931ef0396c",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control_statements": "/company/08031469/persons-with-significant-control-statements",
+  "self": "/company/08031469",
+  "filing_history": "/company/08031469/filing-history",
+  "officers": "/company/08031469/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "Riverside East 2",
+  "address_line_2": "Millsands",
+  "locality": "Sheffield",
+  "postal_code": "S3 8DT",
+  "region": "South Yorkshire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "82990"
+ ],
+ "type": "private-limited-guarant-nsc-limited-exemption",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

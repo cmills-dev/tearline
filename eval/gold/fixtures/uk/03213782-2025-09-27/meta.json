@@ -1,0 +1,26 @@
+{
+  "companyNumber": "03213782",
+  "companyName": "TOPPS TILES PLC",
+  "transactionId": "MzUwNzM2NzQwNGFkaXF6a2N4",
+  "filingType": "AA",
+  "filedOn": "2026-03-02",
+  "madeUpDate": "2025-09-27",
+  "accountsType": "group",
+  "pageCount": 226,
+  "chPages": 226,
+  "file": "filing.pdf",
+  "format": "pdf",
+  "resourcesOffered": [
+    "application/pdf"
+  ],
+  "bytes": 13838863,
+  "sha256": "92b09e9246cf9d8d18be0f7a1d55b0ac63140d06ff2ae6b27579cda0bca01760",
+  "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/APezHurYZDa6WKo831hNjBnQ6l9ue9HAqbrBehdIuX0",
+  "filingHistoryUrl": "https://api.company-information.service.gov.uk/company/03213782/filing-history/MzUwNzM2NzQwNGFkaXF6a2N4",
+  "publicRecordUrl": "https://find-and-update.company-information.service.gov.uk/company/03213782/filing-history",
+  "textLayerChars": 2,
+  "bytesCommitted": true,
+  "kind": "large-group",
+  "notes": "Group accounts scan over 200 pages. IFRS 16 lease case.",
+  "frozenOn": "2026-09-15"
+}

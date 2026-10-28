@@ -1,0 +1,73 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "04"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-04-30",
+   "period_end_on": "2025-04-30",
+   "period_start_on": "2024-05-01",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2027-01-31",
+   "overdue": false,
+   "period_end_on": "2026-04-30",
+   "period_start_on": "2025-05-01"
+  },
+  "next_due": "2027-01-31",
+  "next_made_up_to": "2026-04-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "IRWIN MITCHELL SECRETARIES LIMITED",
+ "company_number": "02880282",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-12-04",
+  "next_due": "2026-12-18",
+  "next_made_up_to": "2026-12-04",
+  "overdue": false
+ },
+ "date_of_creation": "1993-12-14",
+ "etag": "f326263dfbd26b764a85503359f94c2e7cf8e46f",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-12-04",
+ "links": {
+  "persons_with_significant_control": "/company/02880282/persons-with-significant-control",
+  "self": "/company/02880282",
+  "filing_history": "/company/02880282/filing-history",
+  "officers": "/company/02880282/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2016-08-16",
+   "effective_from": "2002-04-03",
+   "name": "THOMAS EGGAR SECRETARIES LIMITED"
+  },
+  {
+   "ceased_on": "2002-04-03",
+   "effective_from": "1993-12-14",
+   "name": "TEVB SECRETARIES LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Riverside East",
+  "address_line_2": "2 Millsands",
+  "country": "United Kingdom",
+  "locality": "Sheffield",
+  "postal_code": "S3 8DT",
+  "region": "South Yorkshire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "74990"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

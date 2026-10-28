@@ -1,0 +1,26 @@
+{
+  "companyNumber": "02103564",
+  "companyName": "MATALAN RETAIL LTD.",
+  "transactionId": "MzUzNzUwNjA4OGFkaXF6a2N4",
+  "filingType": "AA",
+  "filedOn": "2026-08-10",
+  "madeUpDate": "2026-02-28",
+  "accountsType": "full",
+  "pageCount": 86,
+  "chPages": 86,
+  "file": "filing.pdf",
+  "format": "pdf",
+  "resourcesOffered": [
+    "application/pdf"
+  ],
+  "bytes": 4297205,
+  "sha256": "021aafc631f5dadaf9eb03b6b97cf2996f4247b9e4a9873e96a0a1e7df8b7c0b",
+  "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/6rkhIaBpiHhaTJqNGdDxXuQovIbT8Ez7G_-_IJQKJqs",
+  "filingHistoryUrl": "https://api.company-information.service.gov.uk/company/02103564/filing-history/MzUzNzUwNjA4OGFkaXF6a2N4",
+  "publicRecordUrl": "https://find-and-update.company-information.service.gov.uk/company/02103564/filing-history",
+  "textLayerChars": 2,
+  "bytesCommitted": true,
+  "kind": "scan-full",
+  "notes": "Full accounts scan, 86 pages.",
+  "frozenOn": "2026-09-15"
+}

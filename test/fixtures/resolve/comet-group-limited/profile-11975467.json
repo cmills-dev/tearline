@@ -1,0 +1,41 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "05"
+  },
+  "last_accounts": {
+   "type": "null"
+  }
+ },
+ "can_file": false,
+ "company_name": "COMET INTERNATIONAL GROUP LTD",
+ "company_number": "11975467",
+ "company_status": "dissolved",
+ "date_of_cessation": "2021-01-26",
+ "date_of_creation": "2019-05-02",
+ "etag": "2fe89ee01ecda888175d6727dda6f7deec684963",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/11975467/persons-with-significant-control",
+  "self": "/company/11975467",
+  "filing_history": "/company/11975467/filing-history",
+  "officers": "/company/11975467/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "Craig Ho Yin Au Yeung Kemp House",
+  "address_line_2": "152-160 City Rd",
+  "country": "England",
+  "locality": "London",
+  "postal_code": "EC1V 2NX"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "56101"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

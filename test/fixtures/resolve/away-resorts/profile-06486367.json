@@ -1,0 +1,61 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2024-12-31",
+   "period_end_on": "2024-12-31",
+   "period_start_on": "2024-01-01",
+   "type": "audit-exemption-subsidiary"
+  },
+  "next_accounts": {
+   "due_on": "2026-09-30",
+   "overdue": false,
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2025-01-01"
+  },
+  "next_due": "2026-09-30",
+  "next_made_up_to": "2025-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "AWAY RESORTS HOLDINGS LIMITED",
+ "company_number": "06486367",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-09-22",
+  "next_due": "2026-10-06",
+  "next_made_up_to": "2026-09-22",
+  "overdue": false
+ },
+ "date_of_creation": "2008-01-28",
+ "etag": "f549d0a407c4b129698d69f5e4d4eed3c0df1cfd",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-01-28",
+ "links": {
+  "persons_with_significant_control": "/company/06486367/persons-with-significant-control",
+  "self": "/company/06486367",
+  "charges": "/company/06486367/charges",
+  "filing_history": "/company/06486367/filing-history",
+  "officers": "/company/06486367/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "The Maylands Building",
+  "address_line_2": "200 Maylands Avenue",
+  "country": "England",
+  "locality": "Hemel Hempstead",
+  "postal_code": "HP2 7TG"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "55201"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

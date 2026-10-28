@@ -1,0 +1,280 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2000-12-21",
+   "company_type": "ltd",
+   "company_number": "04129005",
+   "address": {
+    "address_line_1": "Neal Street",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "WC2H 9QL",
+    "premises": "9-15"
+   },
+   "title": "ITALIAN COFFEE HOLDINGS LTD",
+   "address_snippet": "9-15 Neal Street, London, England, WC2H 9QL",
+   "description": "04129005 - Incorporated on 21 December 2000",
+   "links": {
+    "self": "/company/04129005"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2025-06-17",
+   "company_type": "ltd",
+   "company_number": "16524200",
+   "address": {
+    "address_line_1": "Team Valley Trading Estate",
+    "country": "England",
+    "locality": "Gateshead",
+    "postal_code": "NE11 0JQ",
+    "premises": "A6 Kingfisher House Kingsway"
+   },
+   "title": "BONI ITALIAN COFFEE BAKERY LIMITED",
+   "address_snippet": "A6 Kingfisher House Kingsway, Team Valley Trading Estate, Gateshead, England, NE11 0JQ",
+   "description": "16524200 - Incorporated on 17 June 2025",
+   "links": {
+    "self": "/company/16524200"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1992-07-21",
+   "company_type": "ltd",
+   "company_number": "SC139395",
+   "address": {
+    "address_line_1": "Alpha Centre South Douglas Street",
+    "address_line_2": "Clydebank",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G81 1PD",
+    "premises": "Unit 8,"
+   },
+   "title": "ITALIAN AROMA COFFEE LIMITED",
+   "address_snippet": "Unit 8, Alpha Centre South Douglas Street, Clydebank, Glasgow, Scotland, G81 1PD",
+   "description": "SC139395 - Incorporated on 21 July 1992",
+   "links": {
+    "self": "/company/SC139395"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2025-09-25",
+   "company_type": "ltd",
+   "company_number": "SC864196",
+   "address": {
+    "address_line_1": "Alpha Centre",
+    "address_line_2": "10 South Douglas Street",
+    "country": "Scotland",
+    "locality": "Clydebank",
+    "postal_code": "G81 1PD",
+    "premises": "Unit 8"
+   },
+   "title": "ITALIAN AROMA COFFEE LONDON LTD",
+   "address_snippet": "Unit 8 Alpha Centre, 10 South Douglas Street, Clydebank, Scotland, G81 1PD",
+   "description": "SC864196 - Incorporated on 25 September 2025",
+   "links": {
+    "self": "/company/SC864196"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2024-10-28",
+   "company_type": "ltd",
+   "company_number": "16044694",
+   "address": {
+    "address_line_1": "St. Stephens Road",
+    "country": "England",
+    "locality": "Leicester",
+    "postal_code": "LE2 1GG",
+    "premises": "34"
+   },
+   "title": "ITALIAN COFFEE BAR HIGHFIELD LIMITED",
+   "address_snippet": "34 St. Stephens Road, Leicester, England, LE2 1GG",
+   "description": "16044694 - Incorporated on 28 October 2024",
+   "links": {
+    "self": "/company/16044694"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2024-04-12",
+   "company_type": "ltd",
+   "company_number": "15639852",
+   "address": {
+    "address_line_1": "Westbury On Trym",
+    "country": "England",
+    "locality": "Bristol",
+    "postal_code": "BS9 3BY",
+    "premises": "The Bristol Office, 2nd Floor 5 High Street"
+   },
+   "title": "THE ITALIAN COFFEE GUY LTD",
+   "address_snippet": "The Bristol Office, 2nd Floor 5 High Street, Westbury On Trym, Bristol, England, BS9 3BY",
+   "description": "15639852 - Incorporated on 12 April 2024",
+   "links": {
+    "self": "/company/15639852"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2024-03-11",
+   "company_type": "ltd",
+   "company_number": "15553810",
+   "address": {
+    "address_line_1": "Armentieres Square",
+    "country": "England",
+    "locality": "Stalybridge",
+    "postal_code": "SK15 2BR",
+    "premises": "12"
+   },
+   "title": "ITALIAN COFFEE LAND LTD",
+   "address_snippet": "12 Armentieres Square, Stalybridge, England, SK15 2BR",
+   "description": "15553810 - Incorporated on 11 March 2024",
+   "links": {
+    "self": "/company/15553810"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2025-10-14",
+   "company_type": "ltd",
+   "company_number": "16784403",
+   "address": {
+    "address_line_1": "2 Albert Place",
+    "locality": "London",
+    "postal_code": "N3 1QB",
+    "premises": "Kingsley Maybrook Unitec House"
+   },
+   "title": "ITALIAN COFFEE MANAGEMENT SERVICES LIMITED",
+   "address_snippet": "Kingsley Maybrook Unitec House, 2 Albert Place, London, N3 1QB",
+   "description": "16784403 - Incorporated on 14 October 2025",
+   "links": {
+    "self": "/company/16784403"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2021-03-08",
+   "company_type": "ltd",
+   "company_number": "13250251",
+   "address": {
+    "address_line_1": "Duncan Way",
+    "country": "England",
+    "locality": "Bushey",
+    "postal_code": "WD23 2BQ",
+    "premises": "10"
+   },
+   "title": "ITALIAN COFFEE PIZZERIA LTD",
+   "address_snippet": "10 Duncan Way, Bushey, England, WD23 2BQ",
+   "description": "13250251 - Incorporated on 8 March 2021",
+   "links": {
+    "self": "/company/13250251"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2018-01-09",
+   "company_type": "ltd",
+   "company_number": "11139797",
+   "address": {
+    "address_line_1": "Union Street",
+    "country": "England",
+    "locality": "Dunstable",
+    "postal_code": "LU6 1EX",
+    "premises": "59"
+   },
+   "title": "ITALIAN COFFEE SHOP LIMITED",
+   "address_snippet": "59 Union Street, Dunstable, England, LU6 1EX",
+   "description": "11139797 - Incorporated on 9 January 2018",
+   "links": {
+    "self": "/company/11139797"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 10000,
+ "start_index": 0
+}

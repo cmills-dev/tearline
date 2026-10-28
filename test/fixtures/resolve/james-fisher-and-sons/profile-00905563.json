@@ -1,0 +1,52 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2017-12-31",
+   "period_end_on": "2017-12-31",
+   "type": "dormant"
+  }
+ },
+ "can_file": false,
+ "company_name": "JAMES FISHER AND SONS (SEAFLOOR DYNAMEX) LIMITED",
+ "company_number": "00905563",
+ "company_status": "dissolved",
+ "date_of_cessation": "2019-02-05",
+ "date_of_creation": "1967-05-08",
+ "etag": "47b3a87c254db4a13fcd24f1ffef1830a9817fa8",
+ "has_been_liquidated": false,
+ "has_charges": true,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-04-02",
+ "links": {
+  "persons_with_significant_control": "/company/00905563/persons-with-significant-control",
+  "self": "/company/00905563",
+  "charges": "/company/00905563/charges",
+  "filing_history": "/company/00905563/filing-history",
+  "officers": "/company/00905563/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "1996-01-17",
+   "effective_from": "1967-05-08",
+   "name": "FISHER AND DUFOREST (SHIPPING) LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Fisher House",
+  "address_line_2": "PO BOX 4 Barrow In Furness",
+  "locality": "Cumbria",
+  "postal_code": "LA14 1HR"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "32990",
+  "77390"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false
+}

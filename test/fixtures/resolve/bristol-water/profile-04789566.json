@@ -1,0 +1,86 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "03"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-03-31",
+   "period_end_on": "2025-03-31",
+   "period_start_on": "2024-04-01",
+   "type": "audit-exemption-subsidiary"
+  },
+  "next_accounts": {
+   "due_on": "2026-12-31",
+   "overdue": false,
+   "period_end_on": "2026-03-31",
+   "period_start_on": "2025-04-01"
+  },
+  "next_due": "2026-12-31",
+  "next_made_up_to": "2026-03-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "BRISTOL WATER HOLDINGS UK LIMITED",
+ "company_number": "04789566",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-06-12",
+  "next_due": "2027-06-26",
+  "next_made_up_to": "2027-06-12",
+  "overdue": false
+ },
+ "date_of_creation": "2003-06-05",
+ "etag": "9da52fddf5ec32adda06b111921b88bb3ce3b271",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-06-05",
+ "links": {
+  "persons_with_significant_control": "/company/04789566/persons-with-significant-control",
+  "self": "/company/04789566",
+  "filing_history": "/company/04789566/filing-history",
+  "officers": "/company/04789566/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2011-10-19",
+   "effective_from": "2009-09-01",
+   "name": "AGBAR UK LIMITED"
+  },
+  {
+   "ceased_on": "2009-09-01",
+   "effective_from": "2006-10-03",
+   "name": "BRISTOL WATER GROUP LIMITED"
+  },
+  {
+   "ceased_on": "2006-10-03",
+   "effective_from": "2003-09-12",
+   "name": "BRISTOL WATER GROUP PLC"
+  },
+  {
+   "ceased_on": "2003-09-12",
+   "effective_from": "2003-08-14",
+   "name": "BRISTOL WATER GROUP LIMITED"
+  },
+  {
+   "ceased_on": "2003-08-14",
+   "effective_from": "2003-06-05",
+   "name": "PRECIS (2353) LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Bristol Water Holdings Uk Ltd",
+  "address_line_2": "Bridgwater Road",
+  "locality": "Bristol",
+  "postal_code": "BS13 7AT"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "64209"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

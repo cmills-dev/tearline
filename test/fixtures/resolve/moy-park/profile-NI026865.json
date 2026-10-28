@@ -1,0 +1,49 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2017-12-31",
+   "period_end_on": "2017-12-31"
+  }
+ },
+ "can_file": false,
+ "company_name": "MOY PARK HOLDINGS LIMITED",
+ "company_number": "NI026865",
+ "company_status": "dissolved",
+ "date_of_cessation": "2018-07-17",
+ "date_of_creation": "1992-09-11",
+ "etag": "54a926599c309804f92b697528ea8b90bc51d15c",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "northern-ireland",
+ "last_full_members_list_date": "2015-09-11",
+ "links": {
+  "persons_with_significant_control": "/company/NI026865/persons-with-significant-control",
+  "self": "/company/NI026865",
+  "filing_history": "/company/NI026865/filing-history",
+  "officers": "/company/NI026865/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "1992-11-17",
+   "effective_from": "1992-09-11",
+   "name": "PALMIRA INVESTMENTS LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Elliott Duffy Garrett",
+  "address_line_2": "40 Linenhall Street",
+  "country": "Northern Ireland",
+  "locality": "Belfast",
+  "postal_code": "BT2 8BA"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "70100"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false
+}

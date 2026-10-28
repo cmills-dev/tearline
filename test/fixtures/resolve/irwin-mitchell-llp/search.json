@@ -1,0 +1,280 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2009-01-12",
+   "company_type": "ltd",
+   "company_number": "06789204",
+   "address": {
+    "address_line_1": "4 Wellington Place",
+    "country": "United Kingdom",
+    "locality": "Leeds",
+    "postal_code": "LS1 4AP",
+    "premises": "C/O Irwin Mitchell Llp"
+   },
+   "title": "IRWIN MITCHELL LIMITED",
+   "address_snippet": "C/O Irwin Mitchell Llp, 4 Wellington Place, Leeds, United Kingdom, LS1 4AP",
+   "description": "06789204 - Incorporated on 12 January 2009",
+   "links": {
+    "self": "/company/06789204"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2009-03-10",
+   "company_type": "llp",
+   "company_number": "OC343897",
+   "address": {
+    "address_line_1": "2 Millsands",
+    "locality": "Sheffield",
+    "postal_code": "S3 8DT",
+    "premises": "Riverside East",
+    "region": "South Yorkshire"
+   },
+   "title": "IRWIN MITCHELL LLP",
+   "address_snippet": "Riverside East, 2 Millsands, Sheffield, South Yorkshire, S3 8DT",
+   "description": "OC343897 - Incorporated on 10 March 2009",
+   "links": {
+    "self": "/company/OC343897"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "dissolved-on"
+   ],
+   "company_status": "dissolved",
+   "date_of_creation": "1991-05-01",
+   "date_of_cessation": "2020-09-22",
+   "company_type": "ltd",
+   "company_number": "02606752",
+   "address": {
+    "address_line_1": "2 Wellington Place",
+    "locality": "Leeds",
+    "postal_code": "LS1 4BZ",
+    "premises": "C/O Irwin Mitchell",
+    "region": "West Yorkshire"
+   },
+   "title": "IRWIN MITCHELL RIVERSIDE LIMITED",
+   "address_snippet": "C/O Irwin Mitchell, 2 Wellington Place, Leeds, West Yorkshire, LS1 4BZ",
+   "description": "02606752 - Dissolved on 22 September 2020",
+   "links": {
+    "self": "/company/02606752"
+   },
+   "snippet": "IRWIN MITCHELL",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2012-04-16",
+   "company_type": "private-limited-guarant-nsc-limited-exemption",
+   "company_number": "08031469",
+   "address": {
+    "address_line_1": "Millsands",
+    "locality": "Sheffield",
+    "postal_code": "S3 8DT",
+    "premises": "Riverside East 2",
+    "region": "South Yorkshire"
+   },
+   "title": "IRWIN MITCHELL CHARITIES FOUNDATION",
+   "address_snippet": "Riverside East 2, Millsands, Sheffield, South Yorkshire, S3 8DT",
+   "description": "08031469 - Incorporated on 16 April 2012",
+   "links": {
+    "self": "/company/08031469"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "opened-on"
+   ],
+   "company_status": "open",
+   "date_of_creation": "2013-08-01",
+   "company_type": "uk-establishment",
+   "company_number": "BR016549",
+   "address": {
+    "locality": "Sheffield",
+    "postal_code": "S3 8DT",
+    "premises": "Riverside East 2 Millsands"
+   },
+   "title": "IRWIN MITCHELL HOLDINGS LIMITED",
+   "address_snippet": "Riverside East 2 Millsands Sheffield, S3 8DT",
+   "description": "BR016549 - Opened on 1 August 2013",
+   "links": {
+    "self": "/company/BR016549"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "first-uk-establishment-opened-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2013-08-01",
+   "external_registration_number": "108258",
+   "company_type": "oversea-company",
+   "company_number": "FC031481",
+   "address": {
+    "address_line_1": "New Street",
+    "country": "Jersey",
+    "locality": "St Helier",
+    "postal_code": "JE2 3RA",
+    "premises": "26"
+   },
+   "title": "IRWIN MITCHELL HOLDINGS LIMITED",
+   "address_snippet": "26 New Street, St Helier, Jersey, JE2 3RA",
+   "description": "FC031481 - First UK establishment opened on 1 August 2013",
+   "links": {
+    "self": "/company/FC031481"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2008-01-09",
+   "company_type": "ltd",
+   "company_number": "06468064",
+   "address": {
+    "address_line_1": "2 Millsands",
+    "country": "England",
+    "locality": "Sheffield",
+    "postal_code": "S3 8DT",
+    "premises": "Riverside East"
+   },
+   "title": "IRWIN MITCHELL NOMINEES LIMITED",
+   "address_snippet": "Riverside East, 2 Millsands, Sheffield, England, S3 8DT",
+   "description": "06468064 - Incorporated on 9 January 2008",
+   "links": {
+    "self": "/company/06468064"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2008-01-09",
+   "company_type": "ltd",
+   "company_number": "06468073",
+   "address": {
+    "address_line_1": "2 Millsands",
+    "country": "England",
+    "locality": "Sheffield",
+    "postal_code": "S3 8DT",
+    "premises": "Riverside East"
+   },
+   "title": "IRWIN MITCHELL NOMINEES NUMBER TWO LIMITED",
+   "address_snippet": "Riverside East, 2 Millsands, Sheffield, England, S3 8DT",
+   "description": "06468073 - Incorporated on 9 January 2008",
+   "links": {
+    "self": "/company/06468073"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2011-03-30",
+   "company_type": "llp",
+   "company_number": "SO303274",
+   "address": {
+    "address_line_1": "319 St. Vincent Street",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G2 5RZ",
+    "premises": "St Vincent Plaza"
+   },
+   "title": "IRWIN MITCHELL SCOTLAND LLP",
+   "address_snippet": "St Vincent Plaza, 319 St. Vincent Street, Glasgow, Scotland, G2 5RZ",
+   "description": "SO303274 - Incorporated on 30 March 2011",
+   "links": {
+    "self": "/company/SO303274"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1993-12-14",
+   "company_type": "ltd",
+   "company_number": "02880282",
+   "address": {
+    "address_line_1": "2 Millsands",
+    "country": "United Kingdom",
+    "locality": "Sheffield",
+    "postal_code": "S3 8DT",
+    "premises": "Riverside East",
+    "region": "South Yorkshire"
+   },
+   "title": "IRWIN MITCHELL SECRETARIES LIMITED",
+   "address_snippet": "Riverside East, 2 Millsands, Sheffield, South Yorkshire, United Kingdom, S3 8DT",
+   "description": "02880282 - Incorporated on 14 December 1993",
+   "links": {
+    "self": "/company/02880282"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 3809,
+ "start_index": 0
+}

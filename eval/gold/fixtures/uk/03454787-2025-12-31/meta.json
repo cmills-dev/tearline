@@ -1,0 +1,27 @@
+{
+  "companyNumber": "03454787",
+  "companyName": "BUSY BEES NURSERIES LIMITED",
+  "transactionId": "MzU0MjUzMDgyM2FkaXF6a2N4",
+  "filingType": "AA",
+  "filedOn": "2026-09-04",
+  "madeUpDate": "2025-12-31",
+  "accountsType": "full",
+  "pageCount": 60,
+  "chPages": 60,
+  "file": "filing.xhtml",
+  "format": "xhtml",
+  "resourcesOffered": [
+    "application/pdf",
+    "application/xhtml+xml"
+  ],
+  "bytes": 1390501,
+  "sha256": "5dfeff07810a20882217ed837b8eb9e0f07cdac4cc29a23bac380c95dcb8928f",
+  "documentMetadataUrl": "https://document-api.company-information.service.gov.uk/document/mAZ40mlZhbwk4OcHU1KddAdUaToE-citvoXjLXQPcpo",
+  "filingHistoryUrl": "https://api.company-information.service.gov.uk/company/03454787/filing-history/MzU0MjUzMDgyM2FkaXF6a2N4",
+  "publicRecordUrl": "https://find-and-update.company-information.service.gov.uk/company/03454787/filing-history",
+  "textLayerChars": null,
+  "bytesCommitted": true,
+  "kind": "ixbrl",
+  "notes": "The one iXBRL filer in the audit sample (finding 17). Figures are tag-derived through lib/sources/ixbrl.ts.",
+  "frozenOn": "2026-09-15"
+}

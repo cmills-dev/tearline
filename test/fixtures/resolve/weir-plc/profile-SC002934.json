@@ -1,0 +1,67 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-12-31",
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2025-01-01",
+   "type": "group"
+  },
+  "next_accounts": {
+   "due_on": "2027-06-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2026-01-01"
+  },
+  "next_due": "2027-06-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "WEIR PLC",
+ "company_number": "SC002934",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-02-09",
+  "next_due": "2027-02-23",
+  "next_made_up_to": "2027-02-09",
+  "overdue": false
+ },
+ "date_of_creation": "1895-06-14",
+ "etag": "18c72e0bd46731575ff6d9731df8f79f7ce6f5b8",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "scotland",
+ "last_full_members_list_date": "2015-02-09",
+ "links": {
+  "self": "/company/SC002934",
+  "charges": "/company/SC002934/charges",
+  "filing_history": "/company/SC002934/filing-history",
+  "officers": "/company/SC002934/officers",
+  "exemptions": "/company/SC002934/exemptions"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2026-08-12",
+   "effective_from": "1895-06-14",
+   "name": "WEIR GROUP PLC(THE)"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "1 West Regent Street",
+  "country": "Scotland",
+  "locality": "Glasgow",
+  "postal_code": "G2 1RW"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "70100"
+ ],
+ "type": "plc",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

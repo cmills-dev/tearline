@@ -1,0 +1,67 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "01"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-01-31",
+   "period_end_on": "2025-01-31",
+   "period_start_on": "2024-02-01",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2026-10-31",
+   "overdue": false,
+   "period_end_on": "2026-01-31",
+   "period_start_on": "2025-02-01"
+  },
+  "next_due": "2026-10-31",
+  "next_made_up_to": "2026-01-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "IRWIN MITCHELL LIMITED",
+ "company_number": "06789204",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-01-12",
+  "next_due": "2027-01-26",
+  "next_made_up_to": "2027-01-12",
+  "overdue": false
+ },
+ "date_of_creation": "2009-01-12",
+ "etag": "af24c8149b26ae26ffc970052aabe668a78fa85d",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2016-01-12",
+ "links": {
+  "persons_with_significant_control_statements": "/company/06789204/persons-with-significant-control-statements",
+  "self": "/company/06789204",
+  "filing_history": "/company/06789204/filing-history",
+  "officers": "/company/06789204/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2009-03-10",
+   "effective_from": "2009-01-12",
+   "name": "IMCO (72009) LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "C/O Irwin Mitchell Llp",
+  "address_line_2": "4 Wellington Place",
+  "country": "United Kingdom",
+  "locality": "Leeds",
+  "postal_code": "LS1 4AP"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "99999"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

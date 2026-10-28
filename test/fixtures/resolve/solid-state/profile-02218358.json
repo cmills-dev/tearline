@@ -1,0 +1,77 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "03"
+  },
+  "last_accounts": {
+   "made_up_to": "2026-03-31",
+   "period_end_on": "2026-03-31",
+   "period_start_on": "2025-04-01",
+   "type": "micro-entity"
+  },
+  "next_accounts": {
+   "due_on": "2027-12-31",
+   "overdue": false,
+   "period_end_on": "2027-03-31",
+   "period_start_on": "2026-04-01"
+  },
+  "next_due": "2027-12-31",
+  "next_made_up_to": "2027-03-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "SOLID STATE COMPUTING LIMITED",
+ "company_number": "02218358",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-12-01",
+  "next_due": "2026-12-15",
+  "next_made_up_to": "2026-12-01",
+  "overdue": false
+ },
+ "date_of_creation": "1988-02-05",
+ "etag": "bf3d5cb2c3c94cd91406b9e6102965363bf0520b",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-12-01",
+ "links": {
+  "persons_with_significant_control": "/company/02218358/persons-with-significant-control",
+  "self": "/company/02218358",
+  "charges": "/company/02218358/charges",
+  "filing_history": "/company/02218358/filing-history",
+  "officers": "/company/02218358/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2010-10-13",
+   "effective_from": "2005-05-09",
+   "name": "SOUTH YORKSHIRE CONSTRUCTION LIMITED"
+  },
+  {
+   "ceased_on": "2005-05-09",
+   "effective_from": "1988-09-15",
+   "name": "YORKSHIRE & LANCASHIRE INVESTMENT MANAGEMENT LIMITED"
+  },
+  {
+   "ceased_on": "1988-09-15",
+   "effective_from": "1988-02-05",
+   "name": "BROOMSOL (7) LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "822 Attercliffe Road",
+  "locality": "Sheffield",
+  "postal_code": "S9 3RS",
+  "region": "South Yorkshire"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "62020"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

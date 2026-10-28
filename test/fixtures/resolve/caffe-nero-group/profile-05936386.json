@@ -1,0 +1,67 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "05"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-05-31",
+   "period_end_on": "2025-05-31",
+   "period_start_on": "2024-06-01",
+   "type": "group"
+  },
+  "next_accounts": {
+   "due_on": "2027-02-28",
+   "overdue": false,
+   "period_end_on": "2026-05-31",
+   "period_start_on": "2025-06-01"
+  },
+  "next_due": "2027-02-28",
+  "next_made_up_to": "2026-05-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "CAFFE NERO GROUP HOLDINGS LTD",
+ "company_number": "05936386",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-09-15",
+  "next_due": "2026-09-29",
+  "next_made_up_to": "2026-09-15",
+  "overdue": false
+ },
+ "date_of_creation": "2006-09-15",
+ "etag": "69521a42fef024443597e735a9fdbc4193ec3ab6",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-09-15",
+ "links": {
+  "persons_with_significant_control": "/company/05936386/persons-with-significant-control",
+  "self": "/company/05936386",
+  "charges": "/company/05936386/charges",
+  "filing_history": "/company/05936386/filing-history",
+  "officers": "/company/05936386/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2017-10-02",
+   "effective_from": "2006-11-17",
+   "name": "ROME PIKCO LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "9-15 Neal Street",
+  "country": "England",
+  "locality": "London",
+  "postal_code": "WC2H 9QL"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "70100"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

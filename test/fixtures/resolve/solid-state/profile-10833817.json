@@ -1,0 +1,59 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "11"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-11-30",
+   "period_end_on": "2025-11-30",
+   "period_start_on": "2024-12-01",
+   "type": "total-exemption-full"
+  },
+  "next_accounts": {
+   "due_on": "2027-08-31",
+   "overdue": false,
+   "period_end_on": "2026-11-30",
+   "period_start_on": "2025-12-01"
+  },
+  "next_due": "2027-08-31",
+  "next_made_up_to": "2026-11-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "SOLID STATE (EASTON) LTD",
+ "company_number": "10833817",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-06-22",
+  "next_due": "2027-07-06",
+  "next_made_up_to": "2027-06-22",
+  "overdue": false
+ },
+ "date_of_creation": "2017-06-23",
+ "etag": "365d229fc04d968d44c51021c7f1b3207d355402",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/10833817/persons-with-significant-control",
+  "self": "/company/10833817",
+  "charges": "/company/10833817/charges",
+  "filing_history": "/company/10833817/filing-history",
+  "officers": "/company/10833817/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "Trusloe Farmhouse Frog Lane",
+  "address_line_2": "Avebury Trusloe",
+  "country": "United Kingdom",
+  "locality": "Marlborough",
+  "postal_code": "SN8 1QS"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "68100"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

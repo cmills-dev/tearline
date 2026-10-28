@@ -1,0 +1,71 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "12"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-12-31",
+   "period_end_on": "2025-12-31",
+   "period_start_on": "2025-01-01",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2027-09-30",
+   "overdue": false,
+   "period_end_on": "2026-12-31",
+   "period_start_on": "2026-01-01"
+  },
+  "next_due": "2027-09-30",
+  "next_made_up_to": "2026-12-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "WEIR GROUP LIMITED",
+ "company_number": "SC407565",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-09-16",
+  "next_due": "2026-09-30",
+  "next_made_up_to": "2026-09-16",
+  "overdue": false
+ },
+ "date_of_creation": "2011-09-16",
+ "etag": "4d0cb700a95ad3aa6eef7ffe84cb8d361c92f698",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "scotland",
+ "last_full_members_list_date": "2015-09-16",
+ "links": {
+  "persons_with_significant_control": "/company/SC407565/persons-with-significant-control",
+  "self": "/company/SC407565",
+  "filing_history": "/company/SC407565/filing-history",
+  "officers": "/company/SC407565/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2026-08-12",
+   "effective_from": "2025-04-11",
+   "name": "WEIR LIMITED"
+  },
+  {
+   "ceased_on": "2025-04-11",
+   "effective_from": "2011-09-16",
+   "name": "WEIR INVESTMENTS TWO LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "10th Floor 1 West Regent Street",
+  "country": "Scotland",
+  "locality": "Glasgow",
+  "postal_code": "G2 1RW"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "74990"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

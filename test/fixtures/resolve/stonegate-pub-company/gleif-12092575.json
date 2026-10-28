@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "goldenCopy": {
+   "publishDate": "2026-09-15T08:00:00Z"
+  },
+  "pagination": {
+   "currentPage": 1,
+   "perPage": 15,
+   "from": 1,
+   "to": 1,
+   "total": 1,
+   "lastPage": 1
+  }
+ },
+ "links": {
+  "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.registeredAs%5D=12092575&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=15",
+  "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.registeredAs%5D=12092575&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=15"
+ },
+ "data": [
+  {
+   "type": "lei-records",
+   "id": "254900L5266ML3505282",
+   "attributes": {
+    "lei": "254900L5266ML3505282",
+    "entity": {
+     "legalName": {
+      "name": "Stonegate Pub Company Financing 2019 PLC",
+      "language": "en"
+     },
+     "otherNames": [],
+     "transliteratedOtherNames": [],
+     "legalAddress": {
+      "language": "en",
+      "addressLines": [
+       "3 Monkspath Hall Road"
+      ],
+      "addressNumber": null,
+      "addressNumberWithinBuilding": null,
+      "mailRouting": null,
+      "city": "Solihull",
+      "region": null,
+      "country": "GB",
+      "postalCode": "B90 4SJ"
+     },
+     "headquartersAddress": {
+      "language": "en",
+      "addressLines": [
+       "3 Monkspath Hall Road"
+      ],
+      "addressNumber": null,
+      "addressNumberWithinBuilding": null,
+      "mailRouting": null,
+      "city": "Solihull",
+      "region": null,
+      "country": "GB",
+      "postalCode": "B90 4SJ"
+     },
+     "registeredAt": {
+      "id": "RA000585",
+      "other": null
+     },
+     "registeredAs": "12092575",
+     "jurisdiction": "GB",
+     "category": "GENERAL",
+     "legalForm": {
+      "id": "B6ES",
+      "other": null
+     },
+     "associatedEntity": {
+      "lei": null,
+      "name": null
+     },
+     "status": "ACTIVE",
+     "expiration": {
+      "date": null,
+      "reason": null
+     },
+     "successorEntity": {
+      "lei": null,
+      "name": null
+     },
+     "successorEntities": [],
+     "creationDate": "2019-07-04T00:00:00Z",
+     "subCategory": null,
+     "otherAddresses": [],
+     "eventGroups": []
+    },
+    "registration": {
+     "initialRegistrationDate": "2020-01-21T19:14:47Z",
+     "lastUpdateDate": "2025-11-24T14:30:03Z",
+     "status": "ISSUED",
+     "nextRenewalDate": "2026-12-21T19:14:47Z",
+     "managingLou": "5493001KJTIIGC8Y1R12",
+     "corroborationLevel": "FULLY_CORROBORATED",
+     "validatedAt": {
+      "id": "RA000585",
+      "other": null
+     },
+     "validatedAs": "12092575",
+     "otherValidationAuthorities": []
+    },
+    "bic": null,
+    "mic": null,
+    "ocid": "gb/12092575",
+    "qcc": "QGBAX53RSS",
+    "gem": null,
+    "spglobal": [
+     "652132395"
+    ],
+    "conformityFlag": "NON_CONFORMING"
+   },
+   "relationships": {
+    "managing-lou": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/254900L5266ML3505282/managing-lou"
+     }
+    },
+    "lei-issuer": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/254900L5266ML3505282/lei-issuer"
+     }
+    },
+    "field-modifications": {
+     "links": {
+      "related": "https://api.gleif.org/api/v1/lei-records/254900L5266ML3505282/field-modifications"
+     }
+    },
+    "direct-parent": {
+     "links": {
+      "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900L5266ML3505282/direct-parent-reporting-exception"
+     }
+    },
+    "ultimate-parent": {
+     "links": {
+      "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900L5266ML3505282/ultimate-parent-reporting-exception"
+     }
+    }
+   },
+   "links": {
+    "self": "https://api.gleif.org/api/v1/lei-records/254900L5266ML3505282"
+   }
+  }
+ ]
+}

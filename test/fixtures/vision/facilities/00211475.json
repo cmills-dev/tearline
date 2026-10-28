@@ -1,0 +1,70 @@
+{
+ "note": "Recorded Anthropic Messages API response for the debt-note facility read (WP-BE16) of a frozen UK gold scan, made on the first read recorded in test/fixtures/vision/pages. No PDF bytes. Replayed offline by test/capitalStructure.test.ts.",
+ "companyNumber": "00211475",
+ "readerModel": "claude-opus-5",
+ "recordedAt": "2026-09-27T22:42:11.433Z",
+ "seconds": {
+  "facilityRead": 13.384,
+  "recordedPageFindAndFirstRead": 56.661,
+  "recordedSecondRead": 27.894,
+  "recordedTotal": 84.555,
+  "composedTotal": 84.6
+ },
+ "gbp": 0.5752,
+ "pagesSent": [
+  124,
+  126,
+  128,
+  138,
+  165,
+  166,
+  171,
+  172,
+  173
+ ],
+ "calls": [
+  {
+   "stage": "facility-read",
+   "model": "claude-opus-5",
+   "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUkRsp5zuiQZgWTk6iFe",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "CAIS4QUKtAIIEhgCKkD4/s1HOhry90Z5L6eKfI6dQgwjuRQLr/2uKX8bzw/Ng1YSbNTYqOzwkV8is8WFjfu+Z0Xcc5CcmE66wsAIELebMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRlMDhmMzYwMy1hMmViLTQ5ZGItODZlMi01ZDNiYTRmMGM3NWSoAf225tUGwgFACAYQABoSATgoAtqKA083CPjHBRW9BCatIAIyBBJxzyU6BAI5je1CBDgzI4pKBDgzI4pQAFoE2QXhVmACaAFwAdoBYAoWcHJlZml4X2JlZm9yZV9ibG9ja192MRIgFdQ1/fU8Nt5jhE21v2KTOmu0M0rPaAOS+Xx0ZEsbXw8iADIgwsATyGqckuIvlm89hhd2j4t6RMkCrcwJe/oeCYr7Th9IAxIMyYhzw/Ktg2g1/TtnGgx+cvCTHi5pDfFbQDoiMMz/YYfNy6pXxsqwNFpelioJhERBw/3wVihWwyj1mVUTp7g8uaHDf7CEBcN8VKpNpCrZAk2A4TwNQFXQkBgOE0JZ601elyrgFtUUhTKz+3aQByj6pURZZ0r8O1KnjjsKdwV3lN4GkKrtgY8mHe7HiRTQc0D0R1AifR3ktGKfiLKDbU52ckE4uSgqCCeQTVMo6KoYcEq30b5iT2FuG6m1wRss4bAacPT2PP7Ld1OMdM6FoktiDCxcgkf+oKyD7nAe8ETYD0cXP4FfkNrT8h6I7l2HUowv1x+W01UkOwhXwWWPgF55XaRjRR4hqggN/xLibYnQQctuw2QTTxM8+HLlYdTqQJnmoTwNjUlahTfgFYyaJE+PCvg8ioDomWHfhRyejezSPCE+whJdBg+0w6+OE0PSoqervZ0jawUNUdWPSWGGbsdU7H1+kzyEyJH9YVDfAJhcJGMp+vEc+vvHIEOOLEAVK1sXp2AxTQaXzfE3ldgDsFFWG8a3jhZapfun+ZSAm851UMwmzpQedGMuTxgB"
+     },
+     {
+      "type": "text",
+      "text": "{\"note\":{\"status\":\"found\",\"abstain_reason\":\"\",\"heading\":\"25. Borrowings continued\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"basis\":\"none\",\"basis_text\":\"\"},\"facilities\":[]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 3701,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 186,
+     "output_tokens_details": {
+      "thinking_tokens": 109
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   },
+   "status": 200
+  }
+ ],
+ "pagesNote": "pagesSent and gbp are from the gold recording (WP-BE14-LIVE-2). seconds and usage are from the WP-BE18 recording: the gold recording does not time its calls."
+}

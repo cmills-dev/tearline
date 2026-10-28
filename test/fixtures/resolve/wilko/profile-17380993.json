@@ -1,0 +1,50 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "08"
+  },
+  "next_accounts": {
+   "due_on": "2028-05-04",
+   "overdue": false,
+   "period_end_on": "2027-08-31",
+   "period_start_on": "2026-08-04"
+  },
+  "next_due": "2028-05-04",
+  "next_made_up_to": "2027-08-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "WILKO CONSULTING LTD",
+ "company_number": "17380993",
+ "company_status": "active",
+ "confirmation_statement": {
+  "next_due": "2027-08-17",
+  "next_made_up_to": "2027-08-03",
+  "overdue": false
+ },
+ "date_of_creation": "2026-08-04",
+ "etag": "e668e9db6b555f30cf275810ab92eaba70206ac3",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/17380993/persons-with-significant-control",
+  "self": "/company/17380993",
+  "filing_history": "/company/17380993/filing-history",
+  "officers": "/company/17380993/officers"
+ },
+ "registered_office_address": {
+  "address_line_1": "57 Lambton Road",
+  "country": "England",
+  "locality": "London",
+  "postal_code": "SW20 0LW"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "62020"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

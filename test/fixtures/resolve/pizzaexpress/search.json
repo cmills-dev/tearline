@@ -1,0 +1,299 @@
+{
+ "items": [
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1978-12-11",
+   "company_type": "ltd",
+   "company_number": "01404552",
+   "address": {
+    "address_line_1": "Arc Uxbridge",
+    "address_line_2": "Sanderson Road",
+    "country": "United Kingdom",
+    "locality": "Uxbridge",
+    "postal_code": "UB8 1DH",
+    "premises": "Building 01",
+    "region": "Middlesex"
+   },
+   "title": "PIZZAEXPRESS LIMITED",
+   "address_snippet": "Building 01 Arc Uxbridge, Sanderson Road, Uxbridge, Middlesex, United Kingdom, UB8 1DH",
+   "description": "01404552 - Incorporated on 11 December 1978",
+   "links": {
+    "self": "/company/01404552"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2014-07-07",
+   "company_type": "plc",
+   "company_number": "09119629",
+   "address": {
+    "address_line_1": "Arc Uxbridge",
+    "address_line_2": "Sanderson Road",
+    "country": "England",
+    "locality": "Uxbridge",
+    "postal_code": "UB8 1DH",
+    "premises": "Building 01",
+    "region": "Middlesex"
+   },
+   "title": "PIZZAEXPRESS FINANCING 2 PLC",
+   "address_snippet": "Building 01 Arc Uxbridge, Sanderson Road, Uxbridge, Middlesex, England, UB8 1DH",
+   "description": "09119629 - Incorporated on 7 July 2014",
+   "links": {
+    "self": "/company/09119629"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1993-03-30",
+   "company_type": "ltd",
+   "company_number": "02805181",
+   "address": {
+    "address_line_1": "Arc Uxbridge",
+    "address_line_2": "Sanderson Road",
+    "country": "United Kingdom",
+    "locality": "Uxbridge",
+    "postal_code": "UB8 1DH",
+    "premises": "Building 01",
+    "region": "Middlesex"
+   },
+   "title": "PIZZAEXPRESS (FRANCHISES) LIMITED",
+   "address_snippet": "Building 01 Arc Uxbridge, Sanderson Road, Uxbridge, Middlesex, United Kingdom, UB8 1DH",
+   "description": "02805181 - Incorporated on 30 March 1993",
+   "links": {
+    "self": "/company/02805181"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2014-07-14",
+   "company_type": "ltd",
+   "company_number": "09130140",
+   "address": {
+    "address_line_1": "Arc Uxbridge",
+    "address_line_2": "Sanderson Road",
+    "country": "United Kingdom",
+    "locality": "Uxbridge",
+    "postal_code": "UB8 1DH",
+    "premises": "Building 01",
+    "region": "Middlesex"
+   },
+   "title": "PIZZAEXPRESS GROUP LIMITED",
+   "address_snippet": "Building 01 Arc Uxbridge, Sanderson Road, Uxbridge, Middlesex, United Kingdom, UB8 1DH",
+   "description": "09130140 - Incorporated on 14 July 2014",
+   "links": {
+    "self": "/company/09130140"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2015-03-25",
+   "company_type": "ltd",
+   "company_number": "09508199",
+   "address": {
+    "address_line_1": "Arc Uxbridge",
+    "address_line_2": "Sanderson Road",
+    "country": "United Kingdom",
+    "locality": "Uxbridge",
+    "postal_code": "UB8 1DH",
+    "premises": "Building 01",
+    "region": "Middlesex"
+   },
+   "title": "PIZZAEXPRESS INTERNATIONAL HOLDINGS LIMITED",
+   "address_snippet": "Building 01 Arc Uxbridge, Sanderson Road, Uxbridge, Middlesex, United Kingdom, UB8 1DH",
+   "description": "09508199 - Incorporated on 25 March 2015",
+   "links": {
+    "self": "/company/09508199"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1996-11-29",
+   "company_type": "ltd",
+   "company_number": "03285834",
+   "address": {
+    "address_line_1": "Arc Uxbridge",
+    "address_line_2": "Sanderson Road",
+    "country": "United Kingdom",
+    "locality": "Uxbridge",
+    "postal_code": "UB8 1DH",
+    "premises": "Building 01",
+    "region": "Middlesex"
+   },
+   "title": "PIZZAEXPRESS MERCHANDISING LIMITED",
+   "address_snippet": "Building 01 Arc Uxbridge, Sanderson Road, Uxbridge, Middlesex, United Kingdom, UB8 1DH",
+   "description": "03285834 - Incorporated on 29 November 1996",
+   "links": {
+    "self": "/company/03285834"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2023-02-14",
+   "company_type": "ltd",
+   "company_number": "14662456",
+   "address": {
+    "address_line_1": "Arc Uxbridge",
+    "address_line_2": "Sanderson Road",
+    "country": "United Kingdom",
+    "locality": "Uxbridge",
+    "postal_code": "UB8 1DH",
+    "premises": "Building 01",
+    "region": "Middlesex"
+   },
+   "title": "PIZZAEXPRESS NEWCO LIMITED",
+   "address_snippet": "Building 01 Arc Uxbridge, Sanderson Road, Uxbridge, Middlesex, United Kingdom, UB8 1DH",
+   "description": "14662456 - Incorporated on 14 February 2023",
+   "links": {
+    "self": "/company/14662456"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2003-07-18",
+   "company_type": "ltd",
+   "company_number": "04836955",
+   "address": {
+    "address_line_1": "Arc Uxbridge",
+    "address_line_2": "Sanderson Road",
+    "country": "United Kingdom",
+    "locality": "Uxbridge",
+    "postal_code": "UB8 1DH",
+    "premises": "Building 01",
+    "region": "Middlesex"
+   },
+   "title": "PIZZAEXPRESS OPERATIONS LIMITED",
+   "address_snippet": "Building 01 Arc Uxbridge, Sanderson Road, Uxbridge, Middlesex, United Kingdom, UB8 1DH",
+   "description": "04836955 - Incorporated on 18 July 2003",
+   "links": {
+    "self": "/company/04836955"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "1993-03-31",
+   "company_type": "ltd",
+   "company_number": "02805490",
+   "address": {
+    "address_line_1": "Arc Uxbridge",
+    "address_line_2": "Sanderson Road",
+    "country": "United Kingdom",
+    "locality": "Uxbridge",
+    "postal_code": "UB8 1DH",
+    "premises": "Building 01",
+    "region": "Middlesex"
+   },
+   "title": "PIZZAEXPRESS (RESTAURANTS) LIMITED",
+   "address_snippet": "Building 01 Arc Uxbridge, Sanderson Road, Uxbridge, Middlesex, United Kingdom, UB8 1DH",
+   "description": "02805490 - Incorporated on 31 March 1993",
+   "links": {
+    "self": "/company/02805490"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  },
+  {
+   "kind": "searchresults#company",
+   "description_identifier": [
+    "incorporated-on"
+   ],
+   "company_status": "active",
+   "date_of_creation": "2015-04-01",
+   "company_type": "ltd",
+   "company_number": "09521869",
+   "address": {
+    "address_line_1": "Arc Uxbridge",
+    "address_line_2": "Sanderson Road",
+    "country": "United Kingdom",
+    "locality": "Uxbridge",
+    "postal_code": "UB8 1DH",
+    "premises": "Building 01",
+    "region": "Middlesex"
+   },
+   "title": "PIZZAEXPRESS UAE HOLDINGS LIMITED",
+   "address_snippet": "Building 01 Arc Uxbridge, Sanderson Road, Uxbridge, Middlesex, United Kingdom, UB8 1DH",
+   "description": "09521869 - Incorporated on 1 April 2015",
+   "links": {
+    "self": "/company/09521869"
+   },
+   "snippet": "",
+   "matches": {
+    "snippet": []
+   }
+  }
+ ],
+ "kind": "search#companies",
+ "page_number": 1,
+ "items_per_page": 10,
+ "total_results": 31,
+ "start_index": 0
+}

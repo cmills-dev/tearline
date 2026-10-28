@@ -1,0 +1,213 @@
+{
+ "note": "Recorded model reads of TRAVELODGE HOTELS LIMITED (00769170-2024-12-31/filing.pdf), made by npm run eval:uk:live through the real path and replayed offline by eval/gold/uk-run.ts.",
+ "companyNumber": "00769170",
+ "transactionId": "MzQ2NTM4NzUzM2FkaXF6a2N4",
+ "recordedWith": {
+  "accountsType": "full",
+  "pageFindingAbovePages": 60,
+  "by": "eval:uk:live 2026-09-27, reader claude-opus-5, finder claude-haiku-4-5, on wp/be14-live-2 at 9c584db"
+ },
+ "calls": [
+  {
+   "stage": "contents",
+   "model": "claude-haiku-4-5",
+   "requestSha256": "056e090b36cca49d27c96f95341acbe26a39ce9e983b2da64426aed92dee7205",
+   "version": "pf2",
+   "recordedAt": "2026-09-27T22:46:19.447Z",
+   "gbp": 0.0174,
+   "source": "eval:uk:live",
+   "response": {
+    "model": "claude-haiku-4-5-20251001",
+    "id": "msg_011CfUkqD6r1WVYarj3FWk2r",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "text",
+      "text": "{\"contents_found\": \"yes\", \"contents_pdf_page_index\": 2, \"page_numbers\": [{\"pdf_page_index\": 1, \"printed_page_number\": \"\"}, {\"pdf_page_index\": 2, \"printed_page_number\": \"\"}, {\"pdf_page_index\": 3, \"printed_page_number\": \"1\"}, {\"pdf_page_index\": 4, \"printed_page_number\": \"2\"}, {\"pdf_page_index\": 5, \"printed_page_number\": \"3\"}, {\"pdf_page_index\": 6, \"printed_page_number\": \"4\"}, {\"pdf_page_index\": 7, \"printed_page_number\": \"5\"}, {\"pdf_page_index\": 8, \"printed_page_number\": \"6\"}, {\"pdf_page_index\": 9, \"printed_page_number\": \"7\"}, {\"pdf_page_index\": 10, \"printed_page_number\": \"8\"}, {\"pdf_page_index\": 11, \"printed_page_number\": \"9\"}, {\"pdf_page_index\": 12, \"printed_page_number\": \"10\"}], \"entries\": [{\"section\": \"group_income_statement\", \"title_as_printed\": \"Income Statement\", \"printed_page\": \"27\"}, {\"section\": \"group_balance_sheet\", \"title_as_printed\": \"Balance Sheet\", \"printed_page\": \"30\"}, {\"section\": \"group_notes\", \"title_as_printed\": \"Notes to the Financial Statements\", \"printed_page\": \"31 - 60\"}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 19893,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 377,
+     "service_tier": "standard",
+     "inference_geo": "not_available"
+    },
+    "diagnostics": null
+   }
+  },
+  {
+   "stage": "classify:56-69",
+   "model": "claude-haiku-4-5",
+   "requestSha256": "0ce304b5392d3f8e0a485ceaaa79a343e8547b17922a2cfab43b8ac77f5e96a6",
+   "version": "pf2",
+   "recordedAt": "2026-09-27T22:46:25.955Z",
+   "gbp": 0.0203,
+   "source": "eval:uk:live",
+   "response": {
+    "model": "claude-haiku-4-5-20251001",
+    "id": "msg_011CfUkqbfu4q59sbttr7ZMf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "text",
+      "text": "{\"pages\": [{\"pdf_page_index\": 1, \"printed_page_number\": \"54\", \"basis\": \"group\", \"roles\": [\"leases_note\"]}, {\"pdf_page_index\": 2, \"printed_page_number\": \"55\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 3, \"printed_page_number\": \"56\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 4, \"printed_page_number\": \"57\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 5, \"printed_page_number\": \"58\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 6, \"printed_page_number\": \"59\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 7, \"printed_page_number\": \"60\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 8, \"printed_page_number\": \"61\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 9, \"printed_page_number\": \"62\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 10, \"printed_page_number\": \"63\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 11, \"printed_page_number\": \"64\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 12, \"printed_page_number\": \"65\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 13, \"printed_page_number\": \"66\", \"basis\": \"group\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 14, \"printed_page_number\": \"67\", \"basis\": \"group\", \"roles\": [\"other\"]}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 22971,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 473,
+     "service_tier": "standard",
+     "inference_geo": "not_available"
+    },
+    "diagnostics": null
+   }
+  },
+  {
+   "stage": "classify:26-55",
+   "model": "claude-haiku-4-5",
+   "requestSha256": "485d29afd9de071a3ec8d324fc24340053cc4ac5859f588ab8ddbb8b473a12d1",
+   "version": "pf2",
+   "recordedAt": "2026-09-27T22:47:44.471Z",
+   "gbp": 0.0425,
+   "source": "eval:uk:live",
+   "response": {
+    "model": "claude-haiku-4-5-20251001",
+    "id": "msg_011CfUkrKBEo4qHsJdtNPU8d",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "text",
+      "text": "{\"pages\": [{\"pdf_page_index\": 1, \"printed_page_number\": \"\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 2, \"printed_page_number\": \"\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 3, \"printed_page_number\": \"\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 4, \"printed_page_number\": \"27\", \"basis\": \"company\", \"roles\": [\"income_statement\"]}, {\"pdf_page_index\": 5, \"printed_page_number\": \"28\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 6, \"printed_page_number\": \"29\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 7, \"printed_page_number\": \"30\", \"basis\": \"company\", \"roles\": [\"balance_sheet\"]}, {\"pdf_page_index\": 8, \"printed_page_number\": \"31\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 9, \"printed_page_number\": \"32\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 10, \"printed_page_number\": \"33\", \"basis\": \"company\", \"roles\": [\"leases_note\"]}, {\"pdf_page_index\": 11, \"printed_page_number\": \"34\", \"basis\": \"company\", \"roles\": [\"leases_note\"]}, {\"pdf_page_index\": 12, \"printed_page_number\": \"35\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 13, \"printed_page_number\": \"36\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 14, \"printed_page_number\": \"37\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 15, \"printed_page_number\": \"38\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 16, \"printed_page_number\": \"39\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 17, \"printed_page_number\": \"40\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 18, \"printed_page_number\": \"41\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 19, \"printed_page_number\": \"42\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 20, \"printed_page_number\": \"43\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 21, \"printed_page_number\": \"44\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 22, \"printed_page_number\": \"45\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 23, \"printed_page_number\": \"46\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 24, \"printed_page_number\": \"47\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 25, \"printed_page_number\": \"48\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 26, \"printed_page_number\": \"49\", \"basis\": \"company\", \"roles\": [\"leases_note\"]}, {\"pdf_page_index\": 27, \"printed_page_number\": \"50\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 28, \"printed_page_number\": \"51\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 29, \"printed_page_number\": \"52\", \"basis\": \"company\", \"roles\": [\"other\"]}, {\"pdf_page_index\": 30, \"printed_page_number\": \"53\", \"basis\": \"company\", \"roles\": [\"other\"]}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 48139,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 1005,
+     "service_tier": "standard",
+     "inference_geo": "not_available"
+    },
+    "diagnostics": null
+   }
+  },
+  {
+   "stage": "first-read",
+   "model": "claude-opus-5",
+   "requestSha256": "e2e0291c2aafc0af9daba7ce0ae15388642ce4bb794c49221ac9f45022f094ad",
+   "version": "p3/schema 3",
+   "recordedAt": "2026-09-27T22:48:08.992Z",
+   "gbp": 0.0861,
+   "source": "eval:uk:live",
+   "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUkwspv3Fjm3QV8Bim8N",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "CAIS9wkKtAIIEhgCKkAMSgXog21fhXMLkLUgPpc/soIMeIgHP6rU+v8mKgXvm9Roq5PBu4BV7oCw8s2mkLqruDsvYk0fvsaSpVSpYT/oMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRlMDhmMzYwMy1hMmViLTQ5ZGItODZlMi01ZDNiYTRmMGM3NWSoAZi65tUGwgFACAYQABoSAV7MAtqKA083CB09BSp0BCatIAIyBBJxzyU6BDbNfBVCBDgzI4pKBDgzI4pQAFoE2QXhVmACaAFwAdoBYAoWcHJlZml4X2JlZm9yZV9ibG9ja192MRIglmlohvYqDkgJHqc6hHoJnFIGA+tj6AQLeoCk0ag2tPkiADIgwsATyGqckuIvlm89hhd2j4t6RMkCrcwJe/oeCYr7Th9IAxIM9nfc0YXpVSfXE2qBGgxiFcUmDcFUp+cmWs0iMC8wtTnRuU0XCFDV30V+kDXkr2HJ2DdUTPPW2LqSVoTtUzBuRiAs9GWdWSRT1SUrlCrvBjkb9o0HyTub+wqqfeHzfLQqqjuQpNSNjKYOURdBW7JrI/+kk8TzSNpH+9+Vo1HRJTId+eWEkFONJX1Qq0iUlPYX0Av1DqDnxdDbhEm/5NcMoeQJDqGbX/WlCZd7DNCMJl+Hluj5Ais5QJkOAkmXu2giQRQt9j9AXANeNwmJGS1d/Rq1InytYv5wIWr5VV5hnjnXmGsPwef187AWmgJyDMnfrUmTpHcWU29pV5Z4sRw4LRFIePCLOOu/TDoYaL2Z/xlA3uiqgizxMS5+1wFwjq5E8V1pupetMxjh0VJ5uN+c4WbtbTV7U6lOSTwMfwPDTP+WDoK+lchJrJP7ma1zFq7fc19425Y+7r2XWRlQYH8AG/304PKm9z5YvEiggIXw+DbuNUsO8dGjc+oSjVjTz91AWFnzhywaDMReESAxjlgoyKCEgJt8R0ZWdse2Wgy4n/xd6FhEMXn8KDXye1VzzI5SE2q851Qd/N8V0xOGp3MTaG9l+OReE/1f3MXtLvj/PycsFV95DBoXfUcEJi6ttCeVT3nQdx1zsT0wdX1qDi8SHM47yV7dxengze/QD8cc1UXClEQbromtyfwPKhesAHn/pOHfNM4B49Tuet+qHF97iUad4NFYmOt/tLBYwd5AyW8odDaRD5rXr3526IeJkrlfu8cJlX6+mPj6cA2irZ3kZeeHdys1peWt4djaRCA0MlUDUh+H2CSLa1auHldqMhnrG4Tfsby+ofvEpoHm/Si4Dq3fkOp81ejgSaeYwRRl7DRozqLStkHff7jSxar5FK6dgMzO1mQFeqHcoQ8WyUrlkxEtrFZHwI9Iq578f8rme3pqCzUhwaBlmdlUha6ne9K6SSarQmvQ3nqmMPgleRtkEcOgbSE6rFnyGXh8ItALq9iLdKwjiCgEkD/oTeqD9Cdwo1FotFLPJEfbbtIY29a56417/MQwob3uDX5y3Hy0qMc35FRQqWJ3IszylA04K0MW3FrU7sKEPSn0ETDZDIrrzAHSNdJLrh0y/oTuCQ2mvwK164VPa6Xqvux6VXDLl6qkKxGb2G8wihwxmXtKNRkdxTidHZKS0AQbfAj80OcgH3gTrhLgMDDRe6rC2NdeyDO6Nc4pmmH4XKUn/7i/suO6C2UW4YzVujMuHWwCI2AD6uvrcsjDcL7pDwetZk9r/xgB"
+     },
+     {
+      "type": "text",
+      "text": "{\"document\":{\"company_name_as_printed\":\"TRAVELODGE HOTELS LIMITED\",\"period_end\":\"2024-12-31\",\"currency\":\"GBP\",\"basis\":\"company\"},\"lines\":[{\"key\":\"turnover\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Revenue\",\"figure_text\":\"1,008.0\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"pdf_page_index\":1,\"printed_page_number\":\"27\",\"statement\":\"INCOME STATEMENT\",\"period_end\":\"2024-12-31\",\"note_reference\":\"4\"},{\"key\":\"operating_profit\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Operating Profit\",\"figure_text\":\"257.7\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"pdf_page_index\":1,\"printed_page_number\":\"27\",\"statement\":\"INCOME STATEMENT\",\"period_end\":\"2024-12-31\",\"note_reference\":\"\"},{\"key\":\"depreciation_amortisation\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Depreciation & amortisation\",\"figure_text\":\"(174.4)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"pdf_page_index\":1,\"printed_page_number\":\"27\",\"statement\":\"INCOME STATEMENT\",\"period_end\":\"2024-12-31\",\"note_reference\":\"\"},{\"key\":\"interest_payable\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Finance costs\",\"figure_text\":\"(221.1)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"pdf_page_index\":1,\"printed_page_number\":\"27\",\"statement\":\"INCOME STATEMENT\",\"period_end\":\"2024-12-31\",\"note_reference\":\"9\"},{\"key\":\"profit_before_tax\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Profit before Tax\",\"figure_text\":\"96.9\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"pdf_page_index\":1,\"printed_page_number\":\"27\",\"statement\":\"INCOME STATEMENT\",\"period_end\":\"2024-12-31\",\"note_reference\":\"\"},{\"key\":\"cash_at_bank\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Cash and cash equivalents\",\"figure_text\":\"221.5\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"pdf_page_index\":2,\"printed_page_number\":\"30\",\"statement\":\"BALANCE SHEET\",\"period_end\":\"2024-12-31\",\"note_reference\":\"18\"},{\"key\":\"borrowings_within_one_year\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"borrowings_after_one_year\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"lease_liabilities_total\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total\",\"figure_text\":\"(2,668.3)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"pdf_page_index\":3,\"printed_page_number\":\"54\",\"statement\":\"21 LEASE LIABILITIES\",\"period_end\":\"2024-12-31\",\"note_reference\":\"21\"},{\"key\":\"lease_liabilities_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Amounts falling due within one year\",\"figure_text\":\"(89.7)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"pdf_page_index\":3,\"printed_page_number\":\"54\",\"statement\":\"21 LEASE LIABILITIES\",\"period_end\":\"2024-12-31\",\"note_reference\":\"21\"},{\"key\":\"lease_liabilities_non_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Amounts falling after one year\",\"figure_text\":\"(2,578.6)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"pdf_page_index\":3,\"printed_page_number\":\"54\",\"statement\":\"21 LEASE LIABILITIES\",\"period_end\":\"2024-12-31\",\"note_reference\":\"21\"},{\"key\":\"preference_shares\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"shareholder_loans\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"},{\"key\":\"net_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"NET ASSETS\",\"figure_text\":\"372.1\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"pdf_page_index\":2,\"printed_page_number\":\"30\",\"statement\":\"BALANCE SHEET\",\"period_end\":\"2024-12-31\",\"note_reference\":\"\"},{\"key\":\"total_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"TOTAL ASSETS\",\"figure_text\":\"3,269.1\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"pdf_page_index\":2,\"printed_page_number\":\"30\",\"statement\":\"BALANCE SHEET\",\"period_end\":\"2024-12-31\",\"note_reference\":\"\"},{\"key\":\"current_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"CURRENT LIABILITIES\",\"figure_text\":\"(316.5)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"pdf_page_index\":2,\"printed_page_number\":\"30\",\"statement\":\"BALANCE SHEET\",\"period_end\":\"2024-12-31\",\"note_reference\":\"\"},{\"key\":\"net_current_liabilities\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"pdf_page_index\":0,\"printed_page_number\":\"\",\"statement\":\"\",\"period_end\":\"\",\"note_reference\":\"\"}],\"debt_note\":{\"status\":\"abstain\",\"abstain_reason\":\"no-borrowings-note-in-excerpt; only lease liabilities are presented\",\"scale_caption\":\"\",\"pdf_page_indexes\":[],\"facilities\":[],\"maturity_buckets\":[]}}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 8837,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 2536,
+     "output_tokens_details": {
+      "thinking_tokens": 360
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   }
+  },
+  {
+   "stage": "second-read",
+   "model": "claude-opus-5",
+   "requestSha256": "5bff1a9e236668d59fe5587499f69f1a76110d58aad96da1bac098f189dc81d3",
+   "version": "v4/schema 4",
+   "recordedAt": "2026-09-27T22:49:05.885Z",
+   "gbp": 0.092,
+   "source": "eval:uk:live",
+   "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CfUkyeWnQFtz2HQykr8EF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "text",
+      "text": "{\"lines\":[{\"key\":\"turnover\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Revenue\",\"figure_text\":\"1,008.0\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"Total\",\"header_rows_above\":[\"2024\"],\"period_end\":\"2024-12-31\",\"excerpt_page\":1,\"statement\":\"INCOME STATEMENT FOR THE YEAR ENDED 31 DECEMBER 2024\",\"basis\":\"company\",\"basis_text\":\"TRAVELODGE HOTELS LIMITED\"},{\"key\":\"operating_profit\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Operating Profit\",\"figure_text\":\"257.7\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"Total\",\"header_rows_above\":[\"2024\"],\"period_end\":\"2024-12-31\",\"excerpt_page\":1,\"statement\":\"INCOME STATEMENT FOR THE YEAR ENDED 31 DECEMBER 2024\",\"basis\":\"company\",\"basis_text\":\"TRAVELODGE HOTELS LIMITED\"},{\"key\":\"depreciation_amortisation\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Depreciation & amortisation\",\"figure_text\":\"(174.4)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"Total\",\"header_rows_above\":[\"2024\"],\"period_end\":\"2024-12-31\",\"excerpt_page\":1,\"statement\":\"INCOME STATEMENT FOR THE YEAR ENDED 31 DECEMBER 2024\",\"basis\":\"company\",\"basis_text\":\"TRAVELODGE HOTELS LIMITED\"},{\"key\":\"interest_payable\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Finance costs\",\"figure_text\":\"(221.1)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"Total\",\"header_rows_above\":[\"2024\"],\"period_end\":\"2024-12-31\",\"excerpt_page\":1,\"statement\":\"INCOME STATEMENT FOR THE YEAR ENDED 31 DECEMBER 2024\",\"basis\":\"company\",\"basis_text\":\"TRAVELODGE HOTELS LIMITED\"},{\"key\":\"profit_before_tax\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Profit before Tax\",\"figure_text\":\"96.9\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"Total\",\"header_rows_above\":[\"2024\"],\"period_end\":\"2024-12-31\",\"excerpt_page\":1,\"statement\":\"INCOME STATEMENT FOR THE YEAR ENDED 31 DECEMBER 2024\",\"basis\":\"company\",\"basis_text\":\"TRAVELODGE HOTELS LIMITED\"},{\"key\":\"cash_at_bank\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Cash and cash equivalents\",\"figure_text\":\"221.5\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"2024\",\"header_rows_above\":[],\"period_end\":\"2024-12-31\",\"excerpt_page\":2,\"statement\":\"BALANCE SHEET AS AT 31 DECEMBER 2024\",\"basis\":\"company\",\"basis_text\":\"TRAVELODGE HOTELS LIMITED\"},{\"key\":\"lease_liabilities_total\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Total\",\"figure_text\":\"(2,668.3)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"2024\",\"header_rows_above\":[],\"period_end\":\"2024-12-31\",\"excerpt_page\":3,\"statement\":\"21 LEASE LIABILITIES\",\"basis\":\"company\",\"basis_text\":\"NOTES TO THE FINANCIAL STATEMENTS (continued)\"},{\"key\":\"lease_liabilities_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Amounts falling due within one year\",\"figure_text\":\"(89.7)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"2024\",\"header_rows_above\":[],\"period_end\":\"2024-12-31\",\"excerpt_page\":3,\"statement\":\"21 LEASE LIABILITIES\",\"basis\":\"company\",\"basis_text\":\"NOTES TO THE FINANCIAL STATEMENTS (continued)\"},{\"key\":\"lease_liabilities_non_current\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"Amounts falling after one year\",\"figure_text\":\"(2,578.6)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"2024\",\"header_rows_above\":[],\"period_end\":\"2024-12-31\",\"excerpt_page\":3,\"statement\":\"21 LEASE LIABILITIES\",\"basis\":\"company\",\"basis_text\":\"NOTES TO THE FINANCIAL STATEMENTS (continued)\"},{\"key\":\"net_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"NET ASSETS\",\"figure_text\":\"372.1\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"2024\",\"header_rows_above\":[],\"period_end\":\"2024-12-31\",\"excerpt_page\":2,\"statement\":\"BALANCE SHEET AS AT 31 DECEMBER 2024\",\"basis\":\"company\",\"basis_text\":\"TRAVELODGE HOTELS LIMITED\"},{\"key\":\"total_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"TOTAL ASSETS\",\"figure_text\":\"3,269.1\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"2024\",\"header_rows_above\":[],\"period_end\":\"2024-12-31\",\"excerpt_page\":2,\"statement\":\"BALANCE SHEET AS AT 31 DECEMBER 2024\",\"basis\":\"company\",\"basis_text\":\"TRAVELODGE HOTELS LIMITED\"},{\"key\":\"current_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"CURRENT LIABILITIES\",\"figure_text\":\"(316.5)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"header_scale_caption\":\"£m\",\"header_currency\":\"£\",\"column_heading\":\"2024\",\"header_rows_above\":[],\"period_end\":\"2024-12-31\",\"excerpt_page\":2,\"statement\":\"BALANCE SHEET AS AT 31 DECEMBER 2024\",\"basis\":\"company\",\"basis_text\":\"TRAVELODGE HOTELS LIMITED\"}],\"tie_lines\":[{\"role\":\"total_equity\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"TOTAL EQUITY\",\"figure_text\":\"372.1\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"column_heading\":\"2024\",\"period_end\":\"2024-12-31\",\"excerpt_page\":2},{\"role\":\"total_liabilities\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"TOTAL LIABILITIES\",\"figure_text\":\"(2,897.0)\",\"sign\":\"negative\",\"scale_caption\":\"£m\",\"column_heading\":\"2024\",\"period_end\":\"2024-12-31\",\"excerpt_page\":2},{\"role\":\"current_assets\",\"status\":\"found\",\"abstain_reason\":\"\",\"printed_label\":\"CURRENT ASSETS\",\"figure_text\":\"811.2\",\"sign\":\"positive\",\"scale_caption\":\"£m\",\"column_heading\":\"2024\",\"period_end\":\"2024-12-31\",\"excerpt_page\":2},{\"role\":\"borrowings_total\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"column_heading\":\"\",\"period_end\":\"\",\"excerpt_page\":0},{\"role\":\"net_debt\",\"status\":\"abstain\",\"abstain_reason\":\"not-printed\",\"printed_label\":\"\",\"figure_text\":\"\",\"sign\":\"none\",\"scale_caption\":\"\",\"column_heading\":\"\",\"period_end\":\"\",\"excerpt_page\":0}]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 8747,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 2851,
+     "output_tokens_details": {
+      "thinking_tokens": 0
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   }
+  }
+ ]
+}
